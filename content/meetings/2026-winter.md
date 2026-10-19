@@ -23,7 +23,7 @@ A one-day meeting on how structural biologists study proteins that move, from NM
 
 **[Registration is open](https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=161036&eventID=388)**: £80, including refreshments, lunch, and drinks at the evening poster session. Places are limited to 120.
 
-- **20 November 2026, 17:00:** abstract deadline for short-talk selection. Short talks are chosen from abstracts received by then; later abstracts can still be presented as posters
+- **20 November 2026, 17:00:** abstract deadline for short-talk selection. Short talks are chosen from abstracts received by then; later abstracts might still be presented as posters
 - **26 November 2026, 17:00:** registration closes
 
 Poster prizes will be awarded at the end of the day.
