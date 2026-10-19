@@ -23,7 +23,7 @@ A one-day meeting on how structural biologists study proteins that move, from NM
 
 **[Registration is open](https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=161036&eventID=388)**: £80, including refreshments, lunch, and drinks at the evening poster session. Places are limited to 120.
 
-- **20 November 2026, 17:00:** deadline for abstracts for short talks selected from posters
+- **20 November 2026, 17:00:** abstract deadline for short-talk selection. Short talks are chosen from abstracts received by then; later abstracts can still be presented as posters
 - **26 November 2026, 17:00:** registration closes
 
 Poster prizes will be awarded at the end of the day.
@@ -38,16 +38,16 @@ Poster prizes will be awarded at the end of the day.
 | 11:00 | Introductory remarks |
 | **11:05** | **Session 1** |
 | 11:05 | John Christodoulou (University College London) |
-| 11:35 | Short talks selected from posters |
+| 11:35 | Short talks selected from abstracts |
 | 12:15 | Rebecca Beveridge (University of Strathclyde): *Ion mobility mass spectrometry insights into dynamic protein complexes and conformations* |
 | 12:45 | Lunch and poster session |
 | **14:00** | **Session 2** |
 | 14:00 | Sarah Rouse (Imperial College London): *Modulation of GPCRs by cardiolipin* |
-| 14:30 | Short talk selected from posters |
+| 14:30 | Short talk selected from abstracts |
 | 14:50 | Cyril Dominguez (University of Leicester): *Structure and dynamics of the RNA-binding protein Sam68* |
 | 15:20 | Coffee |
 | **15:45** | **Session 3** |
-| 15:45 | Short talks selected from posters |
+| 15:45 | Short talks selected from abstracts |
 | 16:25 | **Keynote lecture:** Prof. Matthew Higgins (University of Oxford): *Structural dynamics of host–parasite interactions in malaria* |
 | 17:00 | Drinks, posters and prizes |
 | 18:15 | Close |
