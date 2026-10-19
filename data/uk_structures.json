@@ -1,6 +1,281 @@
 {
- "updated": "2026-10-12",
+ "updated": "2026-10-19",
  "entries": [
+  {
+   "id": "SASD2Y8",
+   "db": "SASBDB",
+   "title": "Third fibronectin type III domain of rat β4 integrin with N-terminal His-tag",
+   "method": "Bio-SAXS",
+   "techniques": [
+    "saxs"
+   ],
+   "released": "2026-10-14",
+   "reasons": [
+    "Measured at Diamond Light Source B21"
+   ],
+   "url": "https://www.sasbdb.org/data/SASD2Y8/",
+   "paper": {
+    "title": "Direct Binding of the Flexible C-Terminal Segment of Periaxin to β4 Integrin Suggests a Molecular Basis for CMT4F",
+    "journal": "Front Mol Neurosci",
+    "year": "2019",
+    "doi": "10.3389/fnmol.2019.00084",
+    "authors": "Raasakka A … Kursula P"
+   }
+  },
+  {
+   "id": "SASD2X8",
+   "db": "SASBDB",
+   "title": "Acidic C-terminal region of periaxin, long isoform; Third fibronectin type III domain of rat β4 integrin with N-terminal His-tag",
+   "method": "Bio-SAXS",
+   "techniques": [
+    "saxs"
+   ],
+   "released": "2026-10-14",
+   "reasons": [
+    "Measured at Diamond Light Source B21"
+   ],
+   "url": "https://www.sasbdb.org/data/SASD2X8/",
+   "paper": {
+    "title": "Direct Binding of the Flexible C-Terminal Segment of Periaxin to β4 Integrin Suggests a Molecular Basis for CMT4F",
+    "journal": "Front Mol Neurosci",
+    "year": "2019",
+    "doi": "10.3389/fnmol.2019.00084",
+    "authors": "Raasakka A … Kursula P"
+   }
+  },
+  {
+   "id": "SASD2N7",
+   "db": "SASBDB",
+   "title": "Acidic C-terminal region of periaxin, long isoform",
+   "method": "Bio-SAXS",
+   "techniques": [
+    "saxs"
+   ],
+   "released": "2026-10-14",
+   "reasons": [
+    "Measured at Diamond Light Source B21"
+   ],
+   "url": "https://www.sasbdb.org/data/SASD2N7/",
+   "paper": {
+    "title": "Direct Binding of the Flexible C-Terminal Segment of Periaxin to β4 Integrin Suggests a Molecular Basis for CMT4F",
+    "journal": "Front Mol Neurosci",
+    "year": "2019",
+    "doi": "10.3389/fnmol.2019.00084",
+    "authors": "Raasakka A … Kursula P"
+   }
+  },
+  {
+   "id": "9SW9",
+   "db": "PDB",
+   "title": "Crystal Structure of Phenylalanine Ammonia Lyase (PAL) from Petroselinum crispum bound to p-Nitrocinnamic acid",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-14",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9sw9",
+   "image": "images/latest/9sw9.jpeg",
+   "resolution": 1.95,
+   "paper": {
+    "title": "Crystal Structure of Phenylalanine Ammonia Lyase (PAL) from Petroselinum crispum bound to p-Nitrocinnamic acid",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Lang, P.A. … Brem, J."
+   }
+  },
+  {
+   "id": "9QR9",
+   "db": "PDB",
+   "title": "ChiLob 7/4 hIgG1 HC-K219C F(ab')2",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-14",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9qr9",
+   "image": "images/latest/9qr9.jpeg",
+   "resolution": 3.49,
+   "paper": {
+    "title": "Disulfide engineering as an approach to reduce conformational flexibility of immunostimulatory antibodies to enhance receptor agonism",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Elliott, I.G. … Cragg, M.S."
+   }
+  },
+  {
+   "id": "29BY",
+   "db": "PDB",
+   "title": "Cryo-EM structure of human DHX9 in complex with ATX-968 and ADP.",
+   "method": "Cryo-EM",
+   "techniques": [
+    "cryo-em"
+   ],
+   "released": "2026-10-14",
+   "reasons": [
+    "UK-funded"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/29by",
+   "image": "images/latest/29by.jpeg",
+   "resolution": 2.8,
+   "emdb": [
+    "EMD-57068"
+   ],
+   "paper": {
+    "title": "Fragment-Based Discovery of Potent RNA-Competitive Inhibitors of the DEAH-Box RNA Helicase DHX8",
+    "journal": "J.Med.Chem.",
+    "year": 2026,
+    "doi": "10.1021/acs.jmedchem.6c00732",
+    "authors": "Read, B.J. … van Montfort, R.L.M."
+   }
+  },
+  {
+   "id": "14CQ",
+   "db": "PDB",
+   "title": "Structure of liver pyruvate kinase in complex with allosteric activator 8c",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-14",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/14cq",
+   "image": "images/latest/14cq.jpeg",
+   "resolution": 2.18,
+   "paper": {
+    "title": "Symmetry-Guided Fusion Converts Weak Liver Pyruvate Kinase inhibitors into potent Allosteric Activators",
+    "journal": "Rsc Med Chem",
+    "year": 2026,
+    "doi": "10.1039/D6MD00604C",
+    "authors": "Monjas, L. … Grotli, M."
+   }
+  },
+  {
+   "id": "14CP",
+   "db": "PDB",
+   "title": "Structure of liver pyruvate kinase in complex with allosteric activator 8b",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-14",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/14cp",
+   "image": "images/latest/14cp.jpeg",
+   "resolution": 1.81,
+   "paper": {
+    "title": "Symmetry-Guided Fusion Converts Weak Liver Pyruvate Kinase inhibitors into potent Allosteric Activators",
+    "journal": "Rsc Med Chem",
+    "year": 2026,
+    "doi": "10.1039/D6MD00604C",
+    "authors": "Monjas, L. … Grotli, M."
+   }
+  },
+  {
+   "id": "14CO",
+   "db": "PDB",
+   "title": "Structure of liver pyruvate kinase in complex with allosteric activator 8a",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-14",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/14co",
+   "image": "images/latest/14co.jpeg",
+   "resolution": 1.89,
+   "paper": {
+    "title": "Symmetry-Guided Fusion Converts Weak Liver Pyruvate Kinase inhibitors into potent Allosteric Activators",
+    "journal": "Rsc Med Chem",
+    "year": 2026,
+    "doi": "10.1039/D6MD00604C",
+    "authors": "Monjas, L. … Grotli, M."
+   }
+  },
+  {
+   "id": "14CN",
+   "db": "PDB",
+   "title": "Structure of liver pyruvate kinase in complex with allosteric site fragment S4",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-14",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/14cn",
+   "image": "images/latest/14cn.jpeg",
+   "resolution": 1.93,
+   "paper": {
+    "title": "Symmetry-Guided Fusion Converts Weak Liver Pyruvate Kinase inhibitors into potent Allosteric Activators",
+    "journal": "Rsc Med Chem",
+    "year": 2026,
+    "doi": "10.1039/D6MD00604C",
+    "authors": "Monjas, L. … Grotli, M."
+   }
+  },
+  {
+   "id": "14CM",
+   "db": "PDB",
+   "title": "Structure of liver pyruvate kinase in complex with allosteric site fragment S3",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-14",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/14cm",
+   "image": "images/latest/14cm.jpeg",
+   "resolution": 1.99,
+   "paper": {
+    "title": "Symmetry-Guided Fusion Converts Weak Liver Pyruvate Kinase inhibitors into potent Allosteric Activators",
+    "journal": "Rsc Med Chem",
+    "year": 2026,
+    "doi": "10.1039/D6MD00604C",
+    "authors": "Monjas, L. … Grotli, M."
+   }
+  },
+  {
+   "id": "14CK",
+   "db": "PDB",
+   "title": "Structure of liver pyruvate kinase in complex with mitapivat",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-14",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/14ck",
+   "image": "images/latest/14ck.jpeg",
+   "resolution": 1.95,
+   "paper": {
+    "title": "Symmetry-Guided Fusion Converts Weak Liver Pyruvate Kinase inhibitors into potent Allosteric Activators",
+    "journal": "Rsc Med Chem",
+    "year": 2026,
+    "doi": "10.1039/D6MD00604C",
+    "authors": "Monjas, L. … Grotli, M."
+   }
+  },
   {
    "id": "9TXB",
    "db": "PDB",
@@ -1186,283 +1461,6 @@
     "year": 2026,
     "doi": "10.64898/2026.06.08.730854",
     "authors": "Harding, C.J. … Mukherjee, S."
-   }
-  },
-  {
-   "id": "30XH",
-   "db": "PDB",
-   "title": "A C-terminal Processing Protease Links Flagellin Turnover to Developmental Progression in a Bacterial Predator",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-09-23",
-   "reasons": [
-    "UK-funded",
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/30xh",
-   "image": "images/latest/30xh.jpeg",
-   "resolution": 2.04,
-   "paper": {
-    "title": "A C-terminal Processing Protease Links Flagellin Turnover to Developmental Progression in a Bacterial Predator",
-    "journal": "To Be Published",
-    "year": 2026,
-    "doi": "10.64898/2026.06.08.730854",
-    "authors": "Harding, C.J. … Mukherjee, S."
-   }
-  },
-  {
-   "id": "29LV",
-   "db": "PDB",
-   "title": "PanDDA analysis - Crystal structure of the Ubiquitin conjugating enzyme 4 from Leishmania major (LmUbC4) in complex with Z55290386",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-09-23",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/29lv",
-   "image": "images/latest/29lv.jpeg",
-   "resolution": 2.0,
-   "paper": {
-    "title": "UbC4 from Leishmania is a Druggable E2 Ubiquitin Conjugating Enzyme: Structural Basis and Fragment Hits for Future E2-Recruiting PROTAC Development",
-    "journal": "Acs Omega",
-    "year": 2026,
-    "doi": "10.1021/acsomega.6c05158",
-    "authors": "Exertier, C. … Ilari, A."
-   }
-  },
-  {
-   "id": "29LU",
-   "db": "PDB",
-   "title": "PanDDA analysis - Crystal structure of the Ubiquitin conjugating enzyme 4 from Leishmania major (LmUbC4) in complex with Z3765495818",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-09-23",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/29lu",
-   "image": "images/latest/29lu.jpeg",
-   "resolution": 2.07,
-   "paper": {
-    "title": "UbC4 from Leishmania is a Druggable E2 Ubiquitin Conjugating Enzyme: Structural Basis and Fragment Hits for Future E2-Recruiting PROTAC Development",
-    "journal": "Acs Omega",
-    "year": 2026,
-    "doi": "10.1021/acsomega.6c05158",
-    "authors": "Exertier, C. … Ilari, A."
-   }
-  },
-  {
-   "id": "29LT",
-   "db": "PDB",
-   "title": "PanDDA analysis - Crystal structure of the Ubiquitin conjugating enzyme 4 from Leishmania major (LmUbC4) in complex with Z270760338",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-09-23",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/29lt",
-   "image": "images/latest/29lt.jpeg",
-   "resolution": 2.18,
-   "paper": {
-    "title": "UbC4 from Leishmania is a Druggable E2 Ubiquitin Conjugating Enzyme: Structural Basis and Fragment Hits for Future E2-Recruiting PROTAC Development",
-    "journal": "Acs Omega",
-    "year": 2026,
-    "doi": "10.1021/acsomega.6c05158",
-    "authors": "Exertier, C. … Ilari, A."
-   }
-  },
-  {
-   "id": "29LS",
-   "db": "PDB",
-   "title": "PanDDA analysis - Crystal structure of the Ubiquitin conjugating enzyme 4 from Leishmania major (LmUbC4) in complex with Z240654968",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-09-23",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/29ls",
-   "image": "images/latest/29ls.jpeg",
-   "resolution": 2.22,
-   "paper": {
-    "title": "UbC4 from Leishmania is a Druggable E2 Ubiquitin Conjugating Enzyme: Structural Basis and Fragment Hits for Future E2-Recruiting PROTAC Development",
-    "journal": "Acs Omega",
-    "year": 2026,
-    "doi": "10.1021/acsomega.6c05158",
-    "authors": "Exertier, C. … Ilari, A."
-   }
-  },
-  {
-   "id": "29LR",
-   "db": "PDB",
-   "title": "PanDDA analysis - Crystal structure of the Ubiquitin conjugating enzyme 4 from Leishmania major (LmUbC4) in complex with Z18197050",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-09-23",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/29lr",
-   "image": "images/latest/29lr.jpeg",
-   "resolution": 2.37,
-   "paper": {
-    "title": "UbC4 from Leishmania is a Druggable E2 Ubiquitin Conjugating Enzyme: Structural Basis and Fragment Hits for Future E2-Recruiting PROTAC Development",
-    "journal": "Acs Omega",
-    "year": 2026,
-    "doi": "10.1021/acsomega.6c05158",
-    "authors": "Exertier, C. … Ilari, A."
-   }
-  },
-  {
-   "id": "29LQ",
-   "db": "PDB",
-   "title": "PanDDA analysis - Crystal structure of the Ubiquitin conjugating enzyme 4 from Leishmania major (LmUbC4) in complex with Z1639162606",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-09-23",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/29lq",
-   "image": "images/latest/29lq.jpeg",
-   "resolution": 2.0,
-   "paper": {
-    "title": "UbC4 from Leishmania is a Druggable E2 Ubiquitin Conjugating Enzyme: Structural Basis and Fragment Hits for Future E2-Recruiting PROTAC Development",
-    "journal": "Acs Omega",
-    "year": 2026,
-    "doi": "10.1021/acsomega.6c05158",
-    "authors": "Exertier, C. … Ilari, A."
-   }
-  },
-  {
-   "id": "29LP",
-   "db": "PDB",
-   "title": "PanDDA analysis - Crystal structure of the Ubiquitin conjugating enzyme 4 from Leishmania major (LmUbC4) in complex with Z1428159350",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-09-23",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/29lp",
-   "image": "images/latest/29lp.jpeg",
-   "resolution": 2.16,
-   "paper": {
-    "title": "UbC4 from Leishmania is a Druggable E2 Ubiquitin Conjugating Enzyme: Structural Basis and Fragment Hits for Future E2-Recruiting PROTAC Development",
-    "journal": "Acs Omega",
-    "year": 2026,
-    "doi": "10.1021/acsomega.6c05158",
-    "authors": "Exertier, C. … Ilari, A."
-   }
-  },
-  {
-   "id": "29LO",
-   "db": "PDB",
-   "title": "PanDDA analysis - Crystal structure of the Ubiquitin conjugating enzyme 4 from Leishmania major (LmUbC4) in complex with Z1269184613",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-09-23",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/29lo",
-   "image": "images/latest/29lo.jpeg",
-   "resolution": 2.19,
-   "paper": {
-    "title": "UbC4 from Leishmania is a Druggable E2 Ubiquitin Conjugating Enzyme: Structural Basis and Fragment Hits for Future E2-Recruiting PROTAC Development",
-    "journal": "Acs Omega",
-    "year": 2026,
-    "doi": "10.1021/acsomega.6c05158",
-    "authors": "Exertier, C. … Ilari, A."
-   }
-  },
-  {
-   "id": "29LN",
-   "db": "PDB",
-   "title": "PanDDA analysis - Crystal structure of the Ubiquitin conjugating enzyme 4 from Leishmania major (LmUbC4) in complex with Z111782404",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-09-23",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/29ln",
-   "image": "images/latest/29ln.jpeg",
-   "resolution": 2.33,
-   "paper": {
-    "title": "UbC4 from Leishmania is a Druggable E2 Ubiquitin Conjugating Enzyme: Structural Basis and Fragment Hits for Future E2-Recruiting PROTAC Development",
-    "journal": "Acs Omega",
-    "year": 2026,
-    "doi": "10.1021/acsomega.6c05158",
-    "authors": "Exertier, C. … Ilari, A."
-   }
-  },
-  {
-   "id": "29LM",
-   "db": "PDB",
-   "title": "PanDDA analysis - Crystal structure of the Ubiquitin conjugating enzyme 4 from Leishmania major (LmUbC4) in complex with Z104474512",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-09-23",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/29lm",
-   "image": "images/latest/29lm.jpeg",
-   "resolution": 2.33,
-   "paper": {
-    "title": "UbC4 from Leishmania is a Druggable E2 Ubiquitin Conjugating Enzyme: Structural Basis and Fragment Hits for Future E2-Recruiting PROTAC Development",
-    "journal": "Acs Omega",
-    "year": 2026,
-    "doi": "10.1021/acsomega.6c05158",
-    "authors": "Exertier, C. … Ilari, A."
-   }
-  },
-  {
-   "id": "29KL",
-   "db": "PDB",
-   "title": "Crystal structure of Human Catenin Beta-1 in complex with cyclic beta sheet peptide inhibitor",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-09-23",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/29kl",
-   "image": "images/latest/29kl.jpeg",
-   "resolution": 2.09,
-   "paper": {
-    "title": "To be decided please",
-    "journal": "To Be Published",
-    "year": 2026,
-    "doi": "10.1002/ceur.70357",
-    "authors": "Klintrot, C.I.R. … Grossmann, T.N."
    }
   }
  ]
