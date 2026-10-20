@@ -206,3 +206,14 @@ events:
   - cryo-em
   - biophysics
   description: Long-running international conference on protein structure and function.
+- title: Physics of Life 2027
+  organiser: Institute of Physics (IOP) with the British Biophysical Society and partners
+  url: https://iop-physics-of-life-2027.eventsairsite.com/
+  start: '2027-03-22'
+  end: '2027-03-25'
+  location: Edinburgh International Conference Centre, Edinburgh, UK
+  techniques:
+  - biophysics
+  - imaging
+  - modelling-ai
+  description: "The third biennial UK conference on biological physics, organised by the Physics of Life Network, the IOP Biological Physics Group, the British Biophysical Society and partners. Parallel sessions of interest to structural biologists include Protein Structure, Dynamics and Interactions (speakers include Briony Yorke and Alice Pyne), Imaging and Single Molecule Biology, and Biomolecular Assemblies and Condensates. Oral abstracts by 13 December 2026, poster abstracts by 22 January 2027, early-bird registration by 19 February 2027."
