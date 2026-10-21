@@ -24,7 +24,7 @@ Then open http://localhost:1313/.
 - `assets/css/main.css` — Tailwind entry point and BSG colour palette
 - `.github/workflows/deploy.yml` — build and deploy to GitHub Pages
 
-While `params.noindex` is `true` in `hugo.yaml`, the site asks search engines not to index it.
+Setting `params.noindex: true` in `hugo.yaml` asks search engines not to index the site (it is `false` since launch).
 
 ## Content model
 
@@ -61,11 +61,11 @@ Committee members edit the site in the browser at [app.pagescms.org](https://app
 
 ## Search engines and sharing
 
-Built in: a title and description on every page (from the `description` or `summary` fields, or generated for meetings), link previews for social media and email (`static/images/social-card.png`, or a page's own image), structured data (organisation on the home page, events for dated meetings, articles for news and structures), an automatic sitemap with last-updated dates, and redirects from the old site's page names (`/organisation.html` and so on). `handover/old-site-stub/` holds the pages to put on the old site at launch.
+Built in: a title and description on every page (from the `description` or `summary` fields, or generated for meetings), link previews for social media and email (`static/images/social-card.png`, or a page's own image), structured data (organisation on the home page, events for dated meetings, articles for news and structures), an automatic sitemap with last-updated dates, and redirects from the old site's page names (`/organisation.html` and so on). `handover/old-site-stub/` holds the signpost pages now served on the old site.
 
 ## Going live (approved October 2026)
 
 1. Done (6 October 2026): `params.noindex: false` in `hugo.yaml` lets search engines in, adds the sitemap to `robots.txt` and removes the "draft mockup" footer notice.
 2. Add the site to [Google Search Console](https://search.google.com/search-console) and [Bing Webmaster Tools](https://www.bing.com/webmasters), verified by a DNS TXT record, and submit `https://biostructures.org.uk/sitemap.xml`.
-3. Replace the old site's pages with `handover/old-site-stub/`.
-4. Ask the BCA and partner sites to link to the new address (see the link-sharing plan in the project brief).
+3. Done (15 October 2026): the old site's pages signpost or redirect to the matching pages here.
+4. Ask the BCA and partner sites (IUCr, CCP4, CCP-EM, Instruct-ERIC, facilities) to link to the new address.
