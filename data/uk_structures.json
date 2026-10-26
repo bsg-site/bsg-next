@@ -1,6 +1,629 @@
 {
- "updated": "2026-10-19",
+ "updated": "2026-10-26",
  "entries": [
+  {
+   "id": "9TNI",
+   "db": "PDB",
+   "title": "Crystal structure of Mycobacterium abscessus Phosphopantetheine adenylyltransferase in complex with inhibitor",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-21",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9tni",
+   "image": "images/latest/9tni.jpeg",
+   "resolution": 1.59,
+   "paper": {
+    "title": "Targeting Phosphopantetheine adenylyltransferase from Mycobacterium abscessus by divergent fragment elaboration strategies",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Thomas, S.E. … Floto, R.A."
+   }
+  },
+  {
+   "id": "9TNH",
+   "db": "PDB",
+   "title": "Crystal structure of Mycobacterium abscessus Phosphopantetheine adenylyltransferase in complex with inhibitor",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-21",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9tnh",
+   "image": "images/latest/9tnh.jpeg",
+   "resolution": 1.77,
+   "paper": {
+    "title": "Targeting Phosphopantetheine adenylyltransferase from Mycobacterium abscessus by divergent fragment elaboration strategies",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Thomas, S.E. … Floto, R.A."
+   }
+  },
+  {
+   "id": "9TH5",
+   "db": "PDB",
+   "title": "Crystal structure of Mycobacterium abscessus Phosphopantetheine adenylyl transferase in complex with inhibitor",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-21",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9th5",
+   "image": "images/latest/9th5.jpeg",
+   "resolution": 2.48,
+   "paper": {
+    "title": "Targeting Phosphopantetheine adenylyltransferase from Mycobacterium abscessus by divergent fragment elaboration strategies",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Thomas, S.E. … Floto, R.A."
+   }
+  },
+  {
+   "id": "9T6F",
+   "db": "PDB",
+   "title": "Crystal structure of Mycobacterium abscessus Phosphopantetheine adenylyltransferase in complex with inhibitor",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-21",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9t6f",
+   "image": "images/latest/9t6f.jpeg",
+   "resolution": 1.42,
+   "paper": {
+    "title": "Targeting Phosphopantetheine adenylyltransferase from Mycobacterium abscessus by divergent fragment elaboration strategies",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Thomas, S.E. … Floto, R.A."
+   }
+  },
+  {
+   "id": "9T60",
+   "db": "PDB",
+   "title": "Crystal structure of Mycobacterium abscessus Phosphopantetheine adenylyltransferase in complex with inhibitor",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-21",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9t60",
+   "image": "images/latest/9t60.jpeg",
+   "resolution": 1.4,
+   "paper": {
+    "title": "Targeting Phosphopantetheine adenylyltransferase from Mycobacterium abscessus by divergent fragment elaboration strategies",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Thomas, S.E. … Floto, R.A."
+   }
+  },
+  {
+   "id": "9T5Y",
+   "db": "PDB",
+   "title": "Crystal structure of Mycobacterium abscessus Phosphopantetheine adenylyltransferase in complex with inhibitor",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-21",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9t5y",
+   "image": "images/latest/9t5y.jpeg",
+   "resolution": 1.48,
+   "paper": {
+    "title": "Targeting Phosphopantetheine adenylyltransferase from Mycobacterium abscessus by divergent fragment elaboration strategies",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Thomas, S.E. … Floto, R.A."
+   }
+  },
+  {
+   "id": "9SYB",
+   "db": "PDB",
+   "title": "Dishevelled 2 PDZ domain in complex with Frizzled 4 peptide",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-21",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9syb",
+   "image": "images/latest/9syb.jpeg",
+   "resolution": 1.75,
+   "paper": {
+    "title": "Dishevelled 2 PDZ domain in complex with Frizzled 4 peptide",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Renko, M. … Gammons, M.V."
+   }
+  },
+  {
+   "id": "9SY9",
+   "db": "PDB",
+   "title": "Crystal structure of the diheme 4D2 (mutant T19D) with bound Fe(III) 2,4-diformyl deuteroporphyrin IX",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-21",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9sy9",
+   "image": "images/latest/9sy9.jpeg",
+   "resolution": 2.0,
+   "paper": {
+    "title": "Broad redox control of de novo cytochromes exerted through structurally conservative metalloporphyrin replacement",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Mellor, C. … Anderson, J.L.R."
+   }
+  },
+  {
+   "id": "9SY7",
+   "db": "PDB",
+   "title": "Crystal structure of Mycobacterium abscessus Phosphopantetheine adenylyltransferase in complex with inhibitor",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-21",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9sy7",
+   "image": "images/latest/9sy7.jpeg",
+   "resolution": 1.65,
+   "paper": {
+    "title": "Targeting Phosphopantetheine adenylyltransferase from Mycobacterium abscessus by divergent fragment elaboration strategies",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Thomas, S.E. … Floto, R.A."
+   }
+  },
+  {
+   "id": "9SXA",
+   "db": "PDB",
+   "title": "Dishevelled 2 PDZ domain",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-21",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9sxa",
+   "image": "images/latest/9sxa.jpeg",
+   "resolution": 1.49,
+   "paper": {
+    "title": "Dishevelled 2 PDZ domain",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Renko, M. … Gammons, M.V."
+   }
+  },
+  {
+   "id": "45CX",
+   "db": "PDB",
+   "title": "CRYSTAL STRUCTURE OF LYSYL-TRNA SYNTHETASE FROM PLASMODIUM FALCIPARUM COMPLEXED WITH LYS-AMS",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-21",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/45cx",
+   "image": "images/latest/45cx.jpeg",
+   "resolution": 2.87,
+   "paper": {
+    "title": "Dual-Site Binding of an Aminoacyl-Adenylate Mimetic Stabilizes an\nInactive Conformation of Plasmodium falciparum Lysyl-tRNA Synthetase",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Mittal, P. … Sharma, A."
+   }
+  },
+  {
+   "id": "35WM",
+   "db": "PDB",
+   "title": "Human Lysine Acetyltransferase KAT2B - Not Shipped",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-21",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/35wm",
+   "image": "images/latest/35wm.jpeg",
+   "resolution": 1.87,
+   "paper": {
+    "title": "An investigation on the feasibility of shipping protein crystals in plates for room temperature <em>in situ</em> data collection",
+    "journal": "Biorxiv",
+    "year": 2026,
+    "doi": "10.1101/2025.06.12.659325",
+    "authors": "Campomizzi, C.S. … Bowman, S.E."
+   }
+  },
+  {
+   "id": "35WL",
+   "db": "PDB",
+   "title": "Human Lysine Acetyltransferase KAT2B - Shipped",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-21",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/35wl",
+   "image": "images/latest/35wl.jpeg",
+   "resolution": 1.83,
+   "paper": {
+    "title": "An investigation on the feasibility of shipping protein crystals in plates for room temperature <em>in situ</em> data collection",
+    "journal": "Biorxiv",
+    "year": 2026,
+    "doi": "10.1101/2025.06.12.659325",
+    "authors": "Campomizzi, C.S. … Bowman, S.E."
+   }
+  },
+  {
+   "id": "34QD",
+   "db": "PDB",
+   "title": "The structure of the monoclinic crystal form of the type II ribosome inactivating protein from Winter Aconite Eranthis hyemalis.",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-21",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/34qd",
+   "image": "images/latest/34qd.jpeg",
+   "resolution": 1.4,
+   "paper": {
+    "title": "The Structure of the Type II Ribosome Inactivating Protein from Winter Aconite Eranthis hyemalis",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "McConnell, M.-T. … Palmer, R.A."
+   }
+  },
+  {
+   "id": "32DY",
+   "db": "PDB",
+   "title": "RAD52 N-terminal domain in complex with compound FORX-12-864",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-21",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/32dy",
+   "image": "images/latest/32dy.jpeg",
+   "resolution": 2.3,
+   "paper": {
+    "title": "Integrating Fragment Screening and Covalent Chemistry to Drug DNA-Binding Proteins: RAD52 as a Case Study",
+    "journal": "J.Am.Chem.Soc.",
+    "year": 2026,
+    "doi": "10.1021/jacs.6c16278",
+    "authors": "Bocquet, N. … Lucking, U."
+   }
+  },
+  {
+   "id": "32AJ",
+   "db": "PDB",
+   "title": "SARS-CoV2 KP.3 with fab JN.1-9 local refinement",
+   "method": "Cryo-EM",
+   "techniques": [
+    "cryo-em"
+   ],
+   "released": "2026-10-21",
+   "reasons": [
+    "UK-funded"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/32aj",
+   "image": "images/latest/32aj.jpeg",
+   "resolution": 3.2,
+   "emdb": [
+    "EMD-58749"
+   ],
+   "paper": {
+    "title": "Unusual broadly neutralising antibodies elicited by vaccine breakthrough infections by SARS-CoV-2 JN.1",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Duyvesteyn, H.M.E. … Ren, J."
+   }
+  },
+  {
+   "id": "31ZI",
+   "db": "PDB",
+   "title": "Crystal structure of RAD52 N-terminal domain in complex with fragment Z271005800",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-21",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/31zi",
+   "image": "images/latest/31zi.jpeg",
+   "resolution": 2.1,
+   "paper": {
+    "title": "Integrating Fragment Screening and Covalent Chemistry to Drug DNA-Binding Proteins: RAD52 as a Case Study",
+    "journal": "J.Am.Chem.Soc.",
+    "year": 2026,
+    "doi": "10.1021/jacs.6c16278",
+    "authors": "Bocquet, N. … Lucking, U."
+   }
+  },
+  {
+   "id": "31XQ",
+   "db": "PDB",
+   "title": "Crystal structure of RAD52 N-terminal domain in complex with fragment Z448237394",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-21",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/31xq",
+   "image": "images/latest/31xq.jpeg",
+   "resolution": 2.1,
+   "paper": {
+    "title": "Integrating Fragment Screening and Covalent Chemistry to Drug DNA-Binding Proteins: RAD52 as a Case Study",
+    "journal": "J.Am.Chem.Soc.",
+    "year": 2026,
+    "doi": "10.1021/jacs.6c16278",
+    "authors": "Bocquet, N. … Lucking, U."
+   }
+  },
+  {
+   "id": "30HW",
+   "db": "PDB",
+   "title": "Crystal structure of Apo OrthoTag",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-21",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/30hw",
+   "image": "images/latest/30hw.jpeg",
+   "resolution": 1.4,
+   "paper": {
+    "title": "Design and Evolution of an Orthogonal HaloTag for Multiplexed Labeling in Cells",
+    "journal": "Biorxiv",
+    "year": 2026,
+    "doi": "10.64898/2026.05.14.725131",
+    "authors": "Goldberg, B.J. … Kritzer, J.A."
+   }
+  },
+  {
+   "id": "29SU",
+   "db": "PDB",
+   "title": "BA3.2.2 SARS-CoV-2 Spike",
+   "method": "Cryo-EM",
+   "techniques": [
+    "cryo-em"
+   ],
+   "released": "2026-10-21",
+   "reasons": [
+    "UK-funded"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/29su",
+   "image": "images/latest/29su.jpeg",
+   "resolution": 2.8,
+   "emdb": [
+    "EMD-57358"
+   ],
+   "paper": {
+    "title": "Emerging SARS-CoV-2 variant BA.3.2 is more poorly neutralised by responses focussed on other contemporary strains",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Stuart, D.I. … Screaton, G."
+   }
+  },
+  {
+   "id": "29RE",
+   "db": "PDB",
+   "title": "SARS-CoV2 KP.3 with fab JN.1-10 local refinement",
+   "method": "Cryo-EM",
+   "techniques": [
+    "cryo-em"
+   ],
+   "released": "2026-10-21",
+   "reasons": [
+    "UK-funded"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/29re",
+   "image": "images/latest/29re.jpeg",
+   "resolution": 3.2,
+   "emdb": [
+    "EMD-57321"
+   ],
+   "paper": {
+    "title": "Structure of JN1-10 fab with KP.3 spike",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Duyvesteyn, H.M.E. … Ren, J."
+   }
+  },
+  {
+   "id": "29NT",
+   "db": "PDB",
+   "title": "Structure of old yellow enzyme (Kluyveromyces marxianus) at 1.7 Angstroms resolution | Mutant Y200F",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-21",
+   "reasons": [
+    "UK-funded"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/29nt",
+   "image": "images/latest/29nt.jpeg",
+   "resolution": 1.7,
+   "paper": {
+    "title": "Structure of old yellow enzyme (Kluyveromyces marxianus) at 1.7 Angstroms resolution | Mutant Y200F",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Molbitz, J. … Sanchez Lopez, M."
+   }
+  },
+  {
+   "id": "29NS",
+   "db": "PDB",
+   "title": "Structure of old yellow enzyme (Kluyveromyces marxianus) at 1.53 Angstroms resolution",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-21",
+   "reasons": [
+    "UK-funded"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/29ns",
+   "image": "images/latest/29ns.jpeg",
+   "resolution": 1.53,
+   "paper": {
+    "title": "Structure of old yellow enzyme (Wickerhamomyces ciferrii -  Uniprot: K0K9A1) at 1.6 Angstroms resolution",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Molbitz, J. … Sanchez Lopez, M."
+   }
+  },
+  {
+   "id": "29KH",
+   "db": "PDB",
+   "title": "Outer capsid of the ranavirus Frog Virus 3",
+   "method": "Cryo-EM",
+   "techniques": [
+    "cryo-em"
+   ],
+   "released": "2026-10-21",
+   "reasons": [
+    "UK-funded"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/29kh",
+   "image": "images/latest/29kh.jpeg",
+   "resolution": 3.0,
+   "emdb": [
+    "EMD-57237"
+   ],
+   "paper": {
+    "title": "Lessons for constructing and deconstructing giant viruses from the structure of Frog Virus 3",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Sandoval-Valencia, J.D. … Fry, E."
+   }
+  },
+  {
+   "id": "28NK",
+   "db": "PDB",
+   "title": "Crystal structure of Mycobacterium abscessus Phosphopantetheine adenylyltransferase in complex with inhibitor",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-21",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/28nk",
+   "image": "images/latest/28nk.jpeg",
+   "resolution": 1.73,
+   "paper": {
+    "title": "Targeting Phosphopantetheine adenylyltransferase from Mycobacterium abscessus by divergent fragment elaboration strategies",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Thomas, S.E. … Floto, R.A."
+   }
+  },
+  {
+   "id": "12WW",
+   "db": "PDB",
+   "title": "FGFR3 Kinase Domain with Inhibitor 4-[4-[3-chloro-4-[(1S)-1-(5-fluoro-2-pyridinyl)-2-hydroxyethoxy]pyrazolo[5-a]pyridin-6-yl]-5-methyltriazol-1-yl]piperidine-1-carbonitrile",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-21",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/12ww",
+   "image": "images/latest/12ww.jpeg",
+   "resolution": 2.04,
+   "paper": {
+    "title": "FGFR3 Kinase Domain with Inhibitor 4-[4-[3-chloro-4-[(1S)-1-(5-fluoro-2-pyridinyl)-2-hydroxyethoxy]pyrazolo[5-a]pyridin-6-yl]-5-methyltriazol-1-yl]piperidine-1-carbonitrile",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Nelson, K.J. … Bensen, D.C."
+   }
+  },
   {
    "id": "SASD2Y8",
    "db": "SASBDB",
@@ -817,650 +1440,6 @@
     "year": null,
     "doi": "",
     "authors": "Bradshaw, W.J. … Guenther, F."
-   }
-  },
-  {
-   "id": "34JX",
-   "db": "PDB",
-   "title": "IDOL RING domain in complex with PCM-0102126-001",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-07",
-   "reasons": [
-    "UK-funded",
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/34jx",
-   "image": "images/latest/34jx.jpeg",
-   "resolution": 1.53,
-   "paper": {
-    "title": "IDOL RING domain in complex with PCM-0102126-001",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Bradshaw, W.J. … Guenther, F."
-   }
-  },
-  {
-   "id": "34JW",
-   "db": "PDB",
-   "title": "IDOL RING domain in complex with Z1213725191",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-07",
-   "reasons": [
-    "UK-funded",
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/34jw",
-   "image": "images/latest/34jw.jpeg",
-   "resolution": 1.23,
-   "paper": {
-    "title": "IDOL RING domain in complex with Z1213725191",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Bradshaw, W.J. … Guenther, F."
-   }
-  },
-  {
-   "id": "9TMK",
-   "db": "PDB",
-   "title": "Structure of CYLD CAP-Gly2 bound to Listeria effector protein InlC",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-09-30",
-   "reasons": [
-    "UK-funded",
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9tmk",
-   "image": "images/latest/9tmk.jpeg",
-   "resolution": 1.8,
-   "paper": {
-    "title": "To Be Published",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "10.1038/s41467-026-77063-5",
-    "authors": "Ammendolia, D.A. … Brumell, J.H."
-   }
-  },
-  {
-   "id": "9SP8",
-   "db": "PDB",
-   "title": "Cryo-EM structure of the Arabidopsis thaliana CAT4 transporter in the outward-open L-ornithine bound state",
-   "method": "Cryo-EM",
-   "techniques": [
-    "cryo-em"
-   ],
-   "released": "2026-09-30",
-   "reasons": [
-    "UK-funded"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9sp8",
-   "image": "images/latest/9sp8.jpeg",
-   "resolution": 3.32,
-   "emdb": [
-    "EMD-55065"
-   ],
-   "paper": {
-    "title": "Structural basis for pH-responsive amino acid transport via SLC7A4",
-    "journal": "Nat Commun",
-    "year": 2026,
-    "doi": "10.1038/s41467-026-70956-5",
-    "authors": "Kolokouris, D. … Newstead, S."
-   }
-  },
-  {
-   "id": "9SN2",
-   "db": "PDB",
-   "title": "Cryo-EM reconstruction of the RUVBL1-RUVBL2-CCDC103 (R2C) complex",
-   "method": "Cryo-EM",
-   "techniques": [
-    "cryo-em"
-   ],
-   "released": "2026-09-30",
-   "reasons": [
-    "UK-funded"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9sn2",
-   "image": "images/latest/9sn2.jpeg",
-   "resolution": 3.2,
-   "emdb": [
-    "EMD-55046"
-   ],
-   "paper": {
-    "title": "CCDC103-mediated assembly of the R2C complex links RUVBL1-RUVBL2 to Primary Ciliary Dyskinesia",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Munoz-Hernandez, H. … Pal, M."
-   }
-  },
-  {
-   "id": "8QKP",
-   "db": "PDB",
-   "title": "Asymmetric structure of Satellite Tobacco Necrosis Virus-Like Particle with PS2/3 gRNA",
-   "method": "Cryo-EM",
-   "techniques": [
-    "cryo-em"
-   ],
-   "released": "2026-09-30",
-   "reasons": [
-    "UK-funded"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/8qkp",
-   "image": "images/latest/8qkp.jpeg",
-   "resolution": 5.26,
-   "emdb": [
-    "EMD-18469"
-   ],
-   "paper": {
-    "title": "Visualizing Viral RNA Packaging Signals in Action",
-    "journal": "J Mol Biol",
-    "year": 2024,
-    "doi": "10.1016/j.jmb.2024.168765",
-    "authors": "Wroblewski, E. … Stockley, P.G."
-   }
-  },
-  {
-   "id": "34HX",
-   "db": "PDB",
-   "title": "The 1.8 angstrom crystal structure of Yersinia pestis CO92 trehalose-6-phosphate hydrolase (TreC)",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-09-30",
-   "reasons": [
-    "UK-funded"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/34hx",
-   "image": "images/latest/34hx.jpeg",
-   "resolution": 1.8,
-   "paper": {
-    "title": "The 1.8 angstrom crystal structure of Yersinia pestis CO92 trehalose-6-phosphate hydrolase (TreC)",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Carew, T. … Lee, S."
-   }
-  },
-  {
-   "id": "33SK",
-   "db": "PDB",
-   "title": "Apo PDZ domain from mouse SHANK3 (570-664)",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-09-30",
-   "reasons": [
-    "UK-funded",
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/33sk",
-   "image": "images/latest/33sk.jpeg",
-   "resolution": 1.26,
-   "paper": {
-    "title": "An internal PDZ-binding motif in Densin-180 promotes activity-dependent SHANK scaffold remodelling",
-    "journal": "Biorxiv",
-    "year": 2026,
-    "doi": "10.64898/2026.07.07.736929",
-    "authors": "Otani, Y. … Goult, B.T."
-   }
-  },
-  {
-   "id": "32UN",
-   "db": "PDB",
-   "title": "Structure of ZNFX1 in the post-ATP hydrolysis state",
-   "method": "Cryo-EM",
-   "techniques": [
-    "cryo-em"
-   ],
-   "released": "2026-09-30",
-   "reasons": [
-    "UK-funded"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/32un",
-   "image": "images/latest/32un.jpeg",
-   "resolution": 3.2,
-   "emdb": [
-    "EMD-59182"
-   ],
-   "paper": {
-    "title": "ZNFX1, an immunoregulatory RNA helicase and E3 ubiquitin ligase, assembles into pleiomorphic polymers",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Naydenova, K. … Randow, F."
-   }
-  },
-  {
-   "id": "32UM",
-   "db": "PDB",
-   "title": "Structure of ZNFX1 bound to RNA",
-   "method": "Cryo-EM",
-   "techniques": [
-    "cryo-em"
-   ],
-   "released": "2026-09-30",
-   "reasons": [
-    "UK-funded"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/32um",
-   "image": "images/latest/32um.jpeg",
-   "resolution": 3.1,
-   "emdb": [
-    "EMD-59181"
-   ],
-   "paper": {
-    "title": "ZNFX1, an immunoregulatory RNA helicase and E3 ubiquitin ligase, assembles into pleiomorphic polymers",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Naydenova, K. … Randow, F."
-   }
-  },
-  {
-   "id": "32UL",
-   "db": "PDB",
-   "title": "Structure of ZNFX1 in the ATP-bound, pre-ATP hydrolysis state",
-   "method": "Cryo-EM",
-   "techniques": [
-    "cryo-em"
-   ],
-   "released": "2026-09-30",
-   "reasons": [
-    "UK-funded"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/32ul",
-   "image": "images/latest/32ul.jpeg",
-   "resolution": 3.3,
-   "emdb": [
-    "EMD-59180"
-   ],
-   "paper": {
-    "title": "ZNFX1, an immunoregulatory RNA helicase and E3 ubiquitin ligase, assembles into pleiomorphic polymers",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Naydenova, K. … Randow, F."
-   }
-  },
-  {
-   "id": "30SH",
-   "db": "PDB",
-   "title": "Homotaurine ABC transporter substrate binding protein HtaA from C. jiansuensis in complex with homotaurine",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-09-30",
-   "reasons": [
-    "UK-funded",
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/30sh",
-   "image": "images/latest/30sh.jpeg",
-   "resolution": 1.8,
-   "paper": {
-    "title": "A Bacterial Pathway for Homotaurine Catabolism via Sulfopropanoate",
-    "journal": "J.Am.Chem.Soc.",
-    "year": 2026,
-    "doi": "10.1021/jacs.6c10662",
-    "authors": "Pallasdies, L. … Williams, S.J."
-   }
-  },
-  {
-   "id": "30PV",
-   "db": "PDB",
-   "title": "TxGH116 complex with a beta-d-Arabinofuranose-configured cyclitol aziridine",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-09-30",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/30pv",
-   "image": "images/latest/30pv.jpeg",
-   "resolution": 1.75,
-   "paper": {
-    "title": "Beta-D-Arabinofuranose-configured cyclitol aziridines as selective, brain-penetrant covalent GBA2 inhibitors",
-    "journal": "To Be Published",
-    "year": 2026,
-    "doi": "10.1021/jacs.6c09754",
-    "authors": "Lammers, R.F. … Artola, M."
-   }
-  },
-  {
-   "id": "29KN",
-   "db": "PDB",
-   "title": "Composite cryo-EM map of the human DNAAF19-RUVBL1/2-DPCD complex",
-   "method": "Cryo-EM",
-   "techniques": [
-    "cryo-em"
-   ],
-   "released": "2026-09-30",
-   "reasons": [
-    "UK-funded"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/29kn",
-   "image": "images/latest/29kn.jpeg",
-   "resolution": 3.37,
-   "emdb": [
-    "EMD-57241"
-   ],
-   "paper": {
-    "title": "DNAAF19-RUVBL1/2 complex recruits multiple adaptors to promote dynein arm assembly",
-    "journal": "Proc.Natl.Acad.Sci.USA",
-    "year": 2026,
-    "doi": "10.1073/pnas.2612755123",
-    "authors": "de Almeida Gomes, M. … Ochi, T."
-   }
-  },
-  {
-   "id": "28ME",
-   "db": "PDB",
-   "title": "Connexin 26 from L Paradoxa in GDN detergent - hemichannel focussed conformation 2",
-   "method": "Cryo-EM",
-   "techniques": [
-    "cryo-em"
-   ],
-   "released": "2026-09-30",
-   "reasons": [
-    "UK-funded"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/28me",
-   "image": "images/latest/28me.jpeg",
-   "resolution": 2.9,
-   "emdb": [
-    "EMD-56609"
-   ],
-   "paper": {
-    "title": "Structure of Connexin 26 from L Paradoxa",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Brotherton, D.H. … Cameron, A.D."
-   }
-  },
-  {
-   "id": "28MC",
-   "db": "PDB",
-   "title": "Connexin 26 from L Paradoxa in GDN detergent - hemichannel focussed conformation 1",
-   "method": "Cryo-EM",
-   "techniques": [
-    "cryo-em"
-   ],
-   "released": "2026-09-30",
-   "reasons": [
-    "UK-funded"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/28mc",
-   "image": "images/latest/28mc.jpeg",
-   "resolution": 2.7,
-   "emdb": [
-    "EMD-56608"
-   ],
-   "paper": {
-    "title": "Structure of Connexin 26 from L Paradoxa",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Brotherton, D.H. … Cameron, A.D."
-   }
-  },
-  {
-   "id": "10VM",
-   "db": "PDB",
-   "title": "Structure of human MAIT A-F7 TCR in complex with miniaturized MR1-5-OP-RU",
-   "method": "Cryo-EM",
-   "techniques": [
-    "cryo-em"
-   ],
-   "released": "2026-09-30",
-   "reasons": [
-    "UK-funded"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/10vm",
-   "image": "images/latest/10vm.jpeg",
-   "resolution": 3.08,
-   "emdb": [
-    "EMD-75491"
-   ],
-   "paper": {
-    "title": "A miniaturized MR1 metabolite display system with native-like protein features",
-    "journal": "Elife",
-    "year": 2026,
-    "doi": "10.7554/elife.111511.1",
-    "authors": "Rotsides, P. … Sgourakis, N.G."
-   }
-  },
-  {
-   "id": "9WW8",
-   "db": "PDB",
-   "title": "HosA transcriptional regulator from enteropathogenic Escherichia coli O127:H6 (strain E2348/69) apo-protein structure at 2.03 angstrom resolution",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-09-23",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9ww8",
-   "image": "images/latest/9ww8.jpeg",
-   "resolution": 2.03,
-   "paper": {
-    "title": "HosA transcriptional regulator from enteropathogenic Escherichia coli O127:H6 (strain E2348/69) apo-protein structure at 2.03 angstrom resolution",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Brito, J.A. … Goswami, A."
-   }
-  },
-  {
-   "id": "9TRU",
-   "db": "PDB",
-   "title": "Zebrafish dUTPase in complex with staphylococcal Stl repressor",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-09-23",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9tru",
-   "image": "images/latest/9tru.jpeg",
-   "resolution": 2.26,
-   "paper": {
-    "title": "A bacterial protein inhibitor of dUTPase disrupts zebrafish embryogenesis through a conserved active-site mechanism",
-    "journal": "Protein Sci.",
-    "year": 2026,
-    "doi": "10.1002/pro.70767",
-    "authors": "Perey-Simon, V. … Nyiri, K."
-   }
-  },
-  {
-   "id": "9T8I",
-   "db": "PDB",
-   "title": "Murine RNF213",
-   "method": "Cryo-EM",
-   "techniques": [
-    "cryo-em"
-   ],
-   "released": "2026-09-23",
-   "reasons": [
-    "UK-funded"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9t8i",
-   "image": "images/latest/9t8i.jpeg",
-   "resolution": 3.1,
-   "emdb": [
-    "EMD-55694"
-   ],
-   "paper": {
-    "title": "RNF213 is a quality control factor for polyglucosan",
-    "journal": "To Be Published",
-    "year": 2026,
-    "doi": "10.1038/s41586-026-11139-6",
-    "authors": "Yip, M.C.J. … Randow, F."
-   }
-  },
-  {
-   "id": "9T8H",
-   "db": "PDB",
-   "title": "Murine RNF213 bound to maltoheptaose",
-   "method": "Cryo-EM",
-   "techniques": [
-    "cryo-em"
-   ],
-   "released": "2026-09-23",
-   "reasons": [
-    "UK-funded"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9t8h",
-   "image": "images/latest/9t8h.jpeg",
-   "resolution": 3.0,
-   "emdb": [
-    "EMD-55686"
-   ],
-   "paper": {
-    "title": "RNF213 is a quality control factor for polyglucosan",
-    "journal": "To Be Published",
-    "year": 2026,
-    "doi": "10.1038/s41586-026-11139-6",
-    "authors": "Yip, M.C.J. … Randow, F."
-   }
-  },
-  {
-   "id": "9T1Y",
-   "db": "PDB",
-   "title": "Plasmodium falciparum Aminopeptidase P in complex with hydroxamic-peptide based inhibitor 6e",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-09-23",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9t1y",
-   "image": "images/latest/9t1y.jpeg",
-   "resolution": 2.7,
-   "paper": {
-    "title": "Hydroxamate-based inhibitors reveal structural determinants of selectivity for Plasmodium falciparum aminopeptidase P",
-    "journal": "J.Biol.Chem.",
-    "year": 2026,
-    "doi": "10.1016/j.jbc.2026.111372",
-    "authors": "Mills, B.J. … Acharya, K.R."
-   }
-  },
-  {
-   "id": "9T1X",
-   "db": "PDB",
-   "title": "Plasmodium falciparum Aminopeptidase P in complex with hydroxamic-peptide based inhibitor 6d",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-09-23",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9t1x",
-   "image": "images/latest/9t1x.jpeg",
-   "resolution": 2.55,
-   "paper": {
-    "title": "Hydroxamate-based inhibitors reveal structural determinants of selectivity for Plasmodium falciparum aminopeptidase P",
-    "journal": "J.Biol.Chem.",
-    "year": 2026,
-    "doi": "10.1016/j.jbc.2026.111372",
-    "authors": "Mills, B.J. … Acharya, K.R."
-   }
-  },
-  {
-   "id": "9QVW",
-   "db": "PDB",
-   "title": "Nostoc sp. 3335mg GT108 family enzyme native",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-09-23",
-   "reasons": [
-    "UK-funded",
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9qvw",
-   "image": "images/latest/9qvw.jpeg",
-   "resolution": 1.45,
-   "paper": {
-    "title": "Structural and Functional Insights into GT108 Enzymes Reveal a Conserved Phosphorylase Mechanism for beta-1,2-Mannogen Metabolism",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Males, A. … Davies, G.J."
-   }
-  },
-  {
-   "id": "33HM",
-   "db": "PDB",
-   "title": "Murine RNF213 (Y434A)",
-   "method": "Cryo-EM",
-   "techniques": [
-    "cryo-em"
-   ],
-   "released": "2026-09-23",
-   "reasons": [
-    "UK-funded"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/33hm",
-   "image": "images/latest/33hm.jpeg",
-   "resolution": 3.1,
-   "emdb": [
-    "EMD-59444"
-   ],
-   "paper": {
-    "title": "Glycogen quality control through ubiquitylation of aberrant glycogen by RNF213",
-    "journal": "To Be Published",
-    "year": 2026,
-    "doi": "10.1038/s41586-026-11139-6",
-    "authors": "Yip, M.C.J. … Randow, F."
-   }
-  },
-  {
-   "id": "30XJ",
-   "db": "PDB",
-   "title": "A C-terminal Processing Protease Links Flagellin Turnover to Developmental Progression in a Bacterial Predator",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-09-23",
-   "reasons": [
-    "UK-funded",
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/30xj",
-   "image": "images/latest/30xj.jpeg",
-   "resolution": 2.58,
-   "paper": {
-    "title": "A C-terminal Processing Protease Links Flagellin Turnover to Developmental Progression in a Bacterial Predator",
-    "journal": "To Be Published",
-    "year": 2026,
-    "doi": "10.64898/2026.06.08.730854",
-    "authors": "Harding, C.J. … Mukherjee, S."
    }
   }
  ]
