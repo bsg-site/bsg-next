@@ -1,6 +1,762 @@
 {
- "updated": "2026-10-26",
+ "updated": "2026-11-02",
  "entries": [
+  {
+   "id": "9X6G",
+   "db": "PDB",
+   "title": "Filament of mutant Escherichia coli CTP synthase fused with mEGFP",
+   "method": "Cryo-EM",
+   "techniques": [
+    "cryo-em"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "UK-funded"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9x6g",
+   "image": "images/latest/9x6g.jpeg",
+   "resolution": 3.39,
+   "emdb": [
+    "EMD-66620"
+   ],
+   "paper": {
+    "title": "VitisC: Visualizing small proteins via the integrated scaffold of Escherichia coli CTP synthase (CTPS) cytoophidium",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Yin, B.Q. … Liu, J.L."
+   }
+  },
+  {
+   "id": "9TOH",
+   "db": "PDB",
+   "title": "Room temperature serial crystal structure of CTX-M-15 class A beta-lactamase mixed with avibactam for 600 s",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9toh",
+   "image": "images/latest/9toh.jpeg",
+   "resolution": 1.7,
+   "paper": {
+    "title": "Time-resolved ligand dynamics revealed in a beta-lactamase using room-temperature serial crystallography",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Tooke, C.L. … Spencer, J."
+   }
+  },
+  {
+   "id": "9TOG",
+   "db": "PDB",
+   "title": "CTX-M-15 class A beta-lactamase mixed with avibactam for 3 hours, then washed for 1800 s, cryo crystal structure",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9tog",
+   "image": "images/latest/9tog.jpeg",
+   "resolution": 0.87,
+   "paper": {
+    "title": "Time-resolved ligand dynamics revealed in a beta-lactamase using room-temperature serial crystallography",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Tooke, C.L. … Spencer, J."
+   }
+  },
+  {
+   "id": "9TOF",
+   "db": "PDB",
+   "title": "CTX-M-15 class A beta-lactamase mixed with avibactam for 3 hours, then washed for 300 s, cryo crystal structure",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9tof",
+   "image": "images/latest/9tof.jpeg",
+   "resolution": 1.24,
+   "paper": {
+    "title": "Time-resolved ligand dynamics revealed in a beta-lactamase using room-temperature serial crystallography",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Tooke, C.L. … Spencer, J."
+   }
+  },
+  {
+   "id": "9TOE",
+   "db": "PDB",
+   "title": "CTX-M-15 class A beta-lactamase mixed with avibactam for 3 hours, then washed for 50 s, cryo crystal structure",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9toe",
+   "image": "images/latest/9toe.jpeg",
+   "resolution": 1.01,
+   "paper": {
+    "title": "Time-resolved ligand dynamics revealed in a beta-lactamase using room-temperature serial crystallography",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Tooke, C.L. … Spencer, J."
+   }
+  },
+  {
+   "id": "9TOD",
+   "db": "PDB",
+   "title": "CTX-M-15 class A beta-lactamase mixed with avibactam for 3 hours, then washed for 10 s, cryo crystal structure",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9tod",
+   "image": "images/latest/9tod.jpeg",
+   "resolution": 1.22,
+   "paper": {
+    "title": "Time-resolved ligand dynamics revealed in a beta-lactamase using room-temperature serial crystallography",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Tooke, C.L. … Spencer, J."
+   }
+  },
+  {
+   "id": "9TOC",
+   "db": "PDB",
+   "title": "CTX-M-15 class A beta-lactamase mixed with avibactam for 10 s, cryo crystal structure",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9toc",
+   "image": "images/latest/9toc.jpeg",
+   "resolution": 0.94,
+   "paper": {
+    "title": "Time-resolved ligand dynamics revealed in a beta-lactamase using room-temperature serial crystallography",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Tooke, C.L. … Spencer, J."
+   }
+  },
+  {
+   "id": "9TOB",
+   "db": "PDB",
+   "title": "Room temperature serial crystal structure of CTX-M-15 class A beta-lactamase, drop on fixed target from DLS, 1.3 s checkerboard control (20 mM avibactam)",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9tob",
+   "image": "images/latest/9tob.jpeg",
+   "resolution": 1.92,
+   "paper": {
+    "title": "Time-resolved ligand dynamics revealed in a beta-lactamase using room-temperature serial crystallography",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Parkinson, L. … Spencer, J."
+   }
+  },
+  {
+   "id": "9TOA",
+   "db": "PDB",
+   "title": "Room temperature serial crystal structure of CTX-M-15 class A beta-lactamase, drop on fixed target from DLS, 1.3 s mixed with 20 mM avibactam (no modelled ligand)",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9toa",
+   "image": "images/latest/9toa.jpeg",
+   "resolution": 1.92,
+   "paper": {
+    "title": "Time-resolved ligand dynamics revealed in a beta-lactamase using room-temperature serial crystallography",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Parkinson, L. … Spencer, J."
+   }
+  },
+  {
+   "id": "9TO9",
+   "db": "PDB",
+   "title": "Room temperature serial crystal structure of CTX-M-15 class A beta-lactamase, drop on fixed target from DLS, 1.3 s checkerboard control (50 mM avibactam)",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9to9",
+   "image": "images/latest/9to9.jpeg",
+   "resolution": 1.74,
+   "paper": {
+    "title": "Time-resolved ligand dynamics revealed in a beta-lactamase using room-temperature serial crystallography",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Parkinson, L. … Spencer, J."
+   }
+  },
+  {
+   "id": "9TO8",
+   "db": "PDB",
+   "title": "Room temperature serial crystal structure of CTX-M-15 class A beta-lactamase, drop on fixed target from DLS, 1.3 s mixed with 50 mM avibactam",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9to8",
+   "image": "images/latest/9to8.jpeg",
+   "resolution": 1.76,
+   "paper": {
+    "title": "Time-resolved ligand dynamics revealed in a beta-lactamase using room-temperature serial crystallography",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Parkinson, L. … Spencer, J."
+   }
+  },
+  {
+   "id": "9TO7",
+   "db": "PDB",
+   "title": "Room temperature serial crystal structure of CTX-M-15 class A beta-lactamase, drop on fixed target from DLS, 1.3 s checkerboard control (300 mM avibactam)",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9to7",
+   "image": "images/latest/9to7.jpeg",
+   "resolution": 1.62,
+   "paper": {
+    "title": "Time-resolved ligand dynamics revealed in a beta-lactamase using room-temperature serial crystallography",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Parkinson, L. … Spencer, J."
+   }
+  },
+  {
+   "id": "9TO6",
+   "db": "PDB",
+   "title": "Room temperature serial crystal structure of CTX-M-15 class A beta-lactamase, drop on fixed target from DLS, 1.3 s mixed with 300 mM avibactam",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9to6",
+   "image": "images/latest/9to6.jpeg",
+   "resolution": 1.62,
+   "paper": {
+    "title": "Time-resolved ligand dynamics revealed in a beta-lactamase using room-temperature serial crystallography",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Parkinson, L. … Spencer, J."
+   }
+  },
+  {
+   "id": "9T0J",
+   "db": "PDB",
+   "title": "Spraguea lophii ribosome dimer, conformation 2.",
+   "method": "Cryo-EM",
+   "techniques": [
+    "cryo-em"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "UK-funded"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9t0j",
+   "image": "images/latest/9t0j.jpeg",
+   "resolution": 10.9,
+   "emdb": [
+    "EMD-55402"
+   ],
+   "paper": {
+    "title": "New clues about ribosome hibernation in microsporidia revealed by cryo-electron tomography",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "McLaren, M. … Conners, R."
+   }
+  },
+  {
+   "id": "9T0I",
+   "db": "PDB",
+   "title": "Spraguea lophii ribosome dimer, conformation 1.",
+   "method": "Cryo-EM",
+   "techniques": [
+    "cryo-em"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "UK-funded"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9t0i",
+   "image": "images/latest/9t0i.jpeg",
+   "resolution": 9.8,
+   "emdb": [
+    "EMD-55401"
+   ],
+   "paper": {
+    "title": "New clues about ribosome hibernation in microsporidia revealed by cryo-electron tomography",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "McLaren, M. … Conners, R."
+   }
+  },
+  {
+   "id": "9QY9",
+   "db": "PDB",
+   "title": "Listeria monocytogenes GT108 family enzyme, native",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9qy9",
+   "image": "images/latest/9qy9.jpeg",
+   "resolution": 1.41,
+   "paper": {
+    "title": "Structural and Functional Insights into GT108 Enzymes Reveal a Conserved Phosphorylase Mechanism for beta-1,2-Mannogen Metabolism",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Males, A. … Davies, G.J."
+   }
+  },
+  {
+   "id": "9QY4",
+   "db": "PDB",
+   "title": "GT108 family enzyme from Chlamydia abortus in complex with mannose-1-phosphate (M1P)",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9qy4",
+   "image": "images/latest/9qy4.jpeg",
+   "resolution": 1.68,
+   "paper": {
+    "title": "Structural and Functional Insights into GT108 Enzymes Reveal a Conserved Phosphorylase Mechanism for beta-1,2-Mannogen Metabolism",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Males, A. … Davies, G.J."
+   }
+  },
+  {
+   "id": "9QXM",
+   "db": "PDB",
+   "title": "Nostoc sp. 3335mg GT108 family enzyme complex with DMJ",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9qxm",
+   "image": "images/latest/9qxm.jpeg",
+   "resolution": 1.47,
+   "paper": {
+    "title": "Structural and Functional Insights into GT108 Enzymes Reveal a Conserved Phosphorylase Mechanism for beta-1,2-Mannogen Metabolism",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Males, A. … Davies, G.J."
+   }
+  },
+  {
+   "id": "9QXJ",
+   "db": "PDB",
+   "title": "Cryo-EM structure of Rysto resistosome in complex with PVY coat protein",
+   "method": "Cryo-EM",
+   "techniques": [
+    "cryo-em"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "UK-funded"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9qxj",
+   "image": "images/latest/9qxj.jpeg",
+   "resolution": 3.5,
+   "emdb": [
+    "EMD-53436"
+   ],
+   "paper": {
+    "title": "Cryo-EM structure and physical basis of virus coat protein recognition by the plant immune receptor Rysto",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Zhao, H. … Jones, J."
+   }
+  },
+  {
+   "id": "9QX4",
+   "db": "PDB",
+   "title": "Nostoc sp. 3335mg GT108 family enzyme purified in HEPES, with Bis-Tris propane and phosphate in the active site",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9qx4",
+   "image": "images/latest/9qx4.jpeg",
+   "resolution": 1.72,
+   "paper": {
+    "title": "Structural and Functional Insights into GT108 Enzymes Reveal a Conserved Phosphorylase Mechanism for beta-1,2-Mannogen Metabolism",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Males, A. … Davies, G.J."
+   }
+  },
+  {
+   "id": "9QW1",
+   "db": "PDB",
+   "title": "Nostoc sp. 3335mg GT108 family enzyme D90A mutant complex with octyl-mannotetraose",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9qw1",
+   "image": "images/latest/9qw1.jpeg",
+   "resolution": 1.74,
+   "paper": {
+    "title": "Structural and Functional Insights into GT108 Enzymes Reveal a Conserved Phosphorylase Mechanism for beta-1,2-Mannogen Metabolism",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Males, A. … Davies, G.J."
+   }
+  },
+  {
+   "id": "9QW0",
+   "db": "PDB",
+   "title": "Nostoc sp. 3335mg GT108 family enzyme D90A mutant complex with octyl-mannotetraose and Bis-Tris",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9qw0",
+   "image": "images/latest/9qw0.jpeg",
+   "resolution": 1.58,
+   "paper": {
+    "title": "Structural and Functional Insights into GT108 Enzymes Reveal a Conserved Phosphorylase Mechanism for beta-1,2-Mannogen Metabolism",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Males, A. … Davies, G.J."
+   }
+  },
+  {
+   "id": "9QVY",
+   "db": "PDB",
+   "title": "Nostoc sp. 3335mg GT108 family enzyme complex with mannose-1-phosphate (M1P)",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9qvy",
+   "image": "images/latest/9qvy.jpeg",
+   "resolution": 1.41,
+   "paper": {
+    "title": "Structural and Functional Insights into GT108 Enzymes Reveal a Conserved Phosphorylase Mechanism for beta-1,2-Mannogen Metabolism",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Males, A. … Davies, G.J."
+   }
+  },
+  {
+   "id": "34SN",
+   "db": "PDB",
+   "title": "T. ljubarskyi GH12 endoglucanase bound to unreacted cellobiose-configured cyclophellitol",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/34sn",
+   "image": "images/latest/34sn.jpeg",
+   "resolution": 1.29,
+   "paper": {
+    "title": "Complementary chemical probes and substrates reveal split subsite specificity in a fungal GH12 glucanase",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Correa, T.L.R. … Davies, G.J."
+   }
+  },
+  {
+   "id": "34RJ",
+   "db": "PDB",
+   "title": "Trametes ljubarskyi GH12 endoglucanase bound to cellotriose",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/34rj",
+   "image": "images/latest/34rj.jpeg",
+   "resolution": 1.4,
+   "paper": {
+    "title": "Complementary chemical probes and substrates reveal split subsite specificity in a fungal GH12 glucanase",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Correa, T.L.R. … Davies, G.J."
+   }
+  },
+  {
+   "id": "34RH",
+   "db": "PDB",
+   "title": "Trametes ljubarski GH12 endoglucanase bound to xyloglucan (XXXG)",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/34rh",
+   "image": "images/latest/34rh.jpeg",
+   "resolution": 2.05,
+   "paper": {
+    "title": "Complementary chemical probes and substrates reveal split subsite specificity in a fungal GH12 glucanase",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Correa, T.L.R. … Davies, G.J."
+   }
+  },
+  {
+   "id": "34PU",
+   "db": "PDB",
+   "title": "Trametes ljubarskyi GH12 endoglucanase - native",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/34pu",
+   "image": "images/latest/34pu.jpeg",
+   "resolution": 1.1,
+   "paper": {
+    "title": "Complementary chemical probes and substrates reveal split subsite specificity in a fungal GH12 glucanase",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Correa, T.L.R. … Davies, G.J."
+   }
+  },
+  {
+   "id": "32WJ",
+   "db": "PDB",
+   "title": "Structure of TRIM8 RING domain in complex with UBE2N~Ub conjugate",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/32wj",
+   "image": "images/latest/32wj.jpeg",
+   "resolution": 2.39,
+   "paper": {
+    "title": "RING E3 ligase TRIM8 is structurally selective for UBE2N-mediated ubiquitination",
+    "journal": "J.Biol.Chem.",
+    "year": 2026,
+    "doi": "10.1016/j.jbc.2026.113642",
+    "authors": "Dudley-Fraser, J. … Rittinger, K."
+   }
+  },
+  {
+   "id": "30LF",
+   "db": "PDB",
+   "title": "2.3 A structure of the NBTI B1 with S. aureus DNA gyrase and double-nicked DNA",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/30lf",
+   "image": "images/latest/30lf.jpeg",
+   "resolution": 2.3,
+   "paper": {
+    "title": "To Be Published",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "10.1038/s44259-026-00292-7",
+    "authors": "Cleenewerk, L. … Luirink, J."
+   }
+  },
+  {
+   "id": "30DB",
+   "db": "PDB",
+   "title": "Hen egg white lysozyme complexed with PEG, ACT, and CL (in meso crystallization)",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/30db",
+   "image": "images/latest/30db.jpeg",
+   "resolution": 1.74,
+   "paper": {
+    "title": "A low-cost, portable polarizing digital light microscope for monitoring crystal growth and for crystal harvesting",
+    "journal": "J.Appl.Crystallogr.",
+    "year": 2026,
+    "doi": "10.1107/S1600576726007880",
+    "authors": "Kennedy, S. … Caffrey, M."
+   }
+  },
+  {
+   "id": "30DA",
+   "db": "PDB",
+   "title": "Hen egg white lysozyme complexed with ACT and CL (hanging drop crystallization)",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/30da",
+   "image": "images/latest/30da.jpeg",
+   "resolution": 1.07,
+   "paper": {
+    "title": "A low-cost, portable polarizing digital light microscope for monitoring crystal growth and for crystal harvesting",
+    "journal": "J.Appl.Crystallogr.",
+    "year": 2026,
+    "doi": "10.1107/S1600576726007880",
+    "authors": "Kennedy, S. … Caffrey, M."
+   }
+  },
+  {
+   "id": "24OQ",
+   "db": "PDB",
+   "title": "Somatic cytochrome c from Buergeria japonica frog",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-10-28",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/24oq",
+   "image": "images/latest/24oq.jpeg",
+   "resolution": 2.49,
+   "paper": {
+    "title": "Ancient nuclear genome duplication events in vertebrates facilitated the functional diversification of ohnologous cytochrome c: insights from Buergeria frogs",
+    "journal": "Mol.Biol.Evol.",
+    "year": 2026,
+    "doi": "10.1093/molbev/msag243",
+    "authors": "Asaeda, Y. … Sambongi, Y."
+   }
+  },
   {
    "id": "9TNI",
    "db": "PDB",
@@ -664,782 +1420,6 @@
     "year": "2019",
     "doi": "10.3389/fnmol.2019.00084",
     "authors": "Raasakka A … Kursula P"
-   }
-  },
-  {
-   "id": "SASD2N7",
-   "db": "SASBDB",
-   "title": "Acidic C-terminal region of periaxin, long isoform",
-   "method": "Bio-SAXS",
-   "techniques": [
-    "saxs"
-   ],
-   "released": "2026-10-14",
-   "reasons": [
-    "Measured at Diamond Light Source B21"
-   ],
-   "url": "https://www.sasbdb.org/data/SASD2N7/",
-   "paper": {
-    "title": "Direct Binding of the Flexible C-Terminal Segment of Periaxin to β4 Integrin Suggests a Molecular Basis for CMT4F",
-    "journal": "Front Mol Neurosci",
-    "year": "2019",
-    "doi": "10.3389/fnmol.2019.00084",
-    "authors": "Raasakka A … Kursula P"
-   }
-  },
-  {
-   "id": "9SW9",
-   "db": "PDB",
-   "title": "Crystal Structure of Phenylalanine Ammonia Lyase (PAL) from Petroselinum crispum bound to p-Nitrocinnamic acid",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-14",
-   "reasons": [
-    "UK-funded",
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9sw9",
-   "image": "images/latest/9sw9.jpeg",
-   "resolution": 1.95,
-   "paper": {
-    "title": "Crystal Structure of Phenylalanine Ammonia Lyase (PAL) from Petroselinum crispum bound to p-Nitrocinnamic acid",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Lang, P.A. … Brem, J."
-   }
-  },
-  {
-   "id": "9QR9",
-   "db": "PDB",
-   "title": "ChiLob 7/4 hIgG1 HC-K219C F(ab')2",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-14",
-   "reasons": [
-    "UK-funded",
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9qr9",
-   "image": "images/latest/9qr9.jpeg",
-   "resolution": 3.49,
-   "paper": {
-    "title": "Disulfide engineering as an approach to reduce conformational flexibility of immunostimulatory antibodies to enhance receptor agonism",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Elliott, I.G. … Cragg, M.S."
-   }
-  },
-  {
-   "id": "29BY",
-   "db": "PDB",
-   "title": "Cryo-EM structure of human DHX9 in complex with ATX-968 and ADP.",
-   "method": "Cryo-EM",
-   "techniques": [
-    "cryo-em"
-   ],
-   "released": "2026-10-14",
-   "reasons": [
-    "UK-funded"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/29by",
-   "image": "images/latest/29by.jpeg",
-   "resolution": 2.8,
-   "emdb": [
-    "EMD-57068"
-   ],
-   "paper": {
-    "title": "Fragment-Based Discovery of Potent RNA-Competitive Inhibitors of the DEAH-Box RNA Helicase DHX8",
-    "journal": "J.Med.Chem.",
-    "year": 2026,
-    "doi": "10.1021/acs.jmedchem.6c00732",
-    "authors": "Read, B.J. … van Montfort, R.L.M."
-   }
-  },
-  {
-   "id": "14CQ",
-   "db": "PDB",
-   "title": "Structure of liver pyruvate kinase in complex with allosteric activator 8c",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-14",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/14cq",
-   "image": "images/latest/14cq.jpeg",
-   "resolution": 2.18,
-   "paper": {
-    "title": "Symmetry-Guided Fusion Converts Weak Liver Pyruvate Kinase inhibitors into potent Allosteric Activators",
-    "journal": "Rsc Med Chem",
-    "year": 2026,
-    "doi": "10.1039/D6MD00604C",
-    "authors": "Monjas, L. … Grotli, M."
-   }
-  },
-  {
-   "id": "14CP",
-   "db": "PDB",
-   "title": "Structure of liver pyruvate kinase in complex with allosteric activator 8b",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-14",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/14cp",
-   "image": "images/latest/14cp.jpeg",
-   "resolution": 1.81,
-   "paper": {
-    "title": "Symmetry-Guided Fusion Converts Weak Liver Pyruvate Kinase inhibitors into potent Allosteric Activators",
-    "journal": "Rsc Med Chem",
-    "year": 2026,
-    "doi": "10.1039/D6MD00604C",
-    "authors": "Monjas, L. … Grotli, M."
-   }
-  },
-  {
-   "id": "14CO",
-   "db": "PDB",
-   "title": "Structure of liver pyruvate kinase in complex with allosteric activator 8a",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-14",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/14co",
-   "image": "images/latest/14co.jpeg",
-   "resolution": 1.89,
-   "paper": {
-    "title": "Symmetry-Guided Fusion Converts Weak Liver Pyruvate Kinase inhibitors into potent Allosteric Activators",
-    "journal": "Rsc Med Chem",
-    "year": 2026,
-    "doi": "10.1039/D6MD00604C",
-    "authors": "Monjas, L. … Grotli, M."
-   }
-  },
-  {
-   "id": "14CN",
-   "db": "PDB",
-   "title": "Structure of liver pyruvate kinase in complex with allosteric site fragment S4",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-14",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/14cn",
-   "image": "images/latest/14cn.jpeg",
-   "resolution": 1.93,
-   "paper": {
-    "title": "Symmetry-Guided Fusion Converts Weak Liver Pyruvate Kinase inhibitors into potent Allosteric Activators",
-    "journal": "Rsc Med Chem",
-    "year": 2026,
-    "doi": "10.1039/D6MD00604C",
-    "authors": "Monjas, L. … Grotli, M."
-   }
-  },
-  {
-   "id": "14CM",
-   "db": "PDB",
-   "title": "Structure of liver pyruvate kinase in complex with allosteric site fragment S3",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-14",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/14cm",
-   "image": "images/latest/14cm.jpeg",
-   "resolution": 1.99,
-   "paper": {
-    "title": "Symmetry-Guided Fusion Converts Weak Liver Pyruvate Kinase inhibitors into potent Allosteric Activators",
-    "journal": "Rsc Med Chem",
-    "year": 2026,
-    "doi": "10.1039/D6MD00604C",
-    "authors": "Monjas, L. … Grotli, M."
-   }
-  },
-  {
-   "id": "14CK",
-   "db": "PDB",
-   "title": "Structure of liver pyruvate kinase in complex with mitapivat",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-14",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/14ck",
-   "image": "images/latest/14ck.jpeg",
-   "resolution": 1.95,
-   "paper": {
-    "title": "Symmetry-Guided Fusion Converts Weak Liver Pyruvate Kinase inhibitors into potent Allosteric Activators",
-    "journal": "Rsc Med Chem",
-    "year": 2026,
-    "doi": "10.1039/D6MD00604C",
-    "authors": "Monjas, L. … Grotli, M."
-   }
-  },
-  {
-   "id": "9TXB",
-   "db": "PDB",
-   "title": "Mature MPMV capsid hexamer structure from capsid-like particles",
-   "method": "Cryo-EM",
-   "techniques": [
-    "cryo-em"
-   ],
-   "released": "2026-10-07",
-   "reasons": [
-    "UK-funded"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9txb",
-   "image": "images/latest/9txb.jpeg",
-   "resolution": 3.2,
-   "emdb": [
-    "EMD-56394"
-   ],
-   "paper": {
-    "title": "Retroviruses use different IP 6 binding mechanisms to alter the properties of their capsids",
-    "journal": "Nat Commun",
-    "year": 2026,
-    "doi": "10.1038/s41467-026-76510-7",
-    "authors": "Klarhof, J.O. … James, L.C."
-   }
-  },
-  {
-   "id": "9TXA",
-   "db": "PDB",
-   "title": "Mature MPMV capsid pentamer structure from capsid-like particles",
-   "method": "Cryo-EM",
-   "techniques": [
-    "cryo-em"
-   ],
-   "released": "2026-10-07",
-   "reasons": [
-    "UK-funded"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9txa",
-   "image": "images/latest/9txa.jpeg",
-   "resolution": 3.3,
-   "emdb": [
-    "EMD-56393"
-   ],
-   "paper": {
-    "title": "Retroviruses use different IP 6 binding mechanisms to alter the properties of their capsids",
-    "journal": "Nat Commun",
-    "year": 2026,
-    "doi": "10.1038/s41467-026-76510-7",
-    "authors": "Klarhof, J.O. … James, L.C."
-   }
-  },
-  {
-   "id": "9TX9",
-   "db": "PDB",
-   "title": "Mature MPMV E26A capsid hexamer structure from capsid-like particles",
-   "method": "Cryo-EM",
-   "techniques": [
-    "cryo-em"
-   ],
-   "released": "2026-10-07",
-   "reasons": [
-    "UK-funded"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9tx9",
-   "image": "images/latest/9tx9.jpeg",
-   "resolution": 3.8,
-   "emdb": [
-    "EMD-56392"
-   ],
-   "paper": {
-    "title": "Retroviruses use different IP 6 binding mechanisms to alter the properties of their capsids",
-    "journal": "Nat Commun",
-    "year": 2026,
-    "doi": "10.1038/s41467-026-76510-7",
-    "authors": "Klarhof, J.O. … James, L.C."
-   }
-  },
-  {
-   "id": "9TX8",
-   "db": "PDB",
-   "title": "Mature MPMV E26A capsid pentamer structure from capsid-like particles",
-   "method": "Cryo-EM",
-   "techniques": [
-    "cryo-em"
-   ],
-   "released": "2026-10-07",
-   "reasons": [
-    "UK-funded"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9tx8",
-   "image": "images/latest/9tx8.jpeg",
-   "resolution": 4.6,
-   "emdb": [
-    "EMD-56391"
-   ],
-   "paper": {
-    "title": "Retroviruses use different IP 6 binding mechanisms to alter the properties of their capsids",
-    "journal": "Nat Commun",
-    "year": 2026,
-    "doi": "10.1038/s41467-026-76510-7",
-    "authors": "Klarhof, J.O. … James, L.C."
-   }
-  },
-  {
-   "id": "9TX7",
-   "db": "PDB",
-   "title": "Mature MPMV capsid hexamer 3-fold interface from capsid-like particles",
-   "method": "Cryo-EM",
-   "techniques": [
-    "cryo-em"
-   ],
-   "released": "2026-10-07",
-   "reasons": [
-    "UK-funded"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9tx7",
-   "image": "images/latest/9tx7.jpeg",
-   "resolution": 4.1,
-   "emdb": [
-    "EMD-56390"
-   ],
-   "paper": {
-    "title": "Retroviruses use different IP 6 binding mechanisms to alter the properties of their capsids",
-    "journal": "Nat Commun",
-    "year": 2026,
-    "doi": "10.1038/s41467-026-76510-7",
-    "authors": "Klarhof, J.O. … James, L.C."
-   }
-  },
-  {
-   "id": "9TX6",
-   "db": "PDB",
-   "title": "Mature MoMLV capsid pentamer structure from capsid-like particles",
-   "method": "Cryo-EM",
-   "techniques": [
-    "cryo-em"
-   ],
-   "released": "2026-10-07",
-   "reasons": [
-    "UK-funded"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9tx6",
-   "image": "images/latest/9tx6.jpeg",
-   "resolution": 3.9,
-   "emdb": [
-    "EMD-56389"
-   ],
-   "paper": {
-    "title": "Retroviruses use different IP 6 binding mechanisms to alter the properties of their capsids",
-    "journal": "Nat Commun",
-    "year": 2026,
-    "doi": "10.1038/s41467-026-76510-7",
-    "authors": "Klarhof, J.O. … James, L.C."
-   }
-  },
-  {
-   "id": "9TX5",
-   "db": "PDB",
-   "title": "Mature MoMLV capsid hexamer structure from capsid-like particles",
-   "method": "Cryo-EM",
-   "techniques": [
-    "cryo-em"
-   ],
-   "released": "2026-10-07",
-   "reasons": [
-    "UK-funded"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9tx5",
-   "image": "images/latest/9tx5.jpeg",
-   "resolution": 3.5,
-   "emdb": [
-    "EMD-56388"
-   ],
-   "paper": {
-    "title": "Retroviruses use different IP 6 binding mechanisms to alter the properties of their capsids",
-    "journal": "Nat Commun",
-    "year": 2026,
-    "doi": "10.1038/s41467-026-76510-7",
-    "authors": "Klarhof, J.O. … James, L.C."
-   }
-  },
-  {
-   "id": "9TX4",
-   "db": "PDB",
-   "title": "Mature MoMLV capsid hexamer 3-fold interface from capsid-like particles",
-   "method": "Cryo-EM",
-   "techniques": [
-    "cryo-em"
-   ],
-   "released": "2026-10-07",
-   "reasons": [
-    "UK-funded"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9tx4",
-   "image": "images/latest/9tx4.jpeg",
-   "resolution": 4.2,
-   "emdb": [
-    "EMD-56387"
-   ],
-   "paper": {
-    "title": "Retroviruses use different IP 6 binding mechanisms to alter the properties of their capsids",
-    "journal": "Nat Commun",
-    "year": 2026,
-    "doi": "10.1038/s41467-026-76510-7",
-    "authors": "Klarhof, J.O. … James, L.C."
-   }
-  },
-  {
-   "id": "9T0G",
-   "db": "PDB",
-   "title": "human GDP-L-fucose synthase (C116A) with bound NADP and substrate GDP-D-4-keto-6-deoxy-mannose",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-07",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9t0g",
-   "image": "images/latest/9t0g.jpeg",
-   "resolution": 2.2,
-   "paper": {
-    "title": "human GDP-L-fucose synthase (C116A) with bound NADP and substrate GDP-D-4-keto-6-deoxy-mannose",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Pfeiffer, M. … Nidetzky, B."
-   }
-  },
-  {
-   "id": "9SX8",
-   "db": "PDB",
-   "title": "Crystal structure of eSNAr1.3 (K39A) in complex with 2,4-dinitrobromobenzene",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-07",
-   "reasons": [
-    "UK-funded",
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9sx8",
-   "image": "images/latest/9sx8.jpeg",
-   "resolution": 2.1,
-   "paper": {
-    "title": "Directed evolution of an enantiocomplementary S N Arase reveals divergent catalytic features",
-    "journal": "Nat Commun",
-    "year": 2026,
-    "doi": "10.1038/s41467-026-76922-5",
-    "authors": "Lister, T.M. … Green, A.P."
-   }
-  },
-  {
-   "id": "9SUO",
-   "db": "PDB",
-   "title": "DtxR-like iron-dependent regulator IdeR complexed with cobalt and a mutated consensus DNA-binding sequence",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-07",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9suo",
-   "image": "images/latest/9suo.jpeg",
-   "resolution": 2.26,
-   "paper": {
-    "title": "The bacterial iron sensor IdeR distinguishes DNA sequences by applying stress to non-cognate DNA rather than engaging in base-specific interactions",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Ghosh, S. … Satpati, P."
-   }
-  },
-  {
-   "id": "9SUH",
-   "db": "PDB",
-   "title": "High Throughput Crystallography to Combat Antibiotic Resistance - VIM2 with compound x0830",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-07",
-   "reasons": [
-    "UK-funded",
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9suh",
-   "image": "images/latest/9suh.jpeg",
-   "resolution": 1.46,
-   "paper": {
-    "title": "High Throughput Crystallography to Combat\nAntibiotic Resistance - VIM2 with compound x0830",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Wang, D.Y. … Schofield, C.J."
-   }
-  },
-  {
-   "id": "9SUG",
-   "db": "PDB",
-   "title": "High Throughput Crystallography to Combat Antibiotic Resistance - VIM2 with compound x0822",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-07",
-   "reasons": [
-    "UK-funded",
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9sug",
-   "image": "images/latest/9sug.jpeg",
-   "resolution": 1.38,
-   "paper": {
-    "title": "High Throughput Crystallography to Combat\nAntibiotic Resistance - VIM2 with compound x0822",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Wang, D.Y. … Schofield, C.J."
-   }
-  },
-  {
-   "id": "9SUF",
-   "db": "PDB",
-   "title": "High Throughput Crystallography to Combat Antibiotic Resistance - VIM2 with compound x0807",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-07",
-   "reasons": [
-    "UK-funded",
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9suf",
-   "image": "images/latest/9suf.jpeg",
-   "resolution": 1.3,
-   "paper": {
-    "title": "High Throughput Crystallography to Combat\nAntibiotic Resistance - VIM2 with compound x0807",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Wang, D.Y. … Schofield, C.J."
-   }
-  },
-  {
-   "id": "9SUE",
-   "db": "PDB",
-   "title": "High Throughput Crystallography to Combat Antibiotic Resistance - VIM2 with compound x0802",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-07",
-   "reasons": [
-    "UK-funded",
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9sue",
-   "image": "images/latest/9sue.jpeg",
-   "resolution": 1.42,
-   "paper": {
-    "title": "High Throughput Crystallography to Combat\nAntibiotic Resistance - VIM2 with compound x0802",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Wang, D.Y. … Schofield, C.J."
-   }
-  },
-  {
-   "id": "9SUD",
-   "db": "PDB",
-   "title": "High Throughput Crystallography to Combat Antibiotic Resistance - VIM2 with compound x0801",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-07",
-   "reasons": [
-    "UK-funded",
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9sud",
-   "image": "images/latest/9sud.jpeg",
-   "resolution": 1.41,
-   "paper": {
-    "title": "High Throughput Crystallography to Combat\nAntibiotic Resistance - VIM2 with compound x0801",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Wang, D.Y. … Schofield, C.J."
-   }
-  },
-  {
-   "id": "9SUC",
-   "db": "PDB",
-   "title": "High Throughput Crystallography to Combat Antibiotic Resistance - VIM2 with compound x0797",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-07",
-   "reasons": [
-    "UK-funded",
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9suc",
-   "image": "images/latest/9suc.jpeg",
-   "resolution": 1.36,
-   "paper": {
-    "title": "High Throughput Crystallography to Combat\nAntibiotic Resistance - VIM2 with compound x0797",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Wang, D.Y. … Schofield, C.J."
-   }
-  },
-  {
-   "id": "9SSJ",
-   "db": "PDB",
-   "title": "Dishevelled 2 PDZ domain in complex with Daple peptide",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-07",
-   "reasons": [
-    "UK-funded",
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9ssj",
-   "image": "images/latest/9ssj.jpeg",
-   "resolution": 1.4,
-   "paper": {
-    "title": "Dishevelled 2 PDZ domain in complex with Daple peptide",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Renko, M. … Gammons, M.V."
-   }
-  },
-  {
-   "id": "9S15",
-   "db": "PDB",
-   "title": "MspA-M2 in a POPC nanodisc",
-   "method": "Cryo-EM",
-   "techniques": [
-    "cryo-em"
-   ],
-   "released": "2026-10-07",
-   "reasons": [
-    "UK-funded"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9s15",
-   "image": "images/latest/9s15.jpeg",
-   "resolution": 2.8,
-   "emdb": [
-    "EMD-54442"
-   ],
-   "paper": {
-    "title": "M2-MspA in a POPC nanodisc",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Ashworth, M. … Antson, A.A."
-   }
-  },
-  {
-   "id": "9QOQ",
-   "db": "PDB",
-   "title": "Leishmania donovani ISP2 in complex with bovine trypsin",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-07",
-   "reasons": [
-    "UK-funded",
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9qoq",
-   "image": "images/latest/9qoq.jpeg",
-   "resolution": 2.59,
-   "paper": {
-    "title": "Leishmania donovani ISP2 in complex with bovine trypsin",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Freitag-Pohl, S. … Pohl, E."
-   }
-  },
-  {
-   "id": "36CA",
-   "db": "PDB",
-   "title": "Dehydrogenase AprD5 complexed with NAD and UDP-beta-D-Glucose",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-07",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/36ca",
-   "image": "images/latest/36ca.jpeg",
-   "resolution": 1.87,
-   "paper": {
-    "title": "Structural and Mechanistic Insights into 4'-Dehydrogenation Catalyzed by AprD5 in Apramycin Biosynthesis",
-    "journal": "Biochemistry",
-    "year": 2026,
-    "doi": "10.1021/acs.biochem.6c00553",
-    "authors": "Kim, W. … Zhang, Y.J."
-   }
-  },
-  {
-   "id": "34JY",
-   "db": "PDB",
-   "title": "IDOL RING domain in complex with PCM-0102246-001",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-07",
-   "reasons": [
-    "UK-funded",
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/34jy",
-   "image": "images/latest/34jy.jpeg",
-   "resolution": 1.48,
-   "paper": {
-    "title": "IDOL RING domain in complex with PCM-0102246-001",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Bradshaw, W.J. … Guenther, F."
    }
   }
  ]
