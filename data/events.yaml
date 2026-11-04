@@ -61,6 +61,15 @@ events:
   techniques:
   - biophysics
   description: One-hour webinar, 14:00–15:00 UK time. Dr Gašper Šolinc (National Institute of Chemistry, Ljubljana) presents recent findings on the pore-forming, actinoporin-like protein Fav from the coral Orbicella faveolata. Register through the Biochemical Society page.
+- title: 'Webinar: Co-folding methods for fragment-based drug discovery'
+  organiser: CCPBioSim
+  url: https://www.ccpbiosim.org/events/upcoming-events/astex2026
+  start: '2026-11-18'
+  location: Online
+  techniques:
+  - drug-design
+  - modelling-ai
+  description: 'CCPBioSim industry talk, 14:00–15:30 UK time, on Zoom. Marcel Verdonk (Astex) benchmarks deep-learning co-folding methods against industry baselines on Astex''s in-house fragment-based drug discovery data, from finding fragment binding sites to predicting binding modes and ligand-induced conformational changes. Free; register through the CCPBioSim page.'
 - title: 'Webinar: What books inspire you?'
   organiser: British Biophysical Society
   url: https://docs.google.com/forms/d/e/1FAIpQLSdtMwc_3tj71B2z2MtnMmZvIQbjsWZoDnzKqpzD4ChiwnEAhA/viewform
@@ -70,6 +79,15 @@ events:
   - biophysics
   - other
   description: A British Biophysical Society community engagement webinar at 12:00 UK time. Syma Khalid, Elspeth Garman and Aakash Basu share the books that shaped their careers in biophysics, from scientific classics to popular science, with a community book swap. Free and open to everyone; register through the form to receive the meeting link.
+- title: Building Molecular Systems for MD
+  organiser: CCPBioSim
+  url: https://www.ccpbiosim.org/events/upcoming-events/prep2026
+  start: '2026-11-26'
+  end: '2026-11-27'
+  location: Stopford Building, University of Manchester, Manchester, UK
+  techniques:
+  - modelling-ai
+  description: Two-day hands-on workshop on preparing biomolecular systems for molecular dynamics, from placing proteins in lipid bilayers and preparing structures (including fitting to cryo-EM maps) to peptide fibrils and DNA. No prior experience needed; bring a laptop. Limited to 25 places, £25 including lunches; register by 19 November 2026.
 - title: 'Webinar: Biochemistry beyond academia, from small biotechs to big pharma'
   organiser: Biochemical Society
   url: https://www.biochemistry.org/events-and-training/events-calendar/biochemistry-beyond-academia-from-small-biotechs-to-big-pharma/
@@ -97,6 +115,30 @@ events:
   - biophysics
   - other
   description: Two-day hands-on training on producing pure, homogeneous, high-quality recombinant proteins for structural and functional studies, from bioinformatic construct design to expression, purification, stability and quality control with biophysical techniques.
+- title: Advances in Fragment Screening & Structure-Based Drug Discovery
+  organiser: EMBL, ESRF and Instruct-ERIC (Fragment-Screen project)
+  url: https://instruct-eric.org/events/advances-in-fragment-screening--structure-based-drug-discovery-january-28th-and-29th-2027/
+  start: '2027-01-28'
+  end: '2027-01-29'
+  location: EPN Campus, Grenoble, France
+  techniques:
+  - crystallography
+  - nmr
+  - cryo-em
+  - drug-design
+  description: Two-day meeting for academia, industry and fragment-screening facilities on X-ray and NMR fragment screening, AI and cryo-EM in drug design, and access to academic facilities. Posters welcome, with some chosen for talks. Register by 26 November 2026; PhD students who submit an abstract can apply for campus guesthouse rooms.
+- title: 'EMBO Workshop: In situ structural biology'
+  organiser: EMBO and EMBL
+  url: https://www.embl.org/about/info/course-and-conference-office/events/iss27-01/
+  start: '2027-02-09'
+  end: '2027-02-12'
+  location: EMBL Heidelberg, Germany, and online
+  techniques:
+  - cryo-em
+  - imaging
+  - mass-spec
+  - modelling-ai
+  description: 'Bridging molecular mechanisms with system-wide approaches: cryo-electron tomography, fluorescence microscopy, mass spectrometry and modelling of complexes in cells and tissues. Abstracts (on-site only) by 10 November 2026, on-site registration by 5 January 2027, virtual by 2 February 2027. EMBO travel, childcare and accessibility grants are available.'
 - title: Biophysical Society 71st Annual Meeting (BPS2027)
   organiser: Biophysical Society
   url: https://www.biophysics.org/2027meeting
@@ -153,7 +195,7 @@ events:
   location: Riga, Latvia
   techniques:
   - biophysics
-  description: Europe's largest biochemistry and molecular biology congress, preceded by the FEBS Young Scientists' Forum (1–3 July) for PhD students and postdocs. Registration and abstract submission open in late October 2026. Key deadlines are YSF applications by 9 December 2026, abstracts and FEBS bursaries by 1 March 2027 and early-bird registration by 3 March. The reduced Young Scientist rate is for those aged up to 35.
+  description: Europe's largest biochemistry and molecular biology congress, preceded by the FEBS Young Scientists' Forum (1–3 July) for PhD students and postdocs. Abstract submission opened at the end of October 2026. Key deadlines are YSF applications by 9 December 2026, the Sprinzl and Neighbours support schemes by 11 January 2027, abstracts and FEBS bursaries by 1 March 2027 and early-bird registration by 3 March. The reduced Young Scientist rate is for those aged up to 35.
 - title: The Protein Society 41st Annual Symposium
   organiser: The Protein Society
   url: https://www.proteinsociety.org/meetings
@@ -177,6 +219,25 @@ events:
   - nmr
   - modelling-ai
   description: A Biophysical Society conference in Oxford on the roles of protons in biology, from basic science to biomedicine, bringing together structural biology, simulation and physiology. Speakers include Judy Hirst, David Drew, Aashish Manglik, Mei Hong, Philip Biggin, Ville Kaila, Sharon Hammes-Schiffer and Pawel Swietach. Registration includes meals and, for those travelling, four nights in college. Abstracts by 5 April 2027 and early-bird registration by 26 April 2027.
+- title: 12th European Crystallography School (ECS12)
+  organiser: European Crystallographic Association (ECA)
+  url: https://www.ccp4.ac.uk/schools/ECS12/
+  start: '2027-07-21'
+  end: '2027-07-27'
+  location: Oxford, UK
+  techniques:
+  - crystallography
+  description: The ECA's European Crystallography School comes to Oxford in 2027. The programme and application details are not yet published; check the school website.
+- title: 'Molecular Biophysics of Membranes (BPS Conference)'
+  organiser: Biophysical Society
+  url: https://www.biophysics.org/meetings-events/bps-conferences/2027-molecular-biophysics-of-membranes-bps-conference
+  start: '2027-08-08'
+  end: '2027-08-11'
+  location: Keble College, Oxford, UK
+  techniques:
+  - biophysics
+  - modelling-ai
+  description: A Biophysical Society conference on membrane biophysics, organised by Francisco Barrera, Syma Khalid and Peter Tieleman. Speakers include Phil Biggin, Luke Clifton, Joanne Parker, Sheena Radford, Susan Lea, Simon Scheuring and Gregory Voth. Abstracts by 19 April 2027.
 - title: 36th European Crystallographic Meeting (ECM36)
   organiser: European Crystallographic Association
   url: http://www.xray.cz/ecm36/
@@ -186,6 +247,25 @@ events:
   techniques:
   - crystallography
   description: The European crystallography meeting, covering structural biology among all areas of crystallography. Free pre-registration is available on the meeting website; abstracts and paid registration open in November 2026. Key deadlines are bursary applications by 31 March 2027, abstracts for talks by 15 April, early-bird registration by 31 May and poster abstracts by 15 June (see the meeting's deadlines page).
+- title: Structural Bioinformatics 2027 (EMBL-EBI course)
+  organiser: EMBL-EBI
+  url: https://www.ebi.ac.uk/training/events/structural-bioinformatics-2027
+  start: '2027-09-13'
+  end: '2027-09-17'
+  location: Online
+  techniques:
+  - modelling-ai
+  description: EMBL-EBI's week-long online course for scientists who generate or use structural data; no prior structural bioinformatics experience needed. 35 places by application (2 March to 13 June 2027); fee £250 academic, £350 industry.
+- title: 'EMBO Workshop: Computational structural biology'
+  organiser: EMBO and EMBL
+  url: https://www.embl.org/about/info/course-and-conference-office/events/csb27-01/
+  start: '2027-10-26'
+  end: '2027-10-29'
+  location: EMBL Heidelberg, Germany, and online
+  techniques:
+  - modelling-ai
+  - drug-design
+  description: Integrative and all-atom modelling, nucleic acid–protein interactions, physics-based and machine-learned dynamics, biomolecular design and drug discovery. Includes short talks chosen from abstracts, posters and a job fair. Registration not yet open (register interest on the EMBL page).
 - title: CCP4/DLS Data Collection and Structure Solution Workshop 2026
   organiser: CCP4 and Diamond Light Source
   url: https://www.ccp4.ac.uk/workshop/ccp4-workshop-2-2-2-2/
@@ -225,4 +305,4 @@ events:
   - biophysics
   - imaging
   - modelling-ai
-  description: "The third biennial UK conference on biological physics, organised by the Physics of Life Network, the IOP Biological Physics Group, the British Biophysical Society and partners. Parallel sessions of interest to structural biologists include Protein Structure, Dynamics and Interactions (speakers include Briony Yorke and Alice Pyne), Imaging and Single Molecule Biology, and Biomolecular Assemblies and Condensates. Oral abstracts by 13 December 2026, poster abstracts by 22 January 2027, early-bird registration by 19 February 2027."
+  description: "The third biennial UK conference on biological physics, organised by the Physics of Life Network, the IOP Biological Physics Group, the British Biophysical Society and partners. Parallel sessions of interest to structural biologists include Protein Structure, Dynamics and Interactions (speakers include Briony Yorke and Alice Pyne), Imaging and Single Molecule Biology, and Biomolecular Assemblies and Condensates. Registration opens in November 2026. Oral abstracts by 13 December 2026, poster abstracts by 22 January 2027, early-bird registration by 19 February 2027, registration closes 12 March 2027."
