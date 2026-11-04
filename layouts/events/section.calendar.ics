@@ -1,6 +1,9 @@
 {{- /*
   iCalendar feed: BSG meetings with confirmed dates (and their deadlines) plus dated events from
   data/events.yaml. All-day events; DTEND is the day after the last day.
+  Every event is marked free (TRANSP:TRANSPARENT, plus the Outlook busy-status flag) because
+  people add this as an overlay calendar. Deadline entries start with "Deadline:" so a
+  truncated calendar cell does not look like the meeting itself.
 */ -}}
 {{- $items := slice }}
 {{- range where site.RegularPages "Section" "meetings" }}
@@ -8,7 +11,7 @@
     {{- $items = $items | append (dict "uid" (printf "bsg-%s@biostructures.org.uk" .File.ContentBaseName) "title" .Title "start" .Params.start "end" (or .Params.end .Params.start) "location" (partial "fn/place.html" .Params) "url" .Permalink "desc" (partial "fn/meeting-blurb.html" .)) }}
     {{- $p := . }}
     {{- range $i, $d := .Params.deadlines }}
-      {{- $items = $items | append (dict "uid" (printf "bsg-%s-deadline-%d@biostructures.org.uk" $p.File.ContentBaseName $i) "title" (printf "%s: %s" ($p.Params.short | default $p.Title) $d.label) "start" $d.date "end" $d.date "location" "" "url" $p.Permalink "desc" (printf "Deadline for %s" ($p.Params.short | default $p.Title))) }}
+      {{- $items = $items | append (dict "uid" (printf "bsg-%s-deadline-%d@biostructures.org.uk" $p.File.ContentBaseName $i) "title" (printf "Deadline: %s – %s" (strings.TrimSuffix " due" $d.label) ($p.Params.short | default $p.Title)) "start" $d.date "end" $d.date "location" "" "url" $p.Permalink "desc" (printf "Deadline (%s) for %s. The meeting itself is on %s." $d.label ($p.Params.short | default $p.Title) ((time.AsTime $p.Params.start).Format "2 January 2006"))) }}
     {{- end }}
   {{- end }}
 {{- end }}
@@ -20,7 +23,7 @@
 BEGIN:VCALENDAR{{ "\r\n" }}VERSION:2.0{{ "\r\n" }}PRODID:-//Biological Structures Group//Events//EN{{ "\r\n" }}CALSCALE:GREGORIAN{{ "\r\n" }}METHOD:PUBLISH{{ "\r\n" }}X-WR-CALNAME:BSG and structural biology events{{ "\r\n" }}X-WR-TIMEZONE:Europe/London{{ "\r\n" }}REFRESH-INTERVAL;VALUE=DURATION:PT12H{{ "\r\n" }}X-PUBLISHED-TTL:PT12H{{ "\r\n" }}
 {{- range $items }}
 {{- $s := time.AsTime .start }}{{ $e := (time.AsTime .end).AddDate 0 0 1 -}}
-BEGIN:VEVENT{{ "\r\n" }}{{ partial "fn/ics-fold.html" (printf "UID:%s" .uid) }}{{ "\r\n" }}DTSTAMP:{{ now.UTC.Format "20060102T150405Z" }}{{ "\r\n" }}DTSTART;VALUE=DATE:{{ $s.Format "20060102" }}{{ "\r\n" }}DTEND;VALUE=DATE:{{ $e.Format "20060102" }}{{ "\r\n" }}{{ partial "fn/ics-fold.html" (printf "SUMMARY:%s" (replace (replace (replace .title "\\" "\\\\") "," "\\,") ";" "\\;")) }}{{ "\r\n" }}
+BEGIN:VEVENT{{ "\r\n" }}{{ partial "fn/ics-fold.html" (printf "UID:%s" .uid) }}{{ "\r\n" }}DTSTAMP:{{ now.UTC.Format "20060102T150405Z" }}{{ "\r\n" }}DTSTART;VALUE=DATE:{{ $s.Format "20060102" }}{{ "\r\n" }}DTEND;VALUE=DATE:{{ $e.Format "20060102" }}{{ "\r\n" }}TRANSP:TRANSPARENT{{ "\r\n" }}X-MICROSOFT-CDO-BUSYSTATUS:FREE{{ "\r\n" }}{{ partial "fn/ics-fold.html" (printf "SUMMARY:%s" (replace (replace (replace .title "\\" "\\\\") "," "\\,") ";" "\\;")) }}{{ "\r\n" }}
 {{- with .location }}{{ partial "fn/ics-fold.html" (printf "LOCATION:%s" (replace (replace . "," "\\,") ";" "\\;")) }}{{ "\r\n" }}{{ end -}}
 {{ partial "fn/ics-fold.html" (printf "URL:%s" .url) }}{{ "\r\n" }}
 {{- with .desc }}{{ partial "fn/ics-fold.html" (printf "DESCRIPTION:%s" (replace (replace (. | plainify | strings.TrimSpace) "," "\\,") ";" "\\;")) }}{{ "\r\n" }}{{ end -}}
