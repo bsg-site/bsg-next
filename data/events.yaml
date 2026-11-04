@@ -159,6 +159,15 @@ events:
   techniques:
   - modelling-ai
   description: Computational biology conference with a structural, molecular and systems biology theme.
+- title: Biological Cryo-Imaging (BCI) User Meeting 2027
+  organiser: Diamond Light Source (eBIC and B24)
+  url: https://www.diamond.ac.uk/Instruments/Biological-Cryo-Imaging/eBIC/Training/Courses-and-workshops/2027-EventsCW/Biological-Cryo-Imaging--BCI--User-Meeting-2027---CCP-EM.html
+  start: '2027-04-21'
+  location: East Midlands Conference Centre, Nottingham, UK, and online
+  techniques:
+  - cryo-em
+  - imaging
+  description: Annual meeting for current and future users of eBIC, the UK national cryo-EM facility, and B24, Diamond's soft X-ray cryo-tomography beamline, with facility news and user science. Starts at 11:00 and is followed by the CCP-EM Spring Symposium. In-person registration opens in January 2027.
 - title: CCP-EM Spring Symposium 2027
   organiser: CCP-EM
   url: https://www.ccpem.ac.uk/symposium/
@@ -295,6 +304,15 @@ events:
   - cryo-em
   - biophysics
   description: Long-running international conference on protein structure and function.
+- title: Wellcome-MRC Cryo-EM in Structural Biology 2027
+  organiser: eBIC (Diamond Light Source) with the Astbury Biostructure Laboratory, Leeds
+  url: https://www.diamond.ac.uk/Instruments/Biological-Cryo-Imaging/eBIC/Training/Courses-and-workshops/2027-EventsCW/Cryo-EM-in-Structural-Biology-2027.html
+  start: '2027-03-01'
+  end: '2027-03-05'
+  location: Diamond Light Source, Harwell, and the Astbury Centre, Leeds, UK, and online
+  techniques:
+  - cryo-em
+  description: A week-long hybrid course for researchers new to cryo-EM, from sample preparation and the microscope to image processing, single-particle analysis, cryo-ET and model building. Lectures are streamed on Zoom; hands-on sessions are for in-person attendees only. 24 fully funded in-person places (12 at Diamond, 12 in Leeds) for PhD students and postdocs, UK and non-UK, by application, with accommodation, food and up to £250 travel support for those with limited funding. Free to attend online, but registration is required.
 - title: Physics of Life 2027
   organiser: Institute of Physics (IOP) with the British Biophysical Society and partners
   url: https://iop-physics-of-life-2027.eventsairsite.com/
