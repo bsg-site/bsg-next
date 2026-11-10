@@ -115,6 +115,15 @@ events:
   - biophysics
   - other
   description: Two-day hands-on training on producing pure, homogeneous, high-quality recombinant proteins for structural and functional studies, from bioinformatic construct design to expression, purification, stability and quality control with biophysical techniques.
+- title: 'Webinar: Conformational design of PROTACs for the clinic'
+  organiser: CCPBioSim
+  url: https://www.ccpbiosim.org/events/upcoming-events/astrazeneca2027
+  start: '2027-01-13'
+  location: Online
+  techniques:
+  - drug-design
+  - nmr
+  description: CCPBioSim industry talk, 14:00–15:30 UK time, on Zoom. Markus Schade and colleagues (AstraZeneca) show how an NMR method that classifies hydrogen-bond donors guided the design of orally available PROTACs, including the clinical androgen receptor degrader AZD9750. Free; the registration link is still to be posted on the CCPBioSim page.
 - title: Advances in Fragment Screening & Structure-Based Drug Discovery
   organiser: EMBL, ESRF and Instruct-ERIC (Fragment-Screen project)
   url: https://instruct-eric.org/events/advances-in-fragment-screening--structure-based-drug-discovery-january-28th-and-29th-2027/
