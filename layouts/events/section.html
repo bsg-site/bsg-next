@@ -29,13 +29,13 @@
     <p class="font-semibold text-brand-900 dark:text-brand-100">Subscribe to these events in your calendar</p>
     <p class="mt-1 text-brand-800/80 dark:text-brand-200/80">Includes BSG meetings. A subscription updates automatically when events are added or changed.</p>
     <div class="mt-3 flex flex-wrap items-center gap-2">
-      <a href="{{ printf "https://outlook.office.com/calendar/0/addfromweb?%s" $q | safeURL }}" class="{{ $btn }}">Outlook (work or university)</a>
-      <a href="{{ printf "https://outlook.live.com/calendar/0/addfromweb?%s" $q | safeURL }}" class="{{ $btn }}">Outlook.com</a>
-      <a href="{{ printf "https://calendar.google.com/calendar/r?cid=%s" (urlquery $webcal) | safeURL }}" class="{{ $btn }}">Google Calendar</a>
-      <a href="{{ $webcal | safeURL }}" class="{{ $btn }}">Apple Calendar</a>
-      <button type="button" data-copy="{{ $feed }}" class="{{ $btn }}">Copy feed link</button>
+      <a href="{{ printf "https://outlook.office.com/calendar/0/addfromweb?%s" $q | safeURL }}" data-goatcounter-click="calendar-outlook-work" class="{{ $btn }}">Outlook (work or university)</a>
+      <a href="{{ printf "https://outlook.live.com/calendar/0/addfromweb?%s" $q | safeURL }}" data-goatcounter-click="calendar-outlook-com" class="{{ $btn }}">Outlook.com</a>
+      <a href="{{ printf "https://calendar.google.com/calendar/r?cid=%s" (urlquery $webcal) | safeURL }}" data-goatcounter-click="calendar-google" class="{{ $btn }}">Google Calendar</a>
+      <a href="{{ $webcal | safeURL }}" data-goatcounter-click="calendar-apple" class="{{ $btn }}">Apple Calendar</a>
+      <button type="button" data-copy="{{ $feed }}" data-goatcounter-click="calendar-copy-link" class="{{ $btn }}">Copy feed link</button>
     </div>
-    <p class="mt-3 text-brand-800/80 dark:text-brand-200/80">Other apps: add a calendar “from the internet” or “by URL” and paste the feed link. Or <a href="{{ .RelPermalink }}" class="font-medium underline">download a one-off .ics file</a> (it will not update).</p>
+    <p class="mt-3 text-brand-800/80 dark:text-brand-200/80">Other apps: add a calendar “from the internet” or “by URL” and paste the feed link. Or <a href="{{ .RelPermalink }}" data-goatcounter-click="calendar-download-ics" class="font-medium underline">download a one-off .ics file</a> (it will not update).</p>
   </div>
   {{- end }}
   <div class="mt-8 grid gap-6 md:grid-cols-2 lg:grid-cols-3">

@@ -23,6 +23,7 @@
   <div class="border-t border-slate-200 dark:border-slate-800">
     <p class="mx-auto max-w-7xl px-4 py-5 text-xs text-slate-500 sm:px-6 lg:px-8 dark:text-slate-500">
       &copy; {{ now.Year }} Biological Structures Group, British Crystallographic Association.
+      {{- with site.Params.goatcounter }} We count visits anonymously with <a href="https://www.goatcounter.com/help/privacy" class="underline hover:text-slate-700 dark:hover:text-slate-300">GoatCounter</a>: no cookies and no personal data.{{ end }}
       {{- if site.Params.noindex }} <strong class="font-semibold text-accent-600 dark:text-accent-400">Draft mockup for committee review — not the official BSG site.</strong>{{ end }}
     </p>
   </div>
