@@ -844,6 +844,9 @@ groups:
     - name: Human Frontier Science Program (HFSP)
       url: https://www.hfsp.org/
       description: International, interdisciplinary fellowships and grants.
+    - name: World Wide funding calls (structural biology, UK hosts)
+      url: https://world-wide.org/structural-biology/grants?hostCountry=GB
+      description: Fellowships and grants that can be held at a UK host, collected from many funders, with deadlines. Check details on the funder's own page.
   - title: Access to facilities (free at the point of use)
     links:
     - name: 'Diamond Light Source: apply for beamtime'
@@ -865,6 +868,9 @@ groups:
     - name: EURAXESS
       url: https://euraxess.ec.europa.eu/jobs/search
       description: Research jobs across Europe.
+    - name: World Wide structural biology jobs
+      url: https://world-wide.org/structural-biology/jobs
+      description: International listing of structural biology jobs, from PhDs to group leaders, collected from many sources.
     - name: Lightsources.org careers
       url: https://lightsources.org/careers/
       description: Jobs at synchrotron and free-electron laser facilities worldwide.
