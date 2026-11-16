@@ -1,6 +1,438 @@
 {
- "updated": "2026-11-09",
+ "updated": "2026-11-16",
  "entries": [
+  {
+   "id": "9Z5K",
+   "db": "PDB",
+   "title": "Crystal structure of UFC1 at pH 5.5",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-11-11",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9z5k",
+   "image": "images/latest/9z5k.jpeg",
+   "resolution": 1.56,
+   "paper": {
+    "title": "Discovery and Characterization of a Novel Ligand-Binding Site in UFC1 Using Sulfa- and Sulfonate-Based Compounds",
+    "journal": "Biochemistry",
+    "year": 2026,
+    "doi": "10.1021/acs.biochem.5c00701",
+    "authors": "Mulligan, D. … Mahon, B.P."
+   }
+  },
+  {
+   "id": "9Z52",
+   "db": "PDB",
+   "title": "Crystal structure of UFC1 in complex with N-cyclohexyl-2-hydroxyl-3-aminopropanesulfonic acid (CAPS)",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-11-11",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9z52",
+   "image": "images/latest/9z52.jpeg",
+   "resolution": 2.0,
+   "paper": {
+    "title": "Discovery and Characterization of a Novel Ligand-Binding Site in UFC1 Using Sulfa- and Sulfonate-Based Compounds",
+    "journal": "Biochemistry",
+    "year": 2026,
+    "doi": "10.1021/acs.biochem.5c00701",
+    "authors": "Mulligan, D. … Mahon, B.P."
+   }
+  },
+  {
+   "id": "9T3W",
+   "db": "PDB",
+   "title": "Crystal structure of human soluble epoxide hydrolase C-terminal domain in complex with a benzoic acid inhibitor",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-11-11",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9t3w",
+   "image": "images/latest/9t3w.jpeg",
+   "resolution": 2.3,
+   "paper": {
+    "title": "Crystal structure of human soluble epoxide hydrolase C-terminal domain in complex with a benzoic acid inhibitor",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Qiu, Q. … Conte, M.R."
+   }
+  },
+  {
+   "id": "9T3V",
+   "db": "PDB",
+   "title": "Crystal structure of human soluble epoxide hydrolase C-terminal domain in complex with an N-benzylpiperidine-based inhibitor",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-11-11",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9t3v",
+   "image": "images/latest/9t3v.jpeg",
+   "resolution": 1.9,
+   "paper": {
+    "title": "Crystal structure of human soluble epoxide hydrolase C-terminal domain in complex with an N-benzylpiperidine-based inhibitor",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Qiu, Q. … Conte, M.R."
+   }
+  },
+  {
+   "id": "9T3U",
+   "db": "PDB",
+   "title": "Crystal structure of human soluble epoxide hydrolase C-terminal domain in complex with a TPPU-6-chlorotacrine hybrid",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-11-11",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9t3u",
+   "image": "images/latest/9t3u.jpeg",
+   "resolution": 2.0,
+   "paper": {
+    "title": "Crystal structure of human soluble epoxide hydrolase C-terminal domain in complex with a TPPU-6-chlorotacrine hybrid",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Qiu, Q. … Conte, M.R."
+   }
+  },
+  {
+   "id": "9T3K",
+   "db": "PDB",
+   "title": "Crystal Structure of Phenylalanine Ammonia Lyase (PAL) from Petroselinum crispum bound to m-CF3 cinnamic acid",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-11-11",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9t3k",
+   "image": "images/latest/9t3k.jpeg",
+   "resolution": 1.8,
+   "paper": {
+    "title": "Crystal Structure of Phenylalanine Ammonia Lyase (PAL) from Petroselinum crispum bound to m-CF3 cinnamic acid",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Lang, P.A. … Brem, J."
+   }
+  },
+  {
+   "id": "9RZW",
+   "db": "PDB",
+   "title": "Crystal structure of PNGase A from Bifidobacterium bifidum LMG13195",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-11-11",
+   "reasons": [
+    "UK-funded"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9rzw",
+   "image": "images/latest/9rzw.jpeg",
+   "resolution": 1.9,
+   "paper": {
+    "title": "To Be Published",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "10.1038/s41467-026-78972-1",
+    "authors": "Bakshani, C.R. … Crouch, L.I."
+   }
+  },
+  {
+   "id": "9I4Y",
+   "db": "PDB",
+   "title": "Toxoplasma gondii cytochrome c oxidase from the respiratory supercomplex III2-IV",
+   "method": "Cryo-EM",
+   "techniques": [
+    "cryo-em"
+   ],
+   "released": "2026-11-11",
+   "reasons": [
+    "UK-funded"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9i4y",
+   "image": "images/latest/9i4y.jpeg",
+   "resolution": 2.95,
+   "emdb": [
+    "EMD-52622"
+   ],
+   "paper": {
+    "title": "Structure, assembly and inhibition of the Toxoplasma gondii respiratory chain supercomplex",
+    "journal": "Nat.Struct.Mol.Biol.",
+    "year": 2025,
+    "doi": "10.1038/s41594-025-01531-7",
+    "authors": "MacLean, A.E. … Muhleip, A."
+   }
+  },
+  {
+   "id": "34LU",
+   "db": "PDB",
+   "title": "Trp-5-Hal - Consensus designed artificial tryptophan-5-halogenase",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-11-11",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/34lu",
+   "image": "images/latest/34lu.jpeg",
+   "resolution": 2.0,
+   "paper": {
+    "title": "Deciphering regioselectivity for the design of partially-consensus and nature-inspired functional flavin-dependent halogenases",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Richmond, D.T. … Menon, B.R.K."
+   }
+  },
+  {
+   "id": "34LT",
+   "db": "PDB",
+   "title": "Trp-7-Hal - Consensus designed artificial tryptophan-7-halogenase",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-11-11",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/34lt",
+   "image": "images/latest/34lt.jpeg",
+   "resolution": 2.5,
+   "paper": {
+    "title": "Deciphering regioselectivity for the design of partially-consensus and nature-inspired functional flavin-dependent halogenases",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Richmond, D.T. … Menon, B.R.K."
+   }
+  },
+  {
+   "id": "33QJ",
+   "db": "PDB",
+   "title": "Cytochrome P450 Reductases in complex with NADPH from Candida albicans",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-11-11",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/33qj",
+   "image": "images/latest/33qj.jpeg",
+   "resolution": 2.15,
+   "paper": {
+    "title": "To Be Published",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "10.1007/s00253-026-14078-4",
+    "authors": "Gidaga, M.S. … Opperman, D.J."
+   }
+  },
+  {
+   "id": "33QG",
+   "db": "PDB",
+   "title": "Cytochrome P450 reductase in complex with NADPH from Mycosarcoma maydis",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-11-11",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/33qg",
+   "image": "images/latest/33qg.jpeg",
+   "resolution": 2.45,
+   "paper": {
+    "title": "To Be Published",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "10.1007/s00253-026-14078-4",
+    "authors": "Gidaga, M.S. … Opperman, D.J."
+   }
+  },
+  {
+   "id": "30AR",
+   "db": "PDB",
+   "title": "Cryo-EM structure of human PRIMPOL bound to the CMG helicase",
+   "method": "Cryo-EM",
+   "techniques": [
+    "cryo-em"
+   ],
+   "released": "2026-11-11",
+   "reasons": [
+    "UK-funded"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/30ar",
+   "image": "images/latest/30ar.jpeg",
+   "resolution": 3.3,
+   "emdb": [
+    "EMD-57512"
+   ],
+   "paper": {
+    "title": "Human replisomes direct a dedicated leading-strand primase for fork restart",
+    "journal": "Nature",
+    "year": 2026,
+    "doi": "10.1038/s41586-026-11204-0",
+    "authors": "Polo Rivera, C. … Yeeles, J.T.P."
+   }
+  },
+  {
+   "id": "28TI",
+   "db": "PDB",
+   "title": "TraI relaxase in its helicase state in complex with fork DNA (TraI-HEL)",
+   "method": "Cryo-EM",
+   "techniques": [
+    "cryo-em"
+   ],
+   "released": "2026-11-11",
+   "reasons": [
+    "UK-funded"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/28ti",
+   "image": "images/latest/28ti.jpeg",
+   "resolution": 3.5,
+   "emdb": [
+    "EMD-56432"
+   ],
+   "paper": {
+    "title": "Relaxase asymmetry drives initiation of bacterial conjugation",
+    "journal": "Nat Commun",
+    "year": 2026,
+    "doi": "10.1038/s41467-026-78888-w",
+    "authors": "Gorenkin, D. … Ilangovan, A."
+   }
+  },
+  {
+   "id": "28TH",
+   "db": "PDB",
+   "title": "Two TraI relaxases in their asymmetric homodimer state in complex with fork DNA (TraI-AHD)",
+   "method": "Cryo-EM",
+   "techniques": [
+    "cryo-em"
+   ],
+   "released": "2026-11-11",
+   "reasons": [
+    "UK-funded"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/28th",
+   "image": "images/latest/28th.jpeg",
+   "resolution": 3.67,
+   "emdb": [
+    "EMD-56436"
+   ],
+   "paper": {
+    "title": "Relaxase asymmetry drives initiation of bacterial conjugation",
+    "journal": "Nat Commun",
+    "year": 2026,
+    "doi": "10.1038/s41467-026-78888-w",
+    "authors": "Gorenkin, D. … Ilangovan, A."
+   }
+  },
+  {
+   "id": "11CX",
+   "db": "PDB",
+   "title": "Crystal structure of mouse Fc gamma receptor IV",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-11-11",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/11cx",
+   "image": "images/latest/11cx.jpeg",
+   "resolution": 2.81,
+   "paper": {
+    "title": "Filling the gap between human IgG1-Fc binding with hFc gamma Receptor IIIA and mFc gamma Receptor IV",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Mo, G. … Yan, Z."
+   }
+  },
+  {
+   "id": "11CW",
+   "db": "PDB",
+   "title": "Crystal structure of mouse IgG2a Fc in complex with mouse Fc gamma receptor IV",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-11-11",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/11cw",
+   "image": "images/latest/11cw.jpeg",
+   "resolution": 3.16,
+   "paper": {
+    "title": "Filling the gap between human IgG1-Fc binding with hFc gamma Receptor IIIA and mFc gamma Receptor IV",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Mo, G. … Yan, Z."
+   }
+  },
+  {
+   "id": "11CT",
+   "db": "PDB",
+   "title": "Crystal structure of mouse IgG2a-Fc",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-11-11",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/11ct",
+   "image": "images/latest/11ct.jpeg",
+   "resolution": 3.21,
+   "paper": {
+    "title": "Crystal structure of mouse IgG2a-Fc",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Guo, M. … Yan, Z."
+   }
+  },
   {
    "id": "9ZEV",
    "db": "PDB",
@@ -1023,432 +1455,6 @@
     "year": 2026,
     "doi": "10.64898/2026.09.24.754241",
     "authors": "Wang, N. … Garcia, K.C."
-   }
-  },
-  {
-   "id": "9X6G",
-   "db": "PDB",
-   "title": "Filament of mutant Escherichia coli CTP synthase fused with mEGFP",
-   "method": "Cryo-EM",
-   "techniques": [
-    "cryo-em"
-   ],
-   "released": "2026-10-28",
-   "reasons": [
-    "UK-funded"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9x6g",
-   "image": "images/latest/9x6g.jpeg",
-   "resolution": 3.39,
-   "emdb": [
-    "EMD-66620"
-   ],
-   "paper": {
-    "title": "VitisC: Visualizing small proteins via the integrated scaffold of Escherichia coli CTP synthase (CTPS) cytoophidium",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Yin, B.Q. … Liu, J.L."
-   }
-  },
-  {
-   "id": "9TOH",
-   "db": "PDB",
-   "title": "Room temperature serial crystal structure of CTX-M-15 class A beta-lactamase mixed with avibactam for 600 s",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-28",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9toh",
-   "image": "images/latest/9toh.jpeg",
-   "resolution": 1.7,
-   "paper": {
-    "title": "Time-resolved ligand dynamics revealed in a beta-lactamase using room-temperature serial crystallography",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Tooke, C.L. … Spencer, J."
-   }
-  },
-  {
-   "id": "9TOG",
-   "db": "PDB",
-   "title": "CTX-M-15 class A beta-lactamase mixed with avibactam for 3 hours, then washed for 1800 s, cryo crystal structure",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-28",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9tog",
-   "image": "images/latest/9tog.jpeg",
-   "resolution": 0.87,
-   "paper": {
-    "title": "Time-resolved ligand dynamics revealed in a beta-lactamase using room-temperature serial crystallography",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Tooke, C.L. … Spencer, J."
-   }
-  },
-  {
-   "id": "9TOF",
-   "db": "PDB",
-   "title": "CTX-M-15 class A beta-lactamase mixed with avibactam for 3 hours, then washed for 300 s, cryo crystal structure",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-28",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9tof",
-   "image": "images/latest/9tof.jpeg",
-   "resolution": 1.24,
-   "paper": {
-    "title": "Time-resolved ligand dynamics revealed in a beta-lactamase using room-temperature serial crystallography",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Tooke, C.L. … Spencer, J."
-   }
-  },
-  {
-   "id": "9TOE",
-   "db": "PDB",
-   "title": "CTX-M-15 class A beta-lactamase mixed with avibactam for 3 hours, then washed for 50 s, cryo crystal structure",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-28",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9toe",
-   "image": "images/latest/9toe.jpeg",
-   "resolution": 1.01,
-   "paper": {
-    "title": "Time-resolved ligand dynamics revealed in a beta-lactamase using room-temperature serial crystallography",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Tooke, C.L. … Spencer, J."
-   }
-  },
-  {
-   "id": "9TOD",
-   "db": "PDB",
-   "title": "CTX-M-15 class A beta-lactamase mixed with avibactam for 3 hours, then washed for 10 s, cryo crystal structure",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-28",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9tod",
-   "image": "images/latest/9tod.jpeg",
-   "resolution": 1.22,
-   "paper": {
-    "title": "Time-resolved ligand dynamics revealed in a beta-lactamase using room-temperature serial crystallography",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Tooke, C.L. … Spencer, J."
-   }
-  },
-  {
-   "id": "9TOC",
-   "db": "PDB",
-   "title": "CTX-M-15 class A beta-lactamase mixed with avibactam for 10 s, cryo crystal structure",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-28",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9toc",
-   "image": "images/latest/9toc.jpeg",
-   "resolution": 0.94,
-   "paper": {
-    "title": "Time-resolved ligand dynamics revealed in a beta-lactamase using room-temperature serial crystallography",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Tooke, C.L. … Spencer, J."
-   }
-  },
-  {
-   "id": "9TOB",
-   "db": "PDB",
-   "title": "Room temperature serial crystal structure of CTX-M-15 class A beta-lactamase, drop on fixed target from DLS, 1.3 s checkerboard control (20 mM avibactam)",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-28",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9tob",
-   "image": "images/latest/9tob.jpeg",
-   "resolution": 1.92,
-   "paper": {
-    "title": "Time-resolved ligand dynamics revealed in a beta-lactamase using room-temperature serial crystallography",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Parkinson, L. … Spencer, J."
-   }
-  },
-  {
-   "id": "9TOA",
-   "db": "PDB",
-   "title": "Room temperature serial crystal structure of CTX-M-15 class A beta-lactamase, drop on fixed target from DLS, 1.3 s mixed with 20 mM avibactam (no modelled ligand)",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-28",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9toa",
-   "image": "images/latest/9toa.jpeg",
-   "resolution": 1.92,
-   "paper": {
-    "title": "Time-resolved ligand dynamics revealed in a beta-lactamase using room-temperature serial crystallography",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Parkinson, L. … Spencer, J."
-   }
-  },
-  {
-   "id": "9TO9",
-   "db": "PDB",
-   "title": "Room temperature serial crystal structure of CTX-M-15 class A beta-lactamase, drop on fixed target from DLS, 1.3 s checkerboard control (50 mM avibactam)",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-28",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9to9",
-   "image": "images/latest/9to9.jpeg",
-   "resolution": 1.74,
-   "paper": {
-    "title": "Time-resolved ligand dynamics revealed in a beta-lactamase using room-temperature serial crystallography",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Parkinson, L. … Spencer, J."
-   }
-  },
-  {
-   "id": "9TO8",
-   "db": "PDB",
-   "title": "Room temperature serial crystal structure of CTX-M-15 class A beta-lactamase, drop on fixed target from DLS, 1.3 s mixed with 50 mM avibactam",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-28",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9to8",
-   "image": "images/latest/9to8.jpeg",
-   "resolution": 1.76,
-   "paper": {
-    "title": "Time-resolved ligand dynamics revealed in a beta-lactamase using room-temperature serial crystallography",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Parkinson, L. … Spencer, J."
-   }
-  },
-  {
-   "id": "9TO7",
-   "db": "PDB",
-   "title": "Room temperature serial crystal structure of CTX-M-15 class A beta-lactamase, drop on fixed target from DLS, 1.3 s checkerboard control (300 mM avibactam)",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-28",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9to7",
-   "image": "images/latest/9to7.jpeg",
-   "resolution": 1.62,
-   "paper": {
-    "title": "Time-resolved ligand dynamics revealed in a beta-lactamase using room-temperature serial crystallography",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Parkinson, L. … Spencer, J."
-   }
-  },
-  {
-   "id": "9TO6",
-   "db": "PDB",
-   "title": "Room temperature serial crystal structure of CTX-M-15 class A beta-lactamase, drop on fixed target from DLS, 1.3 s mixed with 300 mM avibactam",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-28",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9to6",
-   "image": "images/latest/9to6.jpeg",
-   "resolution": 1.62,
-   "paper": {
-    "title": "Time-resolved ligand dynamics revealed in a beta-lactamase using room-temperature serial crystallography",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Parkinson, L. … Spencer, J."
-   }
-  },
-  {
-   "id": "9T0J",
-   "db": "PDB",
-   "title": "Spraguea lophii ribosome dimer, conformation 2.",
-   "method": "Cryo-EM",
-   "techniques": [
-    "cryo-em"
-   ],
-   "released": "2026-10-28",
-   "reasons": [
-    "UK-funded"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9t0j",
-   "image": "images/latest/9t0j.jpeg",
-   "resolution": 10.9,
-   "emdb": [
-    "EMD-55402"
-   ],
-   "paper": {
-    "title": "New clues about ribosome hibernation in microsporidia revealed by cryo-electron tomography",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "McLaren, M. … Conners, R."
-   }
-  },
-  {
-   "id": "9T0I",
-   "db": "PDB",
-   "title": "Spraguea lophii ribosome dimer, conformation 1.",
-   "method": "Cryo-EM",
-   "techniques": [
-    "cryo-em"
-   ],
-   "released": "2026-10-28",
-   "reasons": [
-    "UK-funded"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9t0i",
-   "image": "images/latest/9t0i.jpeg",
-   "resolution": 9.8,
-   "emdb": [
-    "EMD-55401"
-   ],
-   "paper": {
-    "title": "New clues about ribosome hibernation in microsporidia revealed by cryo-electron tomography",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "McLaren, M. … Conners, R."
-   }
-  },
-  {
-   "id": "9QY9",
-   "db": "PDB",
-   "title": "Listeria monocytogenes GT108 family enzyme, native",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-28",
-   "reasons": [
-    "UK-funded",
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9qy9",
-   "image": "images/latest/9qy9.jpeg",
-   "resolution": 1.41,
-   "paper": {
-    "title": "Structural and Functional Insights into GT108 Enzymes Reveal a Conserved Phosphorylase Mechanism for beta-1,2-Mannogen Metabolism",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Males, A. … Davies, G.J."
-   }
-  },
-  {
-   "id": "9QY4",
-   "db": "PDB",
-   "title": "GT108 family enzyme from Chlamydia abortus in complex with mannose-1-phosphate (M1P)",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-28",
-   "reasons": [
-    "UK-funded",
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9qy4",
-   "image": "images/latest/9qy4.jpeg",
-   "resolution": 1.68,
-   "paper": {
-    "title": "Structural and Functional Insights into GT108 Enzymes Reveal a Conserved Phosphorylase Mechanism for beta-1,2-Mannogen Metabolism",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Males, A. … Davies, G.J."
-   }
-  },
-  {
-   "id": "9QXM",
-   "db": "PDB",
-   "title": "Nostoc sp. 3335mg GT108 family enzyme complex with DMJ",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-10-28",
-   "reasons": [
-    "UK-funded",
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9qxm",
-   "image": "images/latest/9qxm.jpeg",
-   "resolution": 1.47,
-   "paper": {
-    "title": "Structural and Functional Insights into GT108 Enzymes Reveal a Conserved Phosphorylase Mechanism for beta-1,2-Mannogen Metabolism",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Males, A. … Davies, G.J."
    }
   }
  ]
