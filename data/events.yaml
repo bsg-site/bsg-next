@@ -168,6 +168,19 @@ events:
   - cryo-em
   - modelling-ai
   description: The Biophysical Society's annual meeting, one of the largest biophysics conferences, with strong structural biology, cryo-EM and simulation sessions. The regular abstract deadline has passed; late abstracts (with a handling fee) and early-bird registration close on 5 January 2027.
+- title: 'FEBS Workshop: Time-resolved Spectroscopy Meets Time-resolved Crystallography'
+  organiser: FEBS
+  url: https://dynamicphotobiology2027.febsevents.org/
+  start: '2027-04-06'
+  end: '2027-04-08'
+  location: ICFO, Castelldefels (Barcelona), Spain
+  techniques:
+  - crystallography
+  - saxs
+  - cryo-em
+  - biophysics
+  - modelling-ai
+  description: 'Advances and challenges in time-resolved spectroscopy, serial crystallography at synchrotrons and XFELs, solution scattering and cryo-EM, with MD and QM/MM methods and triggering strategies beyond light (mixing, photocages, temperature jumps). Lectures, tutorials and a visit to the ALBA synchrotron; limited to 80 participants. Apply with an abstract by 18 December 2026 (also the deadline for FEBS Young Scientist travel grants); fees of €660–850 include four nights'' accommodation and meals, with some reduced-fee rooms for PhD students and postdocs in need.'
 - title: ISCB UK 2027
   organiser: International Society for Computational Biology
   url: https://www.iscb.org/uk2027/home
