@@ -237,6 +237,18 @@ events:
   techniques:
   - cryo-em
   description: A two-day meeting for staff of life science cryo-EM facilities across the UK to share best practice, challenges and solutions.
+- title: 'EMBO|FEBS Lecture Course: Physical virology, from form to function'
+  organiser: EMBO and FEBS
+  url: https://meetings.embo.org/event/27-physical-virology
+  start: '2027-06-13'
+  end: '2027-06-18'
+  location: Hotel Eden Roc, Sant Feliu de Guíxols, Spain
+  techniques:
+  - cryo-em
+  - biophysics
+  - imaging
+  - modelling-ai
+  description: 'How viral structure, mechanics and dynamics determine infection: virion architecture and assembly, membrane fusion and entry, virus-host interactions, mathematical modelling and AI, designed protein cages, and AFM, optical and cell-free methods. Speakers include John Briggs, Carmen San Martín, Daniel Hurdiss and Reidun Twarock. Mainly for PhD students and postdocs; apply with an abstract and motivation statement by 15 February 2027. Fees from €850 (students and postdocs) include five nights'' full board; FEBS registration grants of up to €800 and EMBO childcare and accessibility grants are available.'
 - title: 'Gordon Research Conference: Three Dimensional Electron Microscopy'
   organiser: Gordon Research Conferences
   url: https://www.grc.org/three-dimensional-electron-microscopy-conference/2027/
