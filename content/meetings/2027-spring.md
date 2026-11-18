@@ -22,9 +22,9 @@ The BSG will run sessions at the BCA Spring Meeting 2027. The meeting, *Diversit
 
 ## Registration and abstracts
 
-**[Registration is open](https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=156758&eventID=380)** on the conference website, which also has the venue and accommodation.
+**[Registration](https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=156758&eventID=380) and abstract submission are open** on the conference website, which also has the venue and accommodation.
 
-- **18 January 2027:** deadline for abstracts (submission opens shortly)
+- **18 January 2027, 09:00:** deadline for abstracts (submission is open)
 - **February 2027:** notification of abstract acceptance
 - **26 February 2027, 23:59:** early bird registration closes
 - **18 March 2027, 23:59:** registration closes
