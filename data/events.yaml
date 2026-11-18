@@ -88,6 +88,15 @@ events:
   techniques:
   - modelling-ai
   description: Two-day hands-on workshop on preparing biomolecular systems for molecular dynamics, from placing proteins in lipid bilayers and preparing structures (including fitting to cryo-EM maps) to peptide fibrils and DNA. No prior experience needed; bring a laptop. Limited to 25 places, £25 including lunches; register by 19 November 2026.
+- title: 'Sampling with Agents: a Hackathon for Molecular Simulation'
+  organiser: CCPBioSim
+  url: https://www.ccpbiosim.org/events/upcoming-events/hackathon2026
+  start: '2026-12-08'
+  end: '2026-12-08'
+  location: Institute of Physics, London, UK
+  techniques:
+  - modelling-ai
+  description: A one-day hackathon for researchers in molecular simulation, statistical mechanics and enhanced or path sampling, working hands-on with AI coding agents on real scientific and software problems. Places are still available; send an expression of interest by 25 November 2026 (reviewed on a rolling basis, selected applicants are invited to register).
 - title: 'Webinar: Biochemistry beyond academia, from small biotechs to big pharma'
   organiser: Biochemical Society
   url: https://www.biochemistry.org/events-and-training/events-calendar/biochemistry-beyond-academia-from-small-biotechs-to-big-pharma/
@@ -189,14 +198,32 @@ events:
 - title: '97th Harden Conference: Protein Kinases and Pseudokinases'
   organiser: Biochemical Society
   url: https://www.biochemistry.org/events-and-training/events-calendar/97th-harden-conference-protein-kinases-and-pseudokinases-the-next-generation/
-  start: '2027-05-24'
-  end: '2027-05-27'
-  location: Liverpool, UK
+  start: '2027-05-25'
+  end: '2027-05-28'
+  location: INNSIDE by Meliá, Liverpool, UK
   techniques:
   - drug-design
   - biophysics
   - crystallography
-  description: The Biochemical Society's conference on the next generation of kinase and pseudokinase research, from signalling mechanisms, enzymology and structural biology to chemical biology, drug discovery and translational science. Keynotes, talks chosen for early-career researchers, and poster sessions. Venue and registration to be announced; you can register your interest for alerts.
+  description: The Biochemical Society's conference on the next generation of kinase and pseudokinase research, from signalling mechanisms, enzymology and structural biology to chemical biology, drug discovery and translational science. Keynotes, talks chosen from abstracts (early-career researchers especially encouraged), and poster sessions. Registration and abstract submission are open; super early booking (save £100) until 25 February 2027, early booking and abstracts by 25 March 2027.
+- title: 'A complete roadmap to drug discovery: from computer-aided design to the bench and bedside'
+  organiser: Biochemical Society
+  url: https://www.biochemistry.org/events-and-training/events-calendar/a-complete-roadmap-to-drug-discovery-from-computer-aided-design-to-the-bench-and-bedside/
+  when: May 2027
+  location: Online
+  techniques:
+  - drug-design
+  - modelling-ai
+  description: A three-day online course (four hours a day) on the drug discovery pipeline, with lectures and hands-on sessions on in silico design, protein-ligand interactions, molecular modelling, machine learning and drug validation using open-source tools. For PhD students, postdocs and scientists with basic molecular science and some familiarity with computational tools. Exact dates, times and cost to be announced.
+- title: UK CryoEM Facilities Meeting 2027
+  organiser: CCP-EM
+  url: https://www.ccpem.ac.uk/training/courses/
+  start: '2027-06-01'
+  end: '2027-06-02'
+  location: University of Warwick, Coventry, UK
+  techniques:
+  - cryo-em
+  description: A two-day meeting for staff of life science cryo-EM facilities across the UK to share best practice, challenges and solutions.
 - title: 'Gordon Research Conference: Three Dimensional Electron Microscopy'
   organiser: Gordon Research Conferences
   url: https://www.grc.org/three-dimensional-electron-microscopy-conference/2027/
@@ -302,7 +329,7 @@ events:
   techniques:
   - crystallography
   - cryo-em
-  description: CCP4's annual study weekend, this year on time-resolved crystallography, metalloproteins, serial data processing and refinement. In person or online (free online), with the Diamond MX User Meeting on 6 January and a student poster session that evening. Registration is open; students registering by 15 November get free registration and one night's accommodation; in-person registration closes 6 December. Travel bursaries for students and young postdocs from non-UK labs (apply by 31 October).
+  description: CCP4's annual study weekend, this year on time-resolved crystallography, metalloproteins, serial data processing and refinement. In person or online (free online), with the Diamond MX User Meeting on 6 January and a student poster session that evening. Registration is open; early bird registration until 22 November; students registering in the early bird period get a bursary covering registration and one night's accommodation; in-person registration closes 6 December. Travel bursaries for students and young postdocs from non-UK labs (apply by 31 October).
 - title: Lorne Conference on Protein Structure and Function 2027
   organiser: Lorne Proteins
   url: https://www.lorneproteins.org/
@@ -322,6 +349,19 @@ events:
   techniques:
   - cryo-em
   description: A week-long hybrid course for researchers new to cryo-EM, from sample preparation and the microscope to image processing, single-particle analysis, cryo-ET and model building. Lectures are streamed on Zoom; hands-on sessions are for in-person attendees only. 24 fully funded in-person places (12 at Diamond, 12 in Leeds) for PhD students and postdocs, UK and non-UK, by application, with accommodation, food and up to £250 travel support for those with limited funding. Free to attend online, but registration is required.
+- title: RSC-BMCS 4th Conformational Design in Drug Discovery
+  organiser: Royal Society of Chemistry, Biological and Medicinal Chemistry Sector (RSC-BMCS)
+  url: https://www.rscbmcs.org/events/conformationaldesign27/
+  start: '2027-03-01'
+  end: '2027-03-01'
+  location: Burlington House, London, UK
+  techniques:
+  - drug-design
+  - nmr
+  - crystallography
+  - cryo-em
+  - modelling-ai
+  description: A one-day symposium on ligand conformations in drug design, bringing together computational methods (generative AI, free-energy perturbation) with NMR solution conformations and protein-ligand X-ray and cryo-EM structures. Open to medicinal and computational chemists, structural biologists and biophysicists; no prior knowledge of conformational design needed. Abstracts for talks and posters by 11 December 2026; early-bird registration until 14 January 2027 (student non-members £75, RSC student members £55).
 - title: Physics of Life 2027
   organiser: Institute of Physics (IOP) with the British Biophysical Society and partners
   url: https://iop-physics-of-life-2027.eventsairsite.com/
