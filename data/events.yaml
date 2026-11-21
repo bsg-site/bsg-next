@@ -97,6 +97,15 @@ events:
   techniques:
   - modelling-ai
   description: A one-day hackathon for researchers in molecular simulation, statistical mechanics and enhanced or path sampling, working hands-on with AI coding agents on real scientific and software problems. Places are still available; send an expression of interest by 25 November 2026 (reviewed on a rolling basis, selected applicants are invited to register).
+- title: 'Webinar: Emerging methods in cryo-EM sample preparation'
+  organiser: Thermo Fisher Scientific
+  url: https://www.thermofisher.com/uk/en/home/events/emerging-sample-preparation-methods.html
+  start: '2026-12-08'
+  location: Online
+  techniques:
+  - cryo-em
+  - mass-spec
+  description: Live webinar at 15:00 UK time (16:00 CET) on new approaches to single-particle cryo-EM sample preparation still under development. Tim Esser (Thermo Fisher Scientific) on native soft-landing electrospray mass spectrometry for grid preparation, Claudio Alfieri (Institute of Cancer Research) on Cryo-tides, peptides that protect complexes and improve particle orientation, and Caleigh Azumaya (Genentech) on cryoSHIELDs, amphipathic peptides that counter the air-water interface. Register through the Thermo Fisher page.
 - title: 'Webinar: Biochemistry beyond academia, from small biotechs to big pharma'
   organiser: Biochemical Society
   url: https://www.biochemistry.org/events-and-training/events-calendar/biochemistry-beyond-academia-from-small-biotechs-to-big-pharma/
