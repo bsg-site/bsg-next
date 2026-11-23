@@ -246,6 +246,16 @@ events:
   techniques:
   - cryo-em
   description: A two-day meeting for staff of life science cryo-EM facilities across the UK to share best practice, challenges and solutions.
+- title: AI x BIO 2027
+  organiser: Wellcome Connecting Science
+  url: https://coursesandconferences.wellcomeconnectingscience.org/event/ai-x-bio-20270607/
+  start: '2027-06-07'
+  end: '2027-06-09'
+  location: Wellcome Genome Campus, Hinxton, UK, and online
+  techniques:
+  - modelling-ai
+  - drug-design
+  description: The third annual AIxBIO conference brings together researchers in AI, computer science, biology and biomedicine, from gene regulation and protein structure to cells, tissues and organs, with themes including therapeutic development and drug discovery and imaging. Noelia Ferruz (CRG) is on the programme committee and Joe Greener (MRC LMB) is among the speakers. Abstracts are welcome for talks, lightning talks and posters. Bursary applications by 15 March 2027 and in-person registration by 10 May 2027; fees to be announced.
 - title: 'EMBO|FEBS Lecture Course: Physical virology, from form to function'
   organiser: EMBO and FEBS
   url: https://meetings.embo.org/event/27-physical-virology
@@ -320,12 +330,12 @@ events:
 - title: 36th European Crystallographic Meeting (ECM36)
   organiser: European Crystallographic Association
   url: http://www.xray.cz/ecm36/
-  start: 2027-08-23
-  end: 2027-08-28
+  start: '2027-08-23'
+  end: '2027-08-28'
   location: Prague, Czech Republic
   techniques:
   - crystallography
-  description: The European crystallography meeting, covering structural biology among all areas of crystallography. Free pre-registration is available on the meeting website; abstracts and paid registration open in November 2026. Key deadlines are bursary applications by 31 March 2027, abstracts for talks by 15 April, early-bird registration by 31 May and poster abstracts by 15 June (see the meeting's deadlines page).
+  description: The European crystallography meeting, covering structural biology among all areas of crystallography. Free pre-registration is available on the meeting website; abstracts and paid registration open in November 2026. Key deadlines are very early-bird registration in January 2027, bursary applications by 31 March 2027, abstracts for talks by 15 April, early-bird registration by 31 May and poster abstracts by 15 June (see the meeting's deadlines page).
 - title: Structural Bioinformatics 2027 (EMBL-EBI course)
   organiser: EMBL-EBI
   url: https://www.ebi.ac.uk/training/events/structural-bioinformatics-2027
@@ -363,7 +373,7 @@ events:
   techniques:
   - crystallography
   - cryo-em
-  description: CCP4's annual study weekend, this year on time-resolved crystallography, metalloproteins, serial data processing and refinement. In person or online (free online), with the Diamond MX User Meeting on 6 January and a student poster session that evening. Registration is open; early bird registration until 22 November; students registering in the early bird period get a bursary covering registration and one night's accommodation; in-person registration closes 6 December. Travel bursaries for students and young postdocs from non-UK labs (apply by 31 October).
+  description: CCP4's annual study weekend, this year on time-resolved crystallography, metalloproteins, serial data processing and refinement. In person or online (free online), with the Diamond MX User Meeting on 6 January and a student poster session that evening. Registration is open. In-person registration closes on 6 December 2026 (or earlier if places sell out), online registration on 8 January 2027. The early bird period, with its student bursaries, has ended.
 - title: Lorne Conference on Protein Structure and Function 2027
   organiser: Lorne Proteins
   url: https://www.lorneproteins.org/
