@@ -1,6 +1,181 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-23",
  "entries": [
+  {
+   "id": "SASDYU4",
+   "db": "SASBDB",
+   "title": "Cell division control protein 12 (coiled-coil, fused to MBP, long conection loop)",
+   "method": "Bio-SAXS",
+   "techniques": [
+    "saxs"
+   ],
+   "released": "2026-11-18",
+   "reasons": [
+    "Measured at Diamond Light Source B21"
+   ],
+   "url": "https://www.sasbdb.org/data/SASDYU4/"
+  },
+  {
+   "id": "SASDYS4",
+   "db": "SASBDB",
+   "title": "Cell division control protein 12 (coiled-coil, fused to MBP, long conection loop)",
+   "method": "Bio-SAXS",
+   "techniques": [
+    "saxs"
+   ],
+   "released": "2026-11-18",
+   "reasons": [
+    "Measured at Diamond Light Source B21"
+   ],
+   "url": "https://www.sasbdb.org/data/SASDYS4/"
+  },
+  {
+   "id": "SASDYR4",
+   "db": "SASBDB",
+   "title": "Cell division control protein 12 (coiled-coil, fused to MBP, long conection loop)",
+   "method": "Bio-SAXS",
+   "techniques": [
+    "saxs"
+   ],
+   "released": "2026-11-18",
+   "reasons": [
+    "Measured at Diamond Light Source B21"
+   ],
+   "url": "https://www.sasbdb.org/data/SASDYR4/"
+  },
+  {
+   "id": "SASDYQ4",
+   "db": "SASBDB",
+   "title": "Cell division control protein 12 (coiled-coil, fused to MBP, short conection loop)",
+   "method": "Bio-SAXS",
+   "techniques": [
+    "saxs"
+   ],
+   "released": "2026-11-18",
+   "reasons": [
+    "Measured at Diamond Light Source B21"
+   ],
+   "url": "https://www.sasbdb.org/data/SASDYQ4/"
+  },
+  {
+   "id": "9R2X",
+   "db": "PDB",
+   "title": "T2R-TTL-compound 5 complex",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-11-18",
+   "reasons": [
+    "UK-funded",
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/9r2x",
+   "image": "images/latest/9r2x.jpeg",
+   "resolution": 2.48,
+   "paper": {
+    "title": "Diarylethene-Containing Photoswitchable Analogs of Tubulysins - Design, Synthesis, Structural, and Biological Evaluation",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Lampolska, A. … Komarov, I.V."
+   }
+  },
+  {
+   "id": "32KO",
+   "db": "PDB",
+   "title": "anti human Siglec 9 Fab",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-11-18",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/32ko",
+   "image": "images/latest/32ko.jpeg",
+   "resolution": 1.8,
+   "paper": {
+    "title": "Sialic Acid Dependent Inhibition of T Cells via Siglec9 Limits Anti Tumor Immunity",
+    "journal": "To Be Published",
+    "year": null,
+    "doi": "",
+    "authors": "Bosh, A. … Palazon, A."
+   }
+  },
+  {
+   "id": "32DI",
+   "db": "PDB",
+   "title": "RAD52 N-terminal domain in complex with fragment Z369737780",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-11-18",
+   "reasons": [
+    "Data collected at Diamond"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/32di",
+   "image": "images/latest/32di.jpeg",
+   "resolution": 2.1,
+   "paper": {
+    "title": "Integrating Fragment Screening and Covalent Chemistry to Drug DNA-Binding Proteins: RAD52 as a Case Study",
+    "journal": "J.Am.Chem.Soc.",
+    "year": 2026,
+    "doi": "10.1021/jacs.6c16278",
+    "authors": "Bocquet, N. … Lucking, U."
+   }
+  },
+  {
+   "id": "28KO",
+   "db": "PDB",
+   "title": "Cryo-EM structure of B. bacteriovorus Bd1152 2C mutant (I112C, L238C) residues 155-276",
+   "method": "Cryo-EM",
+   "techniques": [
+    "cryo-em"
+   ],
+   "released": "2026-11-18",
+   "reasons": [
+    "UK-funded"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/28ko",
+   "image": "images/latest/28ko.jpeg",
+   "resolution": 3.4,
+   "emdb": [
+    "EMD-56579"
+   ],
+   "paper": {
+    "title": "Dynamic ring rearrangements underlie transport by MCE proteins",
+    "journal": "Structure",
+    "year": 2026,
+    "doi": "10.1016/j.str.2026.10.005",
+    "authors": "Ratkeviciute, G. … Knowles, T.J."
+   }
+  },
+  {
+   "id": "28KN",
+   "db": "PDB",
+   "title": "X-ray structure of the B. bacteriovorus Bd1152 2C2A mutant (I112C, L238C, L228A, F229A).",
+   "method": "X-ray crystallography",
+   "techniques": [
+    "crystallography"
+   ],
+   "released": "2026-11-18",
+   "reasons": [
+    "UK-funded"
+   ],
+   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/28kn",
+   "image": "images/latest/28kn.jpeg",
+   "resolution": 2.63,
+   "paper": {
+    "title": "Dynamic ring rearrangements underlie transport by MCE proteins",
+    "journal": "Structure",
+    "year": 2026,
+    "doi": "10.1016/j.str.2026.10.005",
+    "authors": "Ratkeviciute, G. … Knowles, T.J."
+   }
+  },
   {
    "id": "9Z5K",
    "db": "PDB",
@@ -1242,219 +1417,6 @@
     "year": 2026,
     "doi": "10.1042/BCJ20260406",
     "authors": "Fowkes, M.M. … Elkins, J.M."
-   }
-  },
-  {
-   "id": "30PU",
-   "db": "PDB",
-   "title": "Structure of a TrkB:BDNF complex",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-11-04",
-   "reasons": [
-    "UK-funded",
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/30pu",
-   "image": "images/latest/30pu.jpeg",
-   "resolution": 3.0,
-   "paper": {
-    "title": "A sulfotyrosine-motif in the human TrkB extracellular domain is required for activation by the agonist antibody ZEB85",
-    "journal": "PNAS",
-    "year": 2026,
-    "doi": "",
-    "authors": "Briggs, D.C. … McDonald, N.Q."
-   }
-  },
-  {
-   "id": "30PP",
-   "db": "PDB",
-   "title": "Structure of a TrkB agonist bound to its TrkB epitope",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-11-04",
-   "reasons": [
-    "UK-funded",
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/30pp",
-   "image": "images/latest/30pp.jpeg",
-   "resolution": 2.06,
-   "paper": {
-    "title": "A sulfotyrosine-motif in the human TrkB extracellular domain is required for activation by the agonist antibody ZEB85",
-    "journal": "PNAS",
-    "year": 2026,
-    "doi": "",
-    "authors": "Briggs, D.C. … McDonald, N.Q."
-   }
-  },
-  {
-   "id": "30PO",
-   "db": "PDB",
-   "title": "Apo Structure of a TrkB Agonist",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-11-04",
-   "reasons": [
-    "UK-funded",
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/30po",
-   "image": "images/latest/30po.jpeg",
-   "resolution": 1.88,
-   "paper": {
-    "title": "A sulfotyrosine-motif in the human TrkB extracellular domain is required for activation by the agonist antibody ZEB85",
-    "journal": "PNAS",
-    "year": 2026,
-    "doi": "",
-    "authors": "Briggs, D.C. … McDonald, N.Q."
-   }
-  },
-  {
-   "id": "30DD",
-   "db": "PDB",
-   "title": "T2R-TTL-compound 63 complex",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-11-04",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/30dd",
-   "image": "images/latest/30dd.jpeg",
-   "resolution": 2.61,
-   "paper": {
-    "title": "Discovery and Optimization of a Novel Brain-Penetrant Colchicine-Binding Site Ligand for Treatment of Glioma",
-    "journal": "J.Med.Chem.",
-    "year": 2026,
-    "doi": "10.1021/acs.jmedchem.6c01659",
-    "authors": "Chimmanamada, D. … Vishnudas, V.K."
-   }
-  },
-  {
-   "id": "30DC",
-   "db": "PDB",
-   "title": "T2R-TTL-compound 40 complex",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-11-04",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/30dc",
-   "image": "images/latest/30dc.jpeg",
-   "resolution": 2.64,
-   "paper": {
-    "title": "Discovery and Optimization of a Novel Brain-Penetrant Colchicine-Binding Site Ligand for Treatment of Glioma",
-    "journal": "J.Med.Chem.",
-    "year": 2026,
-    "doi": "10.1021/acs.jmedchem.6c01659",
-    "authors": "Chimmanamada, D. … Vishnudas, V.K."
-   }
-  },
-  {
-   "id": "29VR",
-   "db": "PDB",
-   "title": "Structure of the amyloid-forming peptide YLNSIL from human VIP",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-11-04",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/29vr",
-   "image": "images/latest/29vr.jpeg",
-   "resolution": 1.15,
-   "paper": {
-    "title": "Evolutionarily Conserved Amyloid Aggregation in the PACAP Peptide Family Is Controlled by Heparin-Sensitive Lys/Arg Gatekeeper Residues",
-    "journal": "To Be Published",
-    "year": null,
-    "doi": "",
-    "authors": "Horvath, D. … Perczel, A."
-   }
-  },
-  {
-   "id": "29MA",
-   "db": "PDB",
-   "title": "Inhibitor of GTP-Bound KRASG12C",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-11-04",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/29ma",
-   "image": "images/latest/29ma.jpeg",
-   "resolution": 1.56,
-   "paper": {
-    "title": "Discovery of Novel Oral Covalent Inhibitors Targeting Active GTP-Bound KRASG12C with Potent Antitumor Activity",
-    "journal": "J.Med.Chem.",
-    "year": 2026,
-    "doi": "10.1021/acs.jmedchem.6c01318",
-    "authors": "Pozo, J.D. … Han, Y."
-   }
-  },
-  {
-   "id": "29JY",
-   "db": "PDB",
-   "title": "Putative Polyurethane Degrading Esterase in PMS bound state",
-   "method": "X-ray crystallography",
-   "techniques": [
-    "crystallography"
-   ],
-   "released": "2026-11-04",
-   "reasons": [
-    "Data collected at Diamond"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/29jy",
-   "image": "images/latest/29jy.jpeg",
-   "resolution": 1.3,
-   "paper": {
-    "title": "Fragment-based active-site exploration of urethane hydrolases reveals a diversity of urethane binding modes",
-    "journal": "Acta Crystallogr.,Sect.D",
-    "year": 2026,
-    "doi": "10.1107/S2059798326010624",
-    "authors": "Bicer, D. … Otzen, D.E."
-   }
-  },
-  {
-   "id": "11OE",
-   "db": "PDB",
-   "title": "Germline-like DMF5 bound to single-chain MART1-B2M-HLA-A*02",
-   "method": "Cryo-EM",
-   "techniques": [
-    "cryo-em"
-   ],
-   "released": "2026-11-04",
-   "reasons": [
-    "UK-funded"
-   ],
-   "url": "https://www.ebi.ac.uk/pdbe/entry/pdb/11oe",
-   "image": "images/latest/11oe.jpeg",
-   "resolution": 3.1,
-   "emdb": [
-    "EMD-75883"
-   ],
-   "paper": {
-    "title": "MHC restriction is structurally encoded by the T cell receptor germline",
-    "journal": "Biorxiv",
-    "year": 2026,
-    "doi": "10.64898/2026.09.24.754241",
-    "authors": "Wang, N. … Garcia, K.C."
    }
   }
  ]
