@@ -220,12 +220,15 @@ content:
           primary: title
         fields:
           - { name: title, label: Name, type: string, required: true }
-          - { name: date, label: Date, type: date }
+          - { name: date, label: Publication date, type: date, required: true, description: "Shown as 'Published Month Year'. The spotlight appears on the website from this date (the site rebuilds every night), so it can be saved in advance." }
+          - { name: draft, label: Hidden, type: boolean, description: "Tick to take the spotlight off the website (and its link off the Prizes page) without deleting it. Untick to show it again." }
           - { name: role, label: Role, type: string }
           - { name: institution, label: Institution, type: string }
           - { name: link, label: Profile link, type: string, description: 'One public page about the person, e.g. their university staff page, company page or LinkedIn.' }
           - { name: techniques, component: techniques }
-          - { name: photo, label: Photo, type: image, description: Only with the person's permission., options: { media: images } }
+          - { name: photo, label: Photo, type: image, description: "Shown as a round portrait. Only with the person's permission.", options: { media: images } }
+          - { name: image, label: Photo at work (optional), type: image, description: "Shown large on the spotlight page. Only with the permission of everyone shown.", options: { media: images } }
+          - { name: image_caption, label: Caption for the photo at work, type: string }
           - { name: summary, label: Summary, type: text }
           - name: questions
             label: Questions and answers

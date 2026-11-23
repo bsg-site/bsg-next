@@ -5,14 +5,25 @@
   <p class="mb-8 rounded-xl border border-amber-300 bg-amber-50 p-4 text-sm text-amber-900 dark:border-amber-700 dark:bg-amber-950 dark:text-amber-100">Example showing the format. Real spotlights are published only with the permission of the person featured.</p>
   {{- end }}
   <div class="flex items-center gap-5">
-    {{ partial "spotlight-avatar.html" . }}
+    {{ partial "spotlight-avatar.html" (dict "page" . "size" "size-28" "px" 112) }}
     <div>
       <p class="font-semibold text-slate-900 dark:text-white">{{ .Params.role }}</p>
       <p class="text-slate-600 dark:text-slate-400">{{ .Params.institution }}</p>
       {{- with .Params.link }}<p class="mt-1 text-sm"><a href="{{ . }}" rel="noopener" class="font-medium text-brand-700 hover:underline dark:text-brand-300">Profile <span aria-hidden="true">↗</span></a></p>{{ end }}
       <div class="mt-2">{{ partial "technique-tags.html" .Params.techniques }}</div>
+      {{- /* Prizes won, found from the "spotlight" field of winners in data/prizes.yaml (the same field links the Prizes page here). */}}
+      {{- $slug := .File.ContentBaseName }}
+      {{- range $prize := hugo.Data.prizes }}{{ range $w := .winners }}{{ with $w.spotlight }}{{ if eq (path.Base (strings.TrimSuffix "/" .)) $slug }}
+      <p class="mt-2 text-sm"><a href="{{ relref $ "/prizes" }}#{{ $prize.id }}" class="font-medium text-brand-700 hover:underline dark:text-brand-300">{{ $prize.name }} {{ $w.year }} <span aria-hidden="true">→</span></a></p>
+      {{- end }}{{ end }}{{ end }}{{ end }}
     </div>
   </div>
+  {{- with .Params.image }}
+  <figure class="mt-10">
+    <img src="{{ partial "fn/file-url.html" . }}" alt="{{ with $.Params.image_caption }}{{ . }}{{ else }}{{ $.Title }} at work{{ end }}" class="w-full rounded-2xl" loading="lazy">
+    {{- with $.Params.image_caption }}<figcaption class="mt-2 text-sm text-slate-500 dark:text-slate-400">{{ . }}</figcaption>{{ end }}
+  </figure>
+  {{- end }}
   <dl class="mt-10 space-y-8">
     {{- range .Params.questions }}
     <div>
@@ -22,5 +33,8 @@
     {{- end }}
   </dl>
   <div class="prose-bsg mt-8">{{ .Content }}</div>
+  {{- if not .Date.IsZero }}
+  <p class="mt-10 border-t border-slate-200 pt-4 text-sm text-slate-500 dark:border-slate-800 dark:text-slate-400">Published <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2006" }}</time>. Roles and affiliations are as they were at the time.</p>
+  {{- end }}
 </article>
 {{ end }}

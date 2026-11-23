@@ -15,7 +15,7 @@
   winners:
     - { year: 2025, name: Dr Daren Fearon, affiliation: DLS }
     - { year: 2024, name: Dr Lindsay Baker, affiliation: Oxford }
-    - { year: 2023, name: Dr Tiago Costa, affiliation: Imperial }
+    - { year: 2023, name: Dr Tiago Costa, affiliation: Imperial, spotlight: tiago-costa }
     - { year: 2022, name: Dr Andrea Thorn, affiliation: Hamburg }
     - { year: 2020, name: Dr Briony Yorke, affiliation: Bradford }
     - { year: 2019, name: Dr Paul Elliott, affiliation: Oxford }
@@ -36,7 +36,7 @@
   sponsor: PDBe
   winners:
     - { year: 2026, name: C. Hunter, affiliation: Durham, title: "Studying biomolecular interactions with the Dianthus screening platform." }
-    - { year: 2025, name: L. Williams, affiliation: Essex, title: "Damage before destruction? X-ray induced changes in single pulse serial femtosecond crystallography." }
+    - { year: 2025, name: L. Williams, affiliation: Essex, title: "Damage before destruction? X-ray induced changes in single pulse serial femtosecond crystallography.", spotlight: lewis-williams }
     - { year: 2024, name: A. Silale, affiliation: Newcastle, title: "Structural basis of iron piracy by a prominent human gut symbiont." }
     - { year: 2023, name: J. Hill, affiliation: Bradford, title: "UV related cataract formation: insights from serial synchrotron crystallography." }
     - { year: 2022, name: S. Inaba-Inoue, affiliation: Imperial College, title: "Molecular mechanism of antimicrobial peptide transporter SbmA." }
