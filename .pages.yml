@@ -449,6 +449,30 @@ content:
               - { name: url, label: Link, type: string }
               - { name: techniques, component: techniques }
 
+      - name: remembering
+        label: Remembering
+        type: file
+        path: data/remembering.yaml
+        format: yaml
+        fields:
+          - name: people
+            label: People
+            type: object
+            list: { collapsible: { collapsed: true, summary: "{fields.name}" } }
+            fields:
+              - { name: name, label: Name, type: string, required: true }
+              - { name: born, label: Year born, type: number }
+              - { name: died, label: Year died, type: number }
+              - { name: known_for, label: Remembered for, type: text, description: "One or two plain sentences on their contribution." }
+              - { name: photo, label: Photo, type: image, description: "Optional. Only with permission from the family or the rights holder.", options: { media: images } }
+              - name: links
+                label: Obituaries and tributes
+                type: object
+                list: true
+                fields:
+                  - { name: title, label: Title, type: string }
+                  - { name: source, label: Source, type: string, description: 'e.g. "Acta Crystallographica D (2023)" or "University of York"' }
+                  - { name: url, label: Link, type: string }
       - name: committee
         label: Committee
         type: file

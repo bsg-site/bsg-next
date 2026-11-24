@@ -1,0 +1,56 @@
+# Remembering: people who shaped structural biology in the UK.
+# Newest first (by year of death). Keep "known_for" to one or two plain
+# sentences; link to obituaries and tributes written by others.
+#
+# Fields:
+#   name       required, as commonly known
+#   born, died years
+#   known_for  one or two sentences
+#   photo      optional, only with permission (family or rights holder)
+#   links      list of { title, source, url }: obituaries, memoirs, tributes
+people:
+- name: George M. Sheldrick
+  born: 1942
+  died: 2025
+  known_for: Author of the SHELX programs, which shaped how crystal structures are solved and refined, from small molecules to the experimental phasing of macromolecules. Born in Huddersfield and trained in Cambridge, he spent most of his career at the University of Göttingen.
+  links:
+  - { title: "Obituary by Isabel Usón and Regine Herbst-Irmer", source: "Acta Crystallographica A (2025)", url: "https://journals.iucr.org/a/issues/2025/03/00/me6326/" }
+  - { title: "George M. Sheldrick (1942–2025)", source: "IUCr", url: "https://www.iucr.org/news/notices/announcement/george-m-sheldrick-1942-2025" }
+  - { title: "Prof. George M. Sheldrick (1942–2025)", source: "University of Göttingen", url: "https://uni-goettingen.de/en/33939.html" }
+- name: Raimond B. G. Ravelli
+  born: 1968
+  died: 2023
+  known_for: Wrote the STRATEGY and RADDOSE programs and pioneered the study of radiation damage in macromolecular crystallography, later bringing the same care to cryo-EM. Team leader at EMBL Grenoble, then Professor of Structural Biology at Maastricht University.
+  links:
+  - { title: "Obituary by Elspeth Garman", source: "Acta Crystallographica D (2023)", url: "https://journals.iucr.org/d/issues/2023/09/00/me6242/me6242.pdf" }
+  - { title: "Raimond B. G. Ravelli (1968–2023)", source: "IUCr Newsletter", url: "https://www.iucr.org/news/newsletter/volume-31/number-3/raimond-b.-g.-ravelli-19682023" }
+  - { title: "Raimond Ravelli", source: "EMBL alumni obituaries", url: "https://www.embl.org/about/info/alumni/community/obituaries/raimond-ravelli/" }
+  - { title: "In memoriam Raimond Ravelli", source: "Maastricht University", url: "https://www.maastrichtuniversity.nl/node/52052" }
+- name: Guy Dodson
+  born: 1937
+  died: 2012
+  known_for: Dorothy Hodgkin's right-hand person in solving the structure of insulin (1969), then a leader in insulin, protein engineering and enzyme mechanism. With Eleanor Dodson he moved to York in 1976, where the York Structural Biology Laboratory grew around them.
+  links:
+  - { title: "Obituary of Professor Guy Dodson, FRS", source: "University of York", url: "https://www.york.ac.uk/chemistry/research/ysbl/about/guy_dodson/" }
+  - { title: "Obituary by E. N. Baker", source: "Acta Crystallographica D (2013)", url: "https://journals.iucr.org/d/issues/2013/03/00/me0492/" }
+  - { title: "Guy Dodson (1937–2012)", source: "IUCr Newsletter", url: "https://www.iucr.org/news/newsletter/volume-21/number-1/guy-dodson-1937-2012" }
+  - { title: "In memoriam by Pierre De Meyts", source: "Frontiers in Endocrinology (2013)", url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3604789/" }
+- name: Dame Louise Johnson
+  born: 1940
+  died: 2012
+  known_for: Protein structure and enzyme mechanism, from glycogen phosphorylase to the kinases that control the cell cycle, and co-author with Tom Blundell of the textbook Protein Crystallography (1976). David Phillips Professor of Molecular Biophysics at Oxford and Director of Life Sciences at Diamond Light Source.
+  links:
+  - { title: "Obituary", source: "Acta Crystallographica D (2012)", url: "https://journals.iucr.org/d/issues/2012/11/00/me0480/index.html" }
+  - { title: "Louise Johnson (1940–2012)", source: "IUCr Newsletter", url: "https://www.iucr.org/news/newsletter/volume-21/number-1/louise-johnson-1940-2012" }
+  - { title: "Obituary by Elspeth Garman", source: "The Biochemist (2012)", url: "https://port.silverchair.com/biochemist/article-pdf/34/6/43/3284/bio034060043.pdf" }
+  - { title: "Obituary", source: "Physics Today", url: "https://physicstoday.aip.org/obituaries/obituary-of-louise-johnson-1940-2012" }
+- name: David Blow
+  born: 1931
+  died: 2004
+  known_for: Solved the structure of chymotrypsin (1967) at the MRC Laboratory of Molecular Biology and, with Michael Rossmann, laid the foundations of molecular replacement. Professor at Imperial College from 1977, he helped create the BCA and proposed the Biological Structures Group; the BSG poster prize carries his name.
+  links:
+  - { title: "Biographical memoir by Richard Henderson and Nicholas Franks", source: "Royal Society (2009)", url: "https://doi.org/10.1098/rsbm.2008.0022" }
+  - { title: "Obituary", source: "Acta Crystallographica D (2004)", url: "https://journals.iucr.org/d/issues/2004/10/00/es0340/" }
+  - { title: "David Blow (1931–2004)", source: "MRC Laboratory of Molecular Biology", url: "https://mrclmb.ac.uk/news-events/articles/david-blow-1931-2004/" }
+  - { title: "Obituary", source: "Physics Today", url: "https://physicstoday.aip.org/obituaries/david-mervyn-blow" }
+  - { title: "Obituary from The Independent", source: "BCA archive", url: "https://crystallography.org.uk/old-bca-website/obits/cvs/dmbind.htm" }
