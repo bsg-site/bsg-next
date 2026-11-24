@@ -20,7 +20,7 @@ people:
 - name: Raimond B. G. Ravelli
   born: 1968
   died: 2023
-  known_for: Wrote the STRATEGY and RADDOSE programs and pioneered the study of radiation damage in macromolecular crystallography, later bringing the same care to cryo-EM. Team leader at EMBL Grenoble, then Professor of Structural Biology at Maastricht University.
+  known_for: Wrote STRATEGY, which crystallographers used with DENZO to plan data collection, and RADDOSE for calculating absorbed dose. His 2000 paper with Sean McSweeney, “The ‘fingerprint’ that X-rays can leave on structures”, showed that X-rays change protein structures even at cryogenic temperatures and helped found the study of radiation damage in crystallography. Team leader at EMBL Grenoble, then Professor of Structural Biology at Maastricht University.
   links:
   - { title: "Obituary by Elspeth Garman", source: "Acta Crystallographica D (2023)", url: "https://journals.iucr.org/d/issues/2023/09/00/me6242/me6242.pdf" }
   - { title: "Raimond B. G. Ravelli (1968–2023)", source: "IUCr Newsletter", url: "https://www.iucr.org/news/newsletter/volume-31/number-3/raimond-b.-g.-ravelli-19682023" }
