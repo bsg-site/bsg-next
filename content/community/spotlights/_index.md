@@ -10,4 +10,4 @@ cascade:
 
 Each spotlight introduces a member of the community in their own words: a PhD student, a facility scientist, an industry researcher or a group leader. Spotlights are published only with the permission of the person featured, including any photo.
 
-*Would you like to be featured, or nominate someone? Please contact the BSG Secretary.*
+*Would you like to be featured, or nominate someone? Please contact David Aragão, the BSG web officer, or the BSG Secretary (see [Committee](/about/committee/)).*
