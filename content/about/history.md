@@ -15,7 +15,7 @@ In 1979 a working party that included David Blow and Stephen Wallwork began desi
 
 The Biological Structures Group has been part of the BCA ever since, alongside the chemical, physical and industrial groups and the Early Stage Crystallographers Group.
 
-> **Help us write this history.** The story of the group's first winter meetings in the 1990s, its early committees and the people who shaped it is still to be written. If you have memories, programmes or photos (with permission from the people in them), please contact the BSG Secretary.
+> **Help us write this history.** The story of the group's first winter meetings in the 1990s, its early committees and the people who shaped it is still to be written. If you have memories, programmes or photos (with permission from the people in them), please contact David Aragão, the BSG web officer, or the BSG Secretary (see [Committee](/about/committee/)).
 
 ## The Blue John trophy
 

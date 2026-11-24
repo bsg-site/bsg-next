@@ -4,7 +4,7 @@
   <div class="prose-bsg">{{ .Content }}</div>
   <ul class="mt-10 space-y-10">
     {{- range sort hugo.Data.remembering.people "died" "desc" }}
-    <li class="flex gap-5">
+    <li id="{{ anchorize .name }}" class="flex scroll-mt-24 gap-5">
       {{- with .photo }}
       <img src="{{ partial "fn/file-url.html" . }}" alt="" width="80" height="80" class="size-20 shrink-0 rounded-full object-cover">
       {{- end }}

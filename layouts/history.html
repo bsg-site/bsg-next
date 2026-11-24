@@ -18,13 +18,13 @@
         {{- end }}
       </dl>
     </div>
-    {{- with site.GetPage "/about/remembering" }}
+    {{- with site.GetPage "/about/remembering" }}{{ $rem := . }}
     <div class="rounded-2xl border border-slate-200 bg-slate-50 p-6 dark:border-slate-800 dark:bg-slate-900">
       <h2 class="text-lg font-semibold"><a href="{{ .RelPermalink }}" class="hover:underline">{{ .Title }}</a></h2>
       <p class="mt-2 text-sm text-slate-600 dark:text-slate-400">{{ .Description }}</p>
       <ul class="mt-3 space-y-1 text-sm">
         {{- range sort hugo.Data.remembering.people "died" "desc" }}
-        <li class="text-slate-700 dark:text-slate-300">{{ .name }}{{ if or .born .died }} <span class="text-slate-500 dark:text-slate-400">({{ .born }}–{{ .died }})</span>{{ end }}</li>
+        <li class="text-slate-700 dark:text-slate-300"><a href="{{ $rem.RelPermalink }}#{{ anchorize .name }}" class="hover:underline">{{ .name }}</a>{{ if or .born .died }} <span class="text-slate-500 dark:text-slate-400">({{ .born }}–{{ .died }})</span>{{ end }}</li>
         {{- end }}
       </ul>
     </div>
