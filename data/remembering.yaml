@@ -26,6 +26,15 @@ people:
   - { title: "Raimond B. G. Ravelli (1968–2023)", source: "IUCr Newsletter", url: "https://www.iucr.org/news/newsletter/volume-31/number-3/raimond-b.-g.-ravelli-19682023" }
   - { title: "Raimond Ravelli", source: "EMBL alumni obituaries", url: "https://www.embl.org/about/info/alumni/community/obituaries/raimond-ravelli/" }
   - { title: "In memoriam Raimond Ravelli", source: "Maastricht University", url: "https://www.maastrichtuniversity.nl/node/52052" }
+- name: Aaron Klug
+  born: 1926
+  died: 2018
+  known_for: Developed crystallographic electron microscopy, building three-dimensional structures from two-dimensional images, a foundation of today's cryo-EM, and won the 1982 Nobel Prize in Chemistry. He took over Rosalind Franklin's virus group at Birkbeck, then moved to the MRC Laboratory of Molecular Biology, which he directed from 1986 to 1996; President of the Royal Society from 1995 to 2000.
+  links:
+  - { title: "Biographical memoir by R. A. Crowther", source: "Royal Society (2020)", url: "https://doi.org/10.1098/rsbm.2019.0034" }
+  - { title: "Obituary by R. A. Crowther", source: "Acta Crystallographica D (2019)", url: "https://journals.iucr.org/d/issues/2019/05/00/es5012/" }
+  - { title: "Aaron Klug (1926–2018)", source: "MRC Laboratory of Molecular Biology", url: "https://mrclmb.ac.uk/news-events/articles/aaron-klug-1926-2018/" }
+  - { title: "Biographical", source: "The Nobel Prize", url: "https://www.nobelprize.org/prizes/chemistry/1982/klug/biographical/" }
 - name: Guy Dodson
   born: 1937
   died: 2012
@@ -35,7 +44,7 @@ people:
   - { title: "Obituary by E. N. Baker", source: "Acta Crystallographica D (2013)", url: "https://journals.iucr.org/d/issues/2013/03/00/me0492/" }
   - { title: "Guy Dodson (1937–2012)", source: "IUCr Newsletter", url: "https://www.iucr.org/news/newsletter/volume-21/number-1/guy-dodson-1937-2012" }
   - { title: "In memoriam by Pierre De Meyts", source: "Frontiers in Endocrinology (2013)", url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3604789/" }
-- name: Dame Louise Johnson
+- name: Louise Johnson
   born: 1940
   died: 2012
   known_for: Protein structure and enzyme mechanism, from glycogen phosphorylase to the kinases that control the cell cycle, and co-author with Tom Blundell of the textbook Protein Crystallography (1976). David Phillips Professor of Molecular Biophysics at Oxford and Director of Life Sciences at Diamond Light Source.
@@ -44,6 +53,14 @@ people:
   - { title: "Louise Johnson (1940–2012)", source: "IUCr Newsletter", url: "https://www.iucr.org/news/newsletter/volume-21/number-1/louise-johnson-1940-2012" }
   - { title: "Obituary by Elspeth Garman", source: "The Biochemist (2012)", url: "https://port.silverchair.com/biochemist/article-pdf/34/6/43/3284/bio034060043.pdf" }
   - { title: "Obituary", source: "Physics Today", url: "https://physicstoday.aip.org/obituaries/obituary-of-louise-johnson-1940-2012" }
+- name: Uli Arndt
+  born: 1924
+  died: 2006
+  known_for: Built the instruments that made protein data collection practical, from diffractometers and the Arndt–Wonacott rotation camera to film scanners and the FAST area detector, at the MRC Laboratory of Molecular Biology from 1963.
+  links:
+  - { title: "Biographical memoir by R. A. Crowther and A. G. W. Leslie", source: "Royal Society (2014)", url: "https://doi.org/10.1098/rsbm.2014.0003" }
+  - { title: "Uli Arndt (1924–2006)", source: "MRC Laboratory of Molecular Biology", url: "https://mrclmb.ac.uk/news-events/articles/uli-arndt-1924-2006/" }
+  - { title: "Ulrich Wolfgang Arndt (1924–2006)", source: "BCA Crystallography News (2006)", url: "https://www.crystallography.org.uk/old-bca-website/obits/obit05/uwa.htm" }
 - name: David Blow
   born: 1931
   died: 2004
@@ -59,8 +76,50 @@ people:
   died: 2002
   known_for: Solved the structure of haemoglobin and shared the 1962 Nobel Prize in Chemistry with John Kendrew for the first structures of globular proteins, then spent decades working out how haemoglobin carries oxygen. Born in Vienna, he came to Cambridge in 1936 and led the MRC unit that grew into the MRC Laboratory of Molecular Biology. The BCA introduced the Max Perutz Memorial Lecture at its 2003 Spring Meeting.
   links:
+  - { title: "Biographical memoir by David Blow", source: "Royal Society (2004)", url: "https://doi.org/10.1098/rsbm.2004.0016" }
   - { title: "Obituary", source: "Acta Crystallographica A (2002)", url: "https://journals.iucr.org/a/issues/2002/03/00/es0314/" }
   - { title: "Address by John Meurig Thomas at the memorial meeting", source: "BCA Crystallography News (2002)", url: "https://crystallography.org.uk/old-bca-website/cnews/2002/mp.htm" }
   - { title: "Obituary by Francis Crick", source: "Physics Today", url: "https://physicstoday.aip.org/obituaries/max-ferdinand-perutz" }
   - { title: "Max Perutz (1914–2002)", source: "Quarterly Reviews of Biophysics (2002)", url: "https://www.cambridge.org/core/journals/quarterly-reviews-of-biophysics/article/max-perutz-19142002/2BFE7E1BACFB941C023A9E3173C55934" }
   - { title: "Biographical", source: "The Nobel Prize", url: "https://www.nobelprize.org/prizes/chemistry/1962/perutz/biographical/" }
+- name: David Phillips
+  born: 1924
+  died: 1999
+  known_for: Solved the structure of lysozyme at the Royal Institution in 1965, the first structure of an enzyme, and used it to explain how the enzyme works. He then led molecular biophysics at Oxford and was the first President of the BCA in 1982.
+  links:
+  - { title: "Biographical memoir by Louise N. Johnson", source: "Royal Society (2000)", url: "https://doi.org/10.1098/rsbm.1999.0092" }
+  - { title: "Obituary by Louise N. Johnson and Gregory A. Petsko", source: "Nature (1999)", url: "https://www.nature.com/articles/19878" }
+  - { title: "Obituary by David Blow", source: "Journal of Synchrotron Radiation (1999)", url: "https://journals.iucr.org/s/issues/1999/05/00/me0080/" }
+  - { title: "Obituary", source: "BCA archive", url: "https://crystallography.org.uk/old-bca-website/obits/dcp2.html" }
+- name: John Kendrew
+  born: 1917
+  died: 1997
+  known_for: Solved the structure of sperm whale myoglobin, the first protein structure, and shared the 1962 Nobel Prize in Chemistry with Max Perutz. He was the founding Director-General of EMBL.
+  links:
+  - { title: "Biographical memoir by K. C. Holmes", source: "Royal Society (2001)", url: "https://doi.org/10.1098/rsbm.2001.0018" }
+  - { title: "Obituary by K. C. Holmes", source: "Nature (1997)", url: "https://www.nature.com/articles/38633" }
+  - { title: "John Kendrew", source: "EMBL alumni obituaries", url: "https://www.embl.org/about/info/alumni/community/obituaries/john-kendrew/" }
+  - { title: "Biographical", source: "The Nobel Prize", url: "https://www.nobelprize.org/prizes/chemistry/1962/kendrew/biographical/" }
+- name: Dorothy Hodgkin
+  born: 1910
+  died: 1994
+  known_for: Solved the structures of penicillin, vitamin B12 and insulin, and won the 1964 Nobel Prize in Chemistry. She spent her career at Oxford and was the first Vice-President of the BCA in 1982.
+  links:
+  - { title: "Biographical memoir by Guy Dodson", source: "Royal Society (2002)", url: "https://doi.org/10.1098/rsbm.2002.0011" }
+  - { title: "Obituary by Max Perutz", source: "Nature (1994)", url: "https://www.nature.com/articles/371020a0" }
+  - { title: "Obituary by Jenny P. Glusker and Margaret J. Adams", source: "Physics Today, reproduced by the University of Bristol", url: "https://www.chm.bris.ac.uk/motm/vitb12/OBIT.HTM" }
+  - { title: "Biographical", source: "The Nobel Prize", url: "https://www.nobelprize.org/prizes/chemistry/1964/hodgkin/biographical/" }
+- name: J. D. Bernal
+  born: 1901
+  died: 1971
+  known_for: Took the first X-ray photograph of a protein crystal, pepsin, with Dorothy Hodgkin in 1934, and mentored a generation of crystallographers, including Hodgkin, Perutz and Franklin, in Cambridge and at Birkbeck.
+  links:
+  - { title: "Biographical memoir by Dorothy Hodgkin", source: "Royal Society (1980)", url: "https://doi.org/10.1098/rsbm.1980.0002" }
+  - { title: "Obituary by Alan Mackay", source: "Physics Today (1971)", url: "https://physicstoday.aip.org/obituaries/j-d-bernal" }
+- name: Rosalind Franklin
+  born: 1920
+  died: 1958
+  known_for: Her X-ray diffraction photographs of DNA fibres at King's College London were essential to working out the double helix in 1953. At Birkbeck she then led pioneering work on the structures of tobacco mosaic and other plant viruses.
+  links:
+  - { title: "Obituary by J. D. Bernal", source: "Nature (1958)", url: "https://doi.org/10.1038/182154a0" }
+  - { title: "The Rosalind Franklin Papers", source: "US National Library of Medicine", url: "https://profiles.nlm.nih.gov/spotlight/kr/feature/biographical" }
