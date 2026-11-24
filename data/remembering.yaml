@@ -44,16 +44,6 @@ people:
   - { title: "Louise Johnson (1940–2012)", source: "IUCr Newsletter", url: "https://www.iucr.org/news/newsletter/volume-21/number-1/louise-johnson-1940-2012" }
   - { title: "Obituary by Elspeth Garman", source: "The Biochemist (2012)", url: "https://port.silverchair.com/biochemist/article-pdf/34/6/43/3284/bio034060043.pdf" }
   - { title: "Obituary", source: "Physics Today", url: "https://physicstoday.aip.org/obituaries/obituary-of-louise-johnson-1940-2012" }
-- name: Max Perutz
-  born: 1914
-  died: 2002
-  known_for: Solved the structure of haemoglobin and shared the 1962 Nobel Prize in Chemistry with John Kendrew for the first structures of globular proteins, then spent decades working out how haemoglobin carries oxygen. Born in Vienna, he came to Cambridge in 1936 and led the MRC unit that grew into the MRC Laboratory of Molecular Biology. The BCA introduced the Max Perutz Memorial Lecture at its 2003 Spring Meeting.
-  links:
-  - { title: "Obituary", source: "Acta Crystallographica A (2002)", url: "https://journals.iucr.org/a/issues/2002/03/00/es0314/" }
-  - { title: "Address by John Meurig Thomas at the memorial meeting", source: "BCA Crystallography News (2002)", url: "https://crystallography.org.uk/old-bca-website/cnews/2002/mp.htm" }
-  - { title: "Obituary by Francis Crick", source: "Physics Today", url: "https://physicstoday.aip.org/obituaries/max-ferdinand-perutz" }
-  - { title: "Max Perutz (1914–2002)", source: "Quarterly Reviews of Biophysics (2002)", url: "https://www.cambridge.org/core/journals/quarterly-reviews-of-biophysics/article/max-perutz-19142002/2BFE7E1BACFB941C023A9E3173C55934" }
-  - { title: "Biographical", source: "The Nobel Prize", url: "https://www.nobelprize.org/prizes/chemistry/1962/perutz/biographical/" }
 - name: David Blow
   born: 1931
   died: 2004
@@ -64,3 +54,13 @@ people:
   - { title: "David Blow (1931–2004)", source: "MRC Laboratory of Molecular Biology", url: "https://mrclmb.ac.uk/news-events/articles/david-blow-1931-2004/" }
   - { title: "Obituary", source: "Physics Today", url: "https://physicstoday.aip.org/obituaries/david-mervyn-blow" }
   - { title: "Obituary from The Independent", source: "BCA archive", url: "https://crystallography.org.uk/old-bca-website/obits/cvs/dmbind.htm" }
+- name: Max Perutz
+  born: 1914
+  died: 2002
+  known_for: Solved the structure of haemoglobin and shared the 1962 Nobel Prize in Chemistry with John Kendrew for the first structures of globular proteins, then spent decades working out how haemoglobin carries oxygen. Born in Vienna, he came to Cambridge in 1936 and led the MRC unit that grew into the MRC Laboratory of Molecular Biology. The BCA introduced the Max Perutz Memorial Lecture at its 2003 Spring Meeting.
+  links:
+  - { title: "Obituary", source: "Acta Crystallographica A (2002)", url: "https://journals.iucr.org/a/issues/2002/03/00/es0314/" }
+  - { title: "Address by John Meurig Thomas at the memorial meeting", source: "BCA Crystallography News (2002)", url: "https://crystallography.org.uk/old-bca-website/cnews/2002/mp.htm" }
+  - { title: "Obituary by Francis Crick", source: "Physics Today", url: "https://physicstoday.aip.org/obituaries/max-ferdinand-perutz" }
+  - { title: "Max Perutz (1914–2002)", source: "Quarterly Reviews of Biophysics (2002)", url: "https://www.cambridge.org/core/journals/quarterly-reviews-of-biophysics/article/max-perutz-19142002/2BFE7E1BACFB941C023A9E3173C55934" }
+  - { title: "Biographical", source: "The Nobel Prize", url: "https://www.nobelprize.org/prizes/chemistry/1962/perutz/biographical/" }
