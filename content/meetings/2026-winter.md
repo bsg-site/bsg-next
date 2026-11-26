@@ -12,7 +12,6 @@ programme: "/archive/programmes/BSG_winter_26.pdf"
 registration: "https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=161036&eventID=388"
 deadlines:
   - { label: "Short-talk abstracts due", date: 2026-11-20 }
-  - { label: "Registration closes", date: 2026-11-26 }
 poster: "/images/meetings/bsg-winter-2026-poster.jpg"
 techniques: [crystallography, cryo-em, nmr, mass-spec]
 ---
@@ -24,7 +23,7 @@ A one-day meeting on how structural biologists study proteins that move, from NM
 **[Registration is open](https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=161036&eventID=388)**: £80, including refreshments, lunch, and drinks at the evening poster session. Places are limited to 120.
 
 - **20 November 2026, 17:00:** abstract deadline for short-talk selection. Short talks are chosen from abstracts received by then; later abstracts might still be presented as posters
-- **26 November 2026, 17:00:** registration closes
+- **Registration has been extended.** The new closing date will be posted here soon.
 
 Poster prizes will be awarded at the end of the day.
 
