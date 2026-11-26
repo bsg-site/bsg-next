@@ -1,27 +1,54 @@
 {{- /*
   schema.org structured data (JSON-LD) so search engines understand the
-  group and its meetings; meetings with a confirmed date can appear in
-  search results as events.
+  group, its meetings, news and spotlights. Every page except the home page
+  also gets a breadcrumb trail. Check changes with
+  https://validator.schema.org/ and https://search.google.com/test/rich-results
 */ -}}
-{{- $bca := dict "@type" "Organization" "name" "British Crystallographic Association" "url" site.Params.bcaURL }}
-{{- $org := dict
-  "@type" "Organization"
-  "@id" (printf "%s#organization" site.Home.Permalink)
-  "name" site.Title
-  "alternateName" "BSG"
-  "url" site.Home.Permalink
-  "logo" ("favicon-512.png" | absURL)
-  "description" site.Params.description
-  "parentOrganization" $bca
-}}
+{{- $home := site.Home.Permalink }}
+{{- $orgID := printf "%s#organization" $home }}
+{{- $orgRef := dict "@type" "Organization" "@id" $orgID "name" site.Title "url" $home }}
+{{- $graph := slice }}
+
 {{- if .IsHome }}
-  {{- $site := dict "@type" "WebSite" "name" site.Title "url" site.Home.Permalink "inLanguage" "en-GB" "publisher" (dict "@id" (index $org "@id")) }}
-<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" (slice $org $site) | jsonify | safeJS }}</script>
+  {{- $techs := slice "Structural biology" "Integrative structural biology" }}
+  {{- range hugo.Data.techniques }}{{ if ne .id "other" }}{{ $techs = $techs | append .label }}{{ end }}{{ end }}
+  {{- $logo := dict "@type" "ImageObject" "url" ("favicon-512.png" | absURL) "width" 512 "height" 512 }}
+  {{- $bca := dict
+    "@type" "Organization"
+    "@id" "https://www.crystallography.org.uk/#organization"
+    "name" "British Crystallographic Association"
+    "alternateName" "BCA"
+    "url" site.Params.bcaURL
+    "sameAs" (slice "https://en.wikipedia.org/wiki/British_Crystallographic_Association" "https://www.wikidata.org/wiki/Q16846879")
+  }}
+  {{- $org := dict
+    "@type" "Organization"
+    "@id" $orgID
+    "name" site.Title
+    "alternateName" "BSG"
+    "url" $home
+    "logo" $logo
+    "image" $logo
+    "description" "The UK community for integrative structural biology, bringing together researchers using crystallography, cryo-EM, SAXS, NMR, mass spectrometry, biophysical characterisation and computational methods. A special interest group of the British Crystallographic Association."
+    "areaServed" (dict "@type" "Country" "name" "United Kingdom")
+    "knowsAbout" $techs
+    "parentOrganization" $bca
+  }}
+  {{- $graph = $graph | append $org (dict
+    "@type" "WebSite"
+    "@id" (printf "%s#website" $home)
+    "name" site.Title
+    "alternateName" "BSG"
+    "url" $home
+    "description" site.Params.description
+    "inLanguage" "en-GB"
+    "publisher" (dict "@id" $orgID)
+  ) }}
+
 {{- else if and .IsPage (eq .Section "meetings") .Params.start }}
   {{- $s := time.AsTime .Params.start }}
   {{- $e := time.AsTime (or .Params.end .Params.start) }}
   {{- $event := dict
-    "@context" "https://schema.org"
     "@type" "Event"
     "name" .Title
     "startDate" ($s.Format "2006-01-02")
@@ -30,16 +57,74 @@
     "eventAttendanceMode" (cond (eq .Params.city "Online") "https://schema.org/OnlineEventAttendanceMode" "https://schema.org/OfflineEventAttendanceMode")
     "description" (partial "fn/description.html" .)
     "url" .Permalink
-    "organizer" (dict "@type" "Organization" "name" site.Title "url" site.Home.Permalink)
+    "inLanguage" "en-GB"
+    "organizer" $orgRef
   }}
+  {{- /* BCA Spring Meetings are run by the BCA; the BSG contributes sessions. */}}
+  {{- if eq .Params.kind "spring" }}
+    {{- $event = merge $event (dict "organizer" (dict "@type" "Organization" "@id" "https://www.crystallography.org.uk/#organization" "name" "British Crystallographic Association" "url" site.Params.bcaURL) "contributor" $orgRef) }}
+  {{- end }}
+  {{- with .Params.poster }}{{ $event = merge $event (dict "image" (strings.TrimPrefix "/" . | absURL)) }}{{ end }}
   {{- if eq .Params.city "Online" }}
     {{- $event = merge $event (dict "location" (dict "@type" "VirtualLocation" "url" .Permalink)) }}
   {{- else }}
     {{- $event = merge $event (dict "location" (dict "@type" "Place" "name" (.Params.venue | default .Params.city) "address" (dict "@type" "PostalAddress" "addressLocality" .Params.city "addressCountry" "GB"))) }}
   {{- end }}
-<script type="application/ld+json">{{ $event | jsonify | safeJS }}</script>
+  {{- $graph = $graph | append $event }}
+
 {{- else if and .IsPage (in (slice "news" "structures") .Section) }}
-  {{- $a := dict "@context" "https://schema.org" "@type" "Article" "headline" .Title "datePublished" (.Date.Format "2006-01-02") "description" (partial "fn/description.html" .) "url" .Permalink "publisher" (dict "@type" "Organization" "name" site.Title "url" site.Home.Permalink) }}
+  {{- $a := dict
+    "@type" "Article"
+    "headline" .Title
+    "datePublished" (.Date.Format "2006-01-02")
+    "dateModified" ((cond (.Lastmod.After .Date) .Lastmod .Date).Format "2006-01-02")
+    "description" (partial "fn/description.html" .)
+    "url" .Permalink
+    "mainEntityOfPage" .Permalink
+    "inLanguage" "en-GB"
+    "author" $orgRef
+    "publisher" $orgRef
+  }}
   {{- with .Params.image }}{{ $a = merge $a (dict "image" (strings.TrimPrefix "/" . | absURL)) }}{{ end }}
-<script type="application/ld+json">{{ $a | jsonify | safeJS }}</script>
+  {{- $graph = $graph | append $a }}
+
+{{- else if and .IsPage (eq .Type "spotlight") }}
+  {{- /* Member spotlight: a profile page about one person, using only what they agreed to publish. */}}
+  {{- $name := .Title }}{{ $prefix := "" }}
+  {{- range slice "Dr " "Prof " "Professor " }}{{ if strings.HasPrefix $name . }}{{ $prefix = strings.TrimSpace . }}{{ $name = strings.TrimPrefix . $name }}{{ end }}{{ end }}
+  {{- $person := dict "@type" "Person" "name" $name }}
+  {{- with $prefix }}{{ $person = merge $person (dict "honorificPrefix" .) }}{{ end }}
+  {{- with .Params.role }}{{ $person = merge $person (dict "jobTitle" .) }}{{ end }}
+  {{- with .Params.institution }}{{ $person = merge $person (dict "affiliation" (dict "@type" "Organization" "name" .)) }}{{ end }}
+  {{- with .Params.photo }}{{ $person = merge $person (dict "image" (strings.TrimPrefix "/" . | absURL)) }}{{ end }}
+  {{- with .Params.link }}{{ $person = merge $person (dict "sameAs" .) }}{{ end }}
+  {{- with .Params.summary }}{{ $person = merge $person (dict "description" .) }}{{ end }}
+  {{- $techs := slice }}
+  {{- range $id := .Params.techniques }}{{ range hugo.Data.techniques }}{{ if eq .id $id }}{{ $techs = $techs | append .label }}{{ end }}{{ end }}{{ end }}
+  {{- with $techs }}{{ $person = merge $person (dict "knowsAbout" .) }}{{ end }}
+  {{- $slug := .File.ContentBaseName }}{{ $awards := slice }}
+  {{- range $prize := hugo.Data.prizes }}{{ range $w := .winners }}{{ with $w.spotlight }}{{ if eq (path.Base (strings.TrimSuffix "/" .)) $slug }}{{ $awards = $awards | append (printf "%s %v" $prize.name $w.year) }}{{ end }}{{ end }}{{ end }}{{ end }}
+  {{- with $awards }}{{ $person = merge $person (dict "award" .) }}{{ end }}
+  {{- $graph = $graph | append (dict
+    "@type" "ProfilePage"
+    "name" .Title
+    "url" .Permalink
+    "datePublished" (.Date.Format "2006-01-02")
+    "dateModified" ((cond (.Lastmod.After .Date) .Lastmod .Date).Format "2006-01-02")
+    "inLanguage" "en-GB"
+    "publisher" $orgRef
+    "mainEntity" $person
+  ) }}
+{{- end }}
+
+{{- if not .IsHome }}
+  {{- $items := slice }}{{ $i := 1 }}
+  {{- range .Ancestors.Reverse }}
+    {{- $items = $items | append (dict "@type" "ListItem" "position" $i "name" (cond .IsHome "Home" .LinkTitle) "item" .Permalink) }}{{ $i = add $i 1 }}
+  {{- end }}
+  {{- $graph = $graph | append (dict "@type" "BreadcrumbList" "itemListElement" ($items | append (dict "@type" "ListItem" "position" $i "name" .LinkTitle))) }}
+{{- end }}
+
+{{- with $graph }}
+<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" . | jsonify | safeJS }}</script>
 {{- end }}

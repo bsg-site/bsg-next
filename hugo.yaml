@@ -21,7 +21,7 @@ params:
   tagline: Many techniques, one community
   # true keeps search engines out (sitemap hidden, robots Disallow, draft notice).
   noindex: false
-  bcaURL: https://crystallography.org.uk/
+  bcaURL: https://www.crystallography.org.uk/
   # Cookie-free visitor counts (goatcounter.com); only loaded in production builds.
   goatcounter: biostructures
   # Event suggestions go to the web officer. The address is assembled by
