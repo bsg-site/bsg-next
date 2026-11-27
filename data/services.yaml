@@ -5,7 +5,7 @@
 # description (one or two plain sentences, from the provider's own page),
 # techniques (ids from data/techniques.yaml).
 # Checked on each provider's own website: 27 Nov 2026 (Charles River and
-# Cambridge checked in a browser). Imperial added 27 Nov 2026 (no public prices: on PPMS, or ask the facility manager).
+# Cambridge checked in a browser). Imperial X-ray and EM added 27 Nov 2026 (no public prices; ask each facility manager).
 # Evotec: Abingdon (Milton Park) is closing in Evotec's 2026-27 restructuring;
 # UK protein production and crystallography moved to Alderley Park (not yet on
 # Evotec's own pages in Nov 2026). Recheck in spring 2027.
@@ -100,6 +100,11 @@ groups:
     url: https://www.imperial.ac.uk/a-z-research/x-ray-crystallography-and-biophysical-characterisation/
     description: Nanolitre crystallisation and optimisation, help with crystal mounting, data collection at Diamond, structure solution and refinement, plus ITC, CD and SEC-MALS. Open to external academics and industry through collaborative projects; prices on request.
     techniques: [crystallography, biophysics]
+  - name: Electron Microscopy Centre, Imperial College London
+    place: London (South Kensington)
+    url: https://www.imperial.ac.uk/a-z-research/electron-microscopy/microscopes/
+    description: Cryo-EM single-particle analysis, cryo-electron tomography and microED on a Glacios with Falcon 4 detector and energy filter, plus negative stain and grid preparation. Training, consultancy and service for internal, national and international users; contact the centre about access and prices.
+    techniques: [cryo-em, imaging]
   - name: Protein crystallography, Durham University (XRDur)
     place: Durham
     url: https://dur.ac.uk/departments/academic/chemistry/about-us/services/xrdur/facilities/protein-crystal-structure-determination/
