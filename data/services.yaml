@@ -1,0 +1,124 @@
+# "Structural biology services in the UK" page (content/resources/services.md).
+# Companies and facilities that do structural biology work for others, for a fee.
+# Listing is free and independent of any sponsorship or membership.
+# Each provider: name, place, url (the provider's own services page),
+# description (one or two plain sentences, from the provider's own page),
+# techniques (ids from data/techniques.yaml).
+# Checked on each provider's own website: 27 Nov 2026 (Charles River blocks
+# automated checks: check by hand).
+checked: "November 2026"
+groups:
+- id: companies
+  title: Companies (contract research)
+  intro: Full projects under confidentiality, from protein production to structures, often as part of wider drug discovery.
+  providers:
+  - name: Domainex
+    place: Cambridge
+    url: https://www.domainex.co.uk/services/structural-biology
+    description: X-ray crystallography from gene to structure (or entering mid-way), with high-throughput crystallisation and regular synchrotron access; also cryo-EM and protein production.
+    techniques: [crystallography, cryo-em, drug-design]
+  - name: Sygnature Discovery
+    place: Nottingham and Alderley Park
+    url: https://www.sygnaturediscovery.com/scientific-solutions/protein-science-structural-biology/
+    description: X-ray crystallography, cryo-EM and macromolecular NMR in-house, plus protein production, characterisation and protein mass spectrometry.
+    techniques: [crystallography, cryo-em, nmr, mass-spec, biophysics]
+  - name: Charles River
+    place: Chesterford Research Park, near Cambridge
+    url: https://www.criver.com/products-services/discovery-services/discovery-facilities/cambridge-uk
+    description: Drug discovery services, including structural biology and protein science.
+    techniques: [crystallography, drug-design]
+
+- id: national
+  title: National facilities
+  intro: Proprietary access for industry, from mail-in data collection to full service with expert analysis.
+  providers:
+  - name: Diamond Light Source, macromolecular crystallography for industry
+    place: Harwell, Oxfordshire
+    url: https://www.diamond.ac.uk/industry/Techniques-Available/Integrated-Structural-Biology/macromolecular-crystallography-MX-PX/MX-services.html
+    description: Crystallisation and harvesting of soluble and membrane proteins, unattended or hands-on data collection, and contract research including data analysis.
+    techniques: [crystallography]
+  - name: Diamond Light Source, crystallisation services
+    place: Harwell, Oxfordshire
+    url: https://www.diamond.ac.uk/industry/Techniques-Available/Integrated-Structural-Biology/Crystallisation-facilities/Crystallisation-services.html
+    description: Crystallisation screening and optimisation, including membrane proteins, for companies without in-house equipment.
+    techniques: [crystallography]
+  - name: Diamond Light Source, XChem fragment screening
+    place: Harwell, Oxfordshire
+    url: https://www.diamond.ac.uk/industry/Techniques-Available/Integrated-Structural-Biology/Fragment-Screening---XChem.html
+    description: Crystallographic fragment screening with direct structural feedback on how each fragment binds.
+    techniques: [crystallography, drug-design]
+  - name: eBIC for Industry, Diamond Light Source
+    place: Harwell, Oxfordshire
+    url: https://www.diamond.ac.uk/industry/Techniques-Available/Integrated-Structural-Biology/Biological-Sciences-Electron-Microscopy/cryo-EM-services.html
+    description: Cryo-EM from grid preparation and screening to data collection and structure, entering or leaving at any stage, with training if wanted.
+    techniques: [cryo-em]
+  - name: Diamond Light Source, bio-SAXS services
+    place: Harwell, Oxfordshire
+    url: https://www.diamond.ac.uk/industry/Techniques-Available/Integrated-Structural-Biology/bioSAXS-protein-SAXS/bioSAXS-Services.html
+    description: Solution scattering of proteins and complexes for size, shape and flexibility.
+    techniques: [saxs]
+  - name: National Physical Laboratory (NPL), cryo-EM
+    place: Teddington
+    url: https://www.npl.co.uk/products-services/drug-discovery/cryoem
+    description: Cryo-EM from sample preparation to data analysis, with measurement expertise; suited to organisations new to cryo-EM.
+    techniques: [cryo-em]
+  - name: UK National Crystallography Service (NCS)
+    place: Southampton
+    url: https://www.ncs.ac.uk/commercial-service/
+    description: Small-molecule (chemical) crystallography by single-crystal X-ray diffraction, specialising in very small and difficult crystals; also electron diffraction.
+    techniques: [crystallography]
+  - name: Instruct-ERIC services for industry
+    place: UK and Europe
+    url: https://aria-booking.leeds.ac.uk/servicestoindustry
+    description: The European structural biology infrastructure; its UK centres offer crystallisation, cryo-EM and biophysics to industry.
+    techniques: [crystallography, cryo-em, biophysics]
+
+- id: universities
+  title: University facilities
+  intro: Often flexible and cost-effective for single experiments or step-by-step projects; capacity varies, so contact them early.
+  providers:
+  - name: Manchester Protein Structure Facility
+    place: Manchester
+    url: https://www.scieng.manchester.ac.uk/tomorrowlabs/manchester-protein-structure-facility/
+    description: Protein crystallography for industry and academia, from construct design and crystallisation screening to data collection and a refined structure.
+    techniques: [crystallography]
+  - name: Crystallographic X-ray Facility, Department of Biochemistry, Cambridge
+    place: Cambridge
+    url: https://facilities.bioc.cam.ac.uk/xray/Services
+    description: Crystallisation hits, optimisation, diffraction screening and data collection as separate steps, with indicative prices on its page.
+    techniques: [crystallography]
+  - name: Protein crystallography, Durham University (XRDur)
+    place: Durham
+    url: https://dur.ac.uk/departments/academic/chemistry/about-us/services/xrdur/facilities/protein-crystal-structure-determination/
+    description: Crystallisation and structure determination of new proteins and of protein–ligand complexes.
+    techniques: [crystallography]
+  - name: Integrated Protein Analysis, University of Glasgow
+    place: Glasgow
+    url: https://www.gla.ac.uk/colleges/mvls/shared-research-facilities/protein-analysis/
+    description: Protein expression, purification and characterisation, with X-ray crystallography and NMR; open to industry.
+    techniques: [crystallography, nmr, biophysics]
+  - name: Astbury Biostructure Laboratory, Leeds (electron microscopy)
+    place: Leeds
+    url: https://biologicalsciences.leeds.ac.uk/facilities/doc/electron-microscopy
+    description: Cryo-EM and cryo-electron tomography for external users from academia and industry.
+    techniques: [cryo-em, imaging]
+  - name: GW4 Facility for High-Resolution Electron Cryo-Microscopy
+    place: Bristol
+    url: https://www.bristol.ac.uk/gw4-electron-cryo-microscopy/
+    description: Cryo-EM for academic and industrial researchers, from vitrified samples and screening to high-resolution data and processing.
+    techniques: [cryo-em]
+  - name: Biomolecular Mass Spectrometry Facility, Leeds
+    place: Leeds
+    url: https://biologicalsciences.leeds.ac.uk/facilities/doc/mass-spectrometry
+    description: Native MS, hydrogen–deuterium exchange and crosslinking, as fee-for-service or collaboration, for academia and industry.
+    techniques: [mass-spec]
+  - name: Biomolecular Analysis Core Facility, Manchester
+    place: Manchester
+    url: https://www.bmh.manchester.ac.uk/research/platforms/biomolecular-analysis/
+    description: Biophysics for interactions, mass and oligomerisation (SPR, ITC, light scattering, analytical ultracentrifugation), for other universities and industry.
+    techniques: [biophysics]
+  - name: Research Complex at Harwell, biophysical instruments
+    place: Harwell, Oxfordshire
+    url: https://www.rc-harwell.ac.uk/biophysical-instruments/
+    description: Biophysical instruments including SEC-MALS and stopped-flow, for academic and commercial users.
+    techniques: [biophysics]

@@ -3,6 +3,9 @@
 {{- $groups := hugo.Data.resources.groups }}
 <div class="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
   <div class="prose-bsg">{{ .Content }}</div>
+  {{- with site.GetPage "/resources/services" }}
+  <p class="mt-6"><a href="{{ .RelPermalink }}" class="inline-flex items-center gap-1 rounded-xl bg-brand-50 px-4 py-3 font-medium text-brand-800 ring-1 ring-brand-200 hover:bg-brand-100 dark:bg-brand-950 dark:text-brand-200 dark:ring-brand-800 dark:hover:bg-brand-900">Need structural biology done for you? {{ .Title }} <span aria-hidden="true">→</span></a></p>
+  {{- end }}
   <nav aria-labelledby="jump" class="mt-8 rounded-2xl border border-slate-200 bg-slate-50 p-5 sm:p-6 dark:border-slate-800 dark:bg-slate-900">
     <h2 id="jump" class="text-sm font-semibold tracking-wide text-slate-500 uppercase dark:text-slate-400">Jump to a section</h2>
     <ul class="mt-4 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">

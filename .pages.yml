@@ -473,6 +473,33 @@ content:
                   - { name: title, label: Title, type: string }
                   - { name: source, label: Source, type: string, description: 'e.g. "Acta Crystallographica D (2023)" or "University of York"' }
                   - { name: url, label: Link, type: string }
+
+      - name: services
+        label: Services (UK structural biology services page)
+        type: file
+        path: data/services.yaml
+        format: yaml
+        fields:
+          - { name: checked, label: Last checked, type: string, description: 'Month and year the list was last checked, e.g. "November 2026"' }
+          - name: groups
+            label: Groups
+            type: object
+            list: { collapsible: { collapsed: true, summary: "{fields.title}" } }
+            fields:
+              - { name: id, label: ID (for links), type: string, required: true }
+              - { name: title, label: Title, type: string, required: true }
+              - { name: intro, label: Introduction, type: text }
+              - name: providers
+                label: Providers
+                type: object
+                list: { collapsible: { collapsed: true, summary: "{fields.name}" } }
+                description: "Listing is free and independent of sponsorship. Take facts from the provider's own website."
+                fields:
+                  - { name: name, label: Name, type: string, required: true }
+                  - { name: place, label: Place, type: string }
+                  - { name: url, label: Link to their services page, type: string, required: true }
+                  - { name: description, label: Description, type: text, description: "One or two plain sentences on what they offer." }
+                  - { name: techniques, component: techniques }
       - name: committee
         label: Committee
         type: file
