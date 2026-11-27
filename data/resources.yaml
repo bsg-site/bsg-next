@@ -737,8 +737,8 @@ groups:
       - crystallography
       - drug-design
     - name: Evotec (Alderley Park)
-      url: https://www.evotec.com/company/about-us/evotec-worldwide-locations/alderley-park
-      description: Drug discovery with structural biology.
+      url: https://www.evotec.com/discovery/structural-biology-services
+      description: Drug discovery, including protein production and crystallography.
       techniques:
       - crystallography
       - drug-design

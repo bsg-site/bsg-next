@@ -6,6 +6,9 @@
 # techniques (ids from data/techniques.yaml).
 # Checked on each provider's own website: 27 Nov 2026 (Charles River blocks
 # automated checks: check by hand).
+# Evotec: Abingdon (Milton Park) is closing in Evotec's 2026-27 restructuring;
+# UK protein production and crystallography moved to Alderley Park (not yet on
+# Evotec's own pages in Nov 2026). Recheck in spring 2027.
 checked: "November 2026"
 groups:
 - id: companies
@@ -17,6 +20,11 @@ groups:
     url: https://www.domainex.co.uk/services/structural-biology
     description: X-ray crystallography from gene to structure (or entering mid-way), with high-throughput crystallisation and regular synchrotron access; also cryo-EM and protein production.
     techniques: [crystallography, cryo-em, drug-design]
+  - name: Evotec
+    place: Alderley Park
+    url: https://www.evotec.com/discovery/structural-biology-services
+    description: Structural biology for drug discovery (X-ray crystallography, cryo-EM and NMR across its sites), for soluble and membrane proteins, biologics and nucleic acids; in the UK, protein production and crystallography are at Alderley Park.
+    techniques: [crystallography, cryo-em, nmr, drug-design]
   - name: Sygnature Discovery
     place: Nottingham and Alderley Park
     url: https://www.sygnaturediscovery.com/scientific-solutions/protein-science-structural-biology/
