@@ -3,7 +3,7 @@ title: "Structural biology services in the UK"
 linkTitle: "Services"
 description: "UK companies and facilities offering protein crystallography, crystallisation, cryo-EM, fragment screening, bio-SAXS, NMR, mass spectrometry and biophysics as a service, for industry and academia."
 layout: services
-draft: true
+draft: false
 ---
 
 Need a protein structure, crystallisation screening or cryo-EM data, but don't have the equipment or time in-house? These UK companies and facilities offer structural biology as a service, from a single experiment to a full gene-to-structure project.
