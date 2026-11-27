@@ -5,7 +5,7 @@
 # description (one or two plain sentences, from the provider's own page),
 # techniques (ids from data/techniques.yaml).
 # Checked on each provider's own website: 27 Nov 2026 (Charles River and
-# Cambridge checked in a browser). Imperial X-ray and EM, and John Innes Centre, added 27 Nov 2026 (no public prices; ask each facility).
+# Cambridge checked in a browser). Imperial X-ray and EM, and John Innes Centre structural biology and biophysics, added 27 Nov 2026 (no public prices; ask each facility).
 # Evotec: Abingdon (Milton Park) is closing in Evotec's 2026-27 restructuring;
 # UK protein production and crystallography moved to Alderley Park (not yet on
 # Evotec's own pages in Nov 2026). Recheck in spring 2027.
@@ -110,6 +110,11 @@ groups:
     url: https://www.jic.ac.uk/research-impact/technology-research-platforms/structural-biology/
     description: Protein crystallisation with robots and plate imaging, help with data collection at Diamond, processing and analysis; also cryo-EM with the centre's bioimaging platform and eBIC, plus help with SAXS and structure prediction. Open to the wider research community and commercial users; the platform advises on costs and timescales.
     techniques: [crystallography, cryo-em, saxs, modelling-ai]
+  - name: Biophysical Analysis Platform, John Innes Centre
+    place: Norwich
+    url: https://www.jic.ac.uk/research-impact/technology-research-platforms/biophysical-analysis/
+    description: Binding affinity, kinetics and thermodynamics by SPR and ITC, plus mass photometry and CD, for proteins, nucleic acids and small molecules. A full service with data and a report, or training to run the experiments yourself; open to external users, including companies.
+    techniques: [biophysics]
   - name: Protein crystallography, Durham University (XRDur)
     place: Durham
     url: https://dur.ac.uk/departments/academic/chemistry/about-us/services/xrdur/facilities/protein-crystal-structure-determination/
