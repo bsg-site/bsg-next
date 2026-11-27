@@ -4,8 +4,8 @@
 # Each provider: name, place, url (the provider's own services page),
 # description (one or two plain sentences, from the provider's own page),
 # techniques (ids from data/techniques.yaml).
-# Checked on each provider's own website: 27 Nov 2026 (Charles River blocks
-# automated checks: check by hand).
+# Checked on each provider's own website: 27 Nov 2026 (Charles River and
+# Cambridge checked in a browser).
 # Evotec: Abingdon (Milton Park) is closing in Evotec's 2026-27 restructuring;
 # UK protein production and crystallography moved to Alderley Park (not yet on
 # Evotec's own pages in Nov 2026). Recheck in spring 2027.
@@ -33,7 +33,7 @@ groups:
   - name: Charles River
     place: Chesterford Research Park, near Cambridge
     url: https://www.criver.com/products-services/discovery-services/discovery-facilities/cambridge-uk
-    description: Drug discovery services, including structural biology and protein science.
+    description: Integrated drug discovery including structural biology and protein science. Part of the Charles River discovery business that IQVIA agreed to acquire in 2026, so the name may change.
     techniques: [crystallography, drug-design]
 
 - id: national
@@ -93,7 +93,7 @@ groups:
   - name: Crystallographic X-ray Facility, Department of Biochemistry, Cambridge
     place: Cambridge
     url: https://facilities.bioc.cam.ac.uk/xray/Services
-    description: Crystallisation hits, optimisation, diffraction screening and data collection as separate steps, with indicative prices on its page.
+    description: Open to external academic and industrial users. Crystallisation, X-ray fragment screening, data collection and structure solution, charged step by step, with prices on its page.
     techniques: [crystallography]
   - name: Protein crystallography, Durham University (XRDur)
     place: Durham

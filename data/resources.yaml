@@ -726,7 +726,7 @@ groups:
       description: Industrial access to Diamond's facilities and services.
     - name: Charles River (Chesterford Research Park)
       url: https://www.criver.com/products-services/discovery-services/discovery-facilities/cambridge-uk
-      description: Crystallography and fragment screening within integrated drug discovery.
+      description: Crystallography and fragment screening within integrated drug discovery. Part of the Charles River discovery business that IQVIA agreed to acquire in 2026.
       techniques:
       - crystallography
       - drug-design
