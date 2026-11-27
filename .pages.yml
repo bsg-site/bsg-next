@@ -119,6 +119,15 @@ content:
           - { name: label, label: Link text, type: string, required: true, description: 'e.g. "Poster (PDF)"' }
           - { name: file, label: File, type: file, options: { media: documents } }
       - { name: registration, label: Registration link, type: string }
+      - { name: price, label: Registration fee (£), type: number, description: "Optional: the standard fee, for search engines. Leave empty if fees vary or are not known." }
+      - name: speakers
+        label: Speakers
+        type: object
+        list: true
+        description: "Optional: invited speakers, for search engines (the programme on the page still lists them)."
+        fields:
+          - { name: name, label: Name, type: string, required: true }
+          - { name: affiliation, label: Institution, type: string }
       - name: deadlines
         label: Deadlines (abstracts, registration)
         type: object

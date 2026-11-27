@@ -64,7 +64,21 @@
   {{- if eq .Params.kind "spring" }}
     {{- $event = merge $event (dict "organizer" (dict "@type" "Organization" "@id" "https://www.crystallography.org.uk/#organization" "name" "British Crystallographic Association" "url" site.Params.bcaURL) "contributor" $orgRef) }}
   {{- end }}
-  {{- with .Params.poster }}{{ $event = merge $event (dict "image" (strings.TrimPrefix "/" . | absURL)) }}{{ end }}
+  {{- /* Image: the poster, or the site's sharing card. */}}
+  {{- $event = merge $event (dict "image" (strings.TrimPrefix "/" (.Params.poster | default "/images/social-card.png") | absURL)) }}
+  {{- /* Offer: the registration link, valid until the "registration closes" deadline, with the fee if set. */}}
+  {{- with .Params.registration }}
+    {{- $offer := dict "@type" "Offer" "url" . "availability" "https://schema.org/InStock" }}
+    {{- range $.Params.deadlines }}{{ if in (lower .label) "registration closes" }}{{ $offer = merge $offer (dict "validThrough" (time.Format "2006-01-02" .date)) }}{{ end }}{{ end }}
+    {{- with $.Params.price }}{{ $offer = merge $offer (dict "price" . "priceCurrency" "GBP") }}{{ end }}
+    {{- $event = merge $event (dict "offers" $offer) }}
+  {{- end }}
+  {{- /* Performers: the invited speakers. */}}
+  {{- with .Params.speakers }}
+    {{- $people := slice }}
+    {{- range . }}{{ $pp := dict "@type" "Person" "name" .name }}{{ with .affiliation }}{{ $pp = merge $pp (dict "affiliation" (dict "@type" "Organization" "name" .)) }}{{ end }}{{ $people = $people | append $pp }}{{ end }}
+    {{- $event = merge $event (dict "performer" $people) }}
+  {{- end }}
   {{- if eq .Params.city "Online" }}
     {{- $event = merge $event (dict "location" (dict "@type" "VirtualLocation" "url" .Permalink)) }}
   {{- else }}

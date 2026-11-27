@@ -14,6 +14,13 @@ deadlines:
   - { label: "Short-talk abstracts due", date: 2026-11-20 }
   - { label: "Online registration closes", date: 2026-11-30 }
 poster: "/images/meetings/bsg-winter-2026-poster.jpg"
+price: 80
+speakers:
+  - { name: John Christodoulou, affiliation: University College London }
+  - { name: Rebecca Beveridge, affiliation: University of Strathclyde }
+  - { name: Sarah Rouse, affiliation: Imperial College London }
+  - { name: Cyril Dominguez, affiliation: University of Leicester }
+  - { name: Matthew Higgins, affiliation: University of Oxford }
 techniques: [crystallography, cryo-em, nmr, mass-spec]
 ---
 

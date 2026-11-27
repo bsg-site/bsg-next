@@ -16,6 +16,8 @@ deadlines:
   - { label: "Early bird registration ends", date: 2027-02-26 }
   - { label: "Registration closes", date: 2027-03-18 }
 techniques: [crystallography, modelling-ai]
+speakers:
+  - { name: Andrew Lovering, affiliation: University of Birmingham }
 ---
 
 The BSG will run sessions at the BCA Spring Meeting 2027. The meeting, *Diversity in Diffraction*, takes place in person at the University of York from Monday 22 to Wednesday 24 March 2027.
